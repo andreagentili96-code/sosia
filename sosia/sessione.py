@@ -1285,7 +1285,8 @@ class Sessione:
             elif tipo == "TELEFONO" and len(c) >= 8 and c in re.sub(r"\D", "", originale) and c in re.sub(r"\D", "", uscita):
                 fughe.append(tipo)
         for n, u in self.unita.items():
-            pat = rf"(?<![\w]){r'\s+'.join(re.escape(w) for w in u['r'].split())}(?![\w])"
+            _corpo = r"\s+".join(re.escape(w) for w in u["r"].split())  # fuori dalla f-string: compatibile con Python 3.11
+            pat = rf"(?<![\w]){_corpo}(?![\w])"
             for m in re.finditer(pat, uscita, re.I):
                 if m.group(0).islower() or R._precedente(uscita, m.start()) in _SANTI:
                     continue

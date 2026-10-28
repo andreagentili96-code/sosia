@@ -14,6 +14,9 @@ All notable changes to this project are documented here. Format based on
 - Aliases follow the language and origin of each name: English names in English text get English aliases ("Michael
   Brown" no longer becomes an Italian name), Italian names keep Italian aliases, Italian text always uses Italian aliases,
   and when the origin is unclear the language of the sentence decides. Tests added.
+- Places follow the same logic: British and US places get British and US aliases ("Leeds" never becomes an Italian
+  town), Italian municipalities keep Italian aliases even in English text ("Verona"), "City, ST" is always American.
+  Tests added; on the 400 development documents recall is unchanged and false positives drop from 706 to 694.
 - The number of a law quoted with its date ("legge 10 dicembre 2014 n. 162", "D.Lgs. 30 giugno 2003, n. 196") is no
   longer replaced. Tests added.
 

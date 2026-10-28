@@ -53,3 +53,29 @@ def test_numero_di_pratica_dopo_una_data_resta_sostituito():
     t = "Con lettera del 10 dicembre 2025 n. 4812 la banca ha risposto al sig. Mario Rossi."
     s = Sessione(Configurazione(seme=7))
     assert "4812" not in s.pseudonimizza(t, usa_ner=False).testo
+
+
+def _citta_finta(testo, nome):
+    s = Sessione(Configurazione(seme=7))
+    e = s.pseudonimizza(testo, usa_ner=False)
+    assert s.ripristina(e.testo).testo == testo
+    return s.valori[f"CITTA|{norm(nome)}"]["f"]
+
+
+def test_luoghi_britannici_e_americani_alias_coerenti():
+    uk = {c[0] for c in DE.UK_TOWNS} | {c for c, _ in DE.LUOGHI_UK}
+    us = {c[0] for c in DE.US_CITIES} | {c for c, _ in DE.LUOGHI_US}
+    italiani = {c[0] for c in dati.COMUNI}
+    for testo, nome, attesi in (
+        ("Our client now lives in Leeds, near Harrogate, and works in York.", "Leeds", uk),
+        ("Mi sono trasferita a Leeds per lavoro e poi a Manchester.", "Leeds", uk),
+        ("22 Station Road, Leeds LS6 2AB", "Leeds", uk),
+        ("The plaintiff resides in Sacramento, CA 95814 and travels to Houston.", "Sacramento", us),
+    ):
+        f = _citta_finta(testo, nome)
+        assert f in attesi and f not in italiani, (nome, f)
+
+
+def test_luoghi_italiani_in_testo_inglese_restano_italiani():
+    f = _citta_finta("Our client was born in Verona and now lives in Leeds.", "Verona")
+    assert f in {c[0] for c in dati.COMUNI}, f

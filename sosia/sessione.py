@@ -44,6 +44,18 @@ _EN_COGNOMI_BASE = {norm(x) for x in DE.SURNAMES}
 _EN_COGNOMI = _EN_COGNOMI_BASE | DE.COGNOMI_UFF
 
 
+# Origine di un luogo, con la stessa logica: comuni italiani (e i nomi inglesi delle grandi città italiane) contro i
+# luoghi britannici (elenco scritto a mano e OS Open Names) e americani. Frazioni e località ISTAT valgono meno.
+_IT_LUOGHI_FORTI = ({norm(r.split(";")[0]) for f in ("comuni_it.txt", "istat_comuni.txt") for r in dati._righe_diz(f)}
+                    | {norm(c[0]) for c in dati.COMUNI}
+                    | {norm(x) for x in "Milan Rome Florence Venice Naples Turin Genoa Padua Mantua Leghorn".split()})
+_IT_LUOGHI_DEBOLI = {norm(r.split(";")[0]) for f in ("frazioni_it.txt", "istat_localita.txt") for r in dati._righe_diz(f)}
+_UK_LUOGHI = {norm(c) for c, _ in DE.LUOGHI_UK} | {norm(c[0]) for c in DE.UK_TOWNS} | DE.LUOGHI_GB_UFF
+_US_LUOGHI = {norm(c) for c, _ in DE.LUOGHI_US} | {norm(c[0]) for c in DE.US_CITIES}
+_UK_CITTA, _US_CITTA = {norm(c[0]) for c in DE.UK_TOWNS}, {norm(c[0]) for c in DE.US_CITIES}
+_UK_MANO, _US_MANO = {norm(c) for c, _ in DE.LUOGHI_UK}, {norm(c) for c, _ in DE.LUOGHI_US}
+
+
 def _origine_parola(w: str, cognome: bool) -> str | None:
     """«it», «en» oppure None (in entrambi gli elenchi o in nessuno). Un nome che è negli elenchi italiani e non in
     quello inglese scritto a mano è italiano anche se compare nel Census o nell'ONS («Rossi», «Mario»)."""
@@ -467,17 +479,43 @@ class Sessione:
                 return v["fcod"]
         return self._valore("CODCOMUNE", codice_reale, lambda: self._rng.choice(dati.COMUNI)[3])["f"]
 
-    def _citta(self, nome: str, sigla: str | None = None, cap: str | None = None) -> dict:
+    def _origine_luogo(self, nome: str, contesto: str | None = None) -> str | None:
+        """«it», «uk», «us» o None (regola di prima). «Leeds» è britannica in ogni testo; «Verona» e «Roma» sono
+        italiane anche se esistono città omonime negli Stati Uniti, salvo «Verona, WI» (contesto «stato»)."""
+        if contesto == "cap":  # «00185 Roma»: CAP italiano, si resta sulla regola di prima
+            return None
+        if contesto == "stato":
+            return "us"
+        if contesto == "sigla":  # «Bra (CN)»: sigla di provincia italiana
+            return "it"
+        n = norm(nome)
+        if n in _IT_LUOGHI_FORTI:
+            return "it"
+        uk, us = n in _UK_LUOGHI, n in _US_LUOGHI
+        if uk or us:
+            if n in _IT_LUOGHI_DEBOLI and self._lingua == "it":
+                return "it"
+            if uk and us:  # «Leeds» esiste anche in Alabama: decide la città grande, poi il paese del documento
+                uk_forte, us_forte = n in _UK_CITTA, n in _US_CITTA
+                if uk_forte != us_forte:
+                    return "uk" if uk_forte else "us"
+                if n in DE.LUOGHI_GB_UFF or n in _UK_MANO:
+                    return "uk" if self._uk or n not in _US_MANO else "us"
+            return "uk" if uk and not us else "us" if us and not uk else ("uk" if self._uk else "us")
+        return "it" if n in _IT_LUOGHI_DEBOLI else None
+
+    def _citta(self, nome: str, sigla: str | None = None, cap: str | None = None, contesto: str | None = None) -> dict:
         cache: dict = {}
 
         def crea():  # gli insiemi da evitare si calcolano una volta sola per città (non a ogni tentativo)
             if "v" not in cache:
                 cache["v"] = {nome} | {self.valori[k]["f"] for k in self.valori if k.startswith("CITTA|")}
             vietate = cache["v"]
-            if self._lingua != "it" and norm(nome) not in dati.LUOGHI_IT:
+            origine = self._origine_luogo(nome, contesto)
+            if origine in ("uk", "us") or (origine is None and self._lingua != "it" and norm(nome) not in dati.LUOGHI_IT):
                 if "en" not in cache:
                     cache["en"] = vietate | {c[0] for c in DE.US_CITIES + DE.UK_TOWNS if norm(c[0]) in self._testo_norm}
-                al = EN.finta_citta(self._rng, self._uk, cache["en"])
+                al = EN.finta_citta(self._rng, origine == "uk" if origine else self._uk, cache["en"])
                 return {"f": al[0], "fs": al[1] if len(al[1]) == 2 else "", "fcap": al[2], "fcod": "", "en": True}
             if "it" not in cache:
                 cache["it"] = vietate | {c[0] for c in dati.COMUNI if norm(c[0]) in self._parole_testo}
@@ -955,13 +993,13 @@ class Sessione:
             m = re.match(r"(\d{5})", s.testo)
             nome = s.meta["citta"]
             sig = re.search(r"\(([A-Z]{2})\)\s*$", s.testo)
-            self._citta(nome, sig.group(1) if sig else None)
+            self._citta(nome, sig.group(1) if sig else None, contesto="cap")
         elif s.meta.get("stato"):
-            self._citta(s.meta["citta"])
+            self._citta(s.meta["citta"], contesto="stato")
         else:
             nome = re.sub(r"\s*\([A-Z]{2}\)\s*$", "", s.testo)
             sig = re.search(r"\(([A-Z]{2})\)\s*$", s.testo)
-            self._citta(nome, sig.group(1) if sig else None)
+            self._citta(nome, sig.group(1) if sig else None, contesto="sigla" if sig else None)
 
     def _sostituto(self, testo: str, s: R.Span, avvisi: list) -> str | None:
         t, v = s.tipo, s.testo

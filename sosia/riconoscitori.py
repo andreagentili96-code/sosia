@@ -658,6 +658,21 @@ def _codice_plausibile(v: str) -> bool:
     return cifre >= 3
 
 
+# «legge 10 dicembre 2014 n. 162», «D.Lgs. 30 giugno 2003, n. 196», «D.P.R. 22/12/1986 n. 917»: il numero dopo la
+# data di un atto normativo è un riferimento pubblico, non un codice da sostituire.
+RE_NORMATIVA_CON_DATA = re.compile(
+    r"(?i)(?<![\w])(?:legge|l\.|d\.?\s?lgs|decreto[\s-]+legislativo|decreto[\s-]+legge|d\.?\s?l\.|d\.?\s?p\.?\s?r|"
+    r"d\.?\s?p\.?\s?c\.?\s?m|d\.?\s?m\.|r\.?\s?d\.|regolamento(?:\s+\(?ue\)?)?|direttiva(?:\s+\(?ue\)?)?|circolare)\.?\s+"
+    r"(?:del\s+)?(?:\d{1,2}°?\s+[a-zà-ù]+\.?\s+\d{4}|\d{1,2}[./-]\d{1,2}[./-]\d{2,4})\s*,?\s*(?:n\.|n°|nr\.?|numero)?\s*$")
+
+
+def _dopo_normativa(testo: str, inizio: int) -> bool:
+    prima = testo[max(0, inizio - 30):inizio]
+    if RE_NORMATIVA_VICINA.search(prima) or RE_NORMATIVA_EN.search(prima):
+        return True
+    return RE_NORMATIVA_CON_DATA.search(testo[max(0, inizio - 70):inizio]) is not None
+
+
 def trova_codici(testo: str) -> list[Span]:
     out = []
     for m in RE_TOKEN_CODICE.finditer(testo):
@@ -665,7 +680,7 @@ def trova_codici(testo: str) -> list[Span]:
         if not _codice_plausibile(v):
             continue
         prima = testo[max(0, m.start() - 30):m.start()]
-        if RE_NORMATIVA_VICINA.search(prima) or RE_NORMATIVA_EN.search(prima):
+        if _dopo_normativa(testo, m.start()):
             continue
         if re.fullmatch(r"\d{1,6}/(?:19|20)\d\d", v) and not re.search(r"(?i)(?:n\.|n°|nr\.|no\.|#|numero|number|prot|rif|r\.g|rep|pratica|ricorso|causa)[^\n]{0,12}$", prima):
             continue  # «482/2025» da solo può essere altro; con «n.» o «prot.» è un numero di pratica
@@ -674,8 +689,7 @@ def trova_codici(testo: str) -> list[Span]:
     for m in RE_GRUPPI_4.finditer(testo):
         out.append(Span(m.start(), m.end(), "CODICE", m.group(0), 0.7))
     for m in RE_NUMERO_DOPO_ETICHETTA.finditer(testo):
-        prima = testo[max(0, m.start() - 30):m.start()]
-        if RE_NORMATIVA_VICINA.search(prima) or RE_NORMATIVA_EN.search(prima):
+        if _dopo_normativa(testo, m.start()):
             continue
         out.append(Span(m.start("v"), m.end("v"), "CODICE", m.group("v"), 0.7))
     return out

@@ -35,6 +35,50 @@ _CIFRE = {"PIVA", "CARTA", "NUMERO", "SSN", "ITIN", "NHS", "ROUTING", "SORTCODE"
 _FONTI_EN = {"title", "cue", "label", "last-first", "dictionary", "first-name", "surname"}
 _SANTI = {"san", "santa", "santo", "sant'", "s.", "ss.", "beata", "beato", "madonna"}
 
+# Origine di un nome per scegliere gli alias: elenchi solo italiani contro elenchi inglesi (scritti a mano, ONS, Census).
+_IT_NOMI = {norm(x) for x in dati.NOMI_M + dati.NOMI_F} | dati.NOMI_UFF
+_IT_COGNOMI = {norm(x) for x in dati.COGNOMI} | dati.COGNOMI_UFF
+_EN_NOMI_BASE = {norm(x) for x in DE.FIRST_M + DE.FIRST_F}
+_EN_NOMI = _EN_NOMI_BASE | DE.NOMI_UFF_M | DE.NOMI_UFF_F
+_EN_COGNOMI_BASE = {norm(x) for x in DE.SURNAMES}
+_EN_COGNOMI = _EN_COGNOMI_BASE | DE.COGNOMI_UFF
+
+
+def _origine_parola(w: str, cognome: bool) -> str | None:
+    """«it», «en» oppure None (in entrambi gli elenchi o in nessuno). Un nome che è negli elenchi italiani e non in
+    quello inglese scritto a mano è italiano anche se compare nel Census o nell'ONS («Rossi», «Mario»)."""
+    w = norm(w)
+    it = w in (_IT_COGNOMI if cognome else _IT_NOMI)
+    base = w in (_EN_COGNOMI_BASE if cognome else _EN_NOMI_BASE)
+    en = w in (_EN_COGNOMI if cognome else _EN_NOMI)
+    if it and not base:
+        return "it"
+    if en and not it:
+        return "en"
+    return None
+
+
+def origine_nome(nomi: list[str], cognome: str | None) -> str | None:
+    """Decide il cognome; se non basta, i nomi di battesimo."""
+    if cognome:
+        o = _origine_parola(cognome.split()[-1], True)
+        if o:
+            return o
+    origini = {_origine_parola(w, False) for w in nomi} - {None}
+    return origini.pop() if len(origini) == 1 else None
+
+
+def _lingua_frase(testo: str, pos: int) -> str | None:
+    """Lingua della frase che contiene `pos`, solo se i segnali bastano (almeno due parole riconosciute)."""
+    a = max(testo.rfind(c, 0, pos) for c in ".!?\n") + 1
+    fini = [i for i in (testo.find(c, pos) for c in ".!?\n") if i >= 0]
+    parole = EN.RE_PAROLE.findall(testo[a:min(fini) if fini else len(testo)].lower())
+    it = sum(w in EN._IT for w in parole)
+    en = sum(w in EN._EN and w not in EN._IT for w in parole)
+    if it + en < 2 or it == en:
+        return None
+    return "it" if it > en else "en"
+
 
 ISTRUZIONI_MARCATORI = (
     "Non conosci la data di oggi e non devi indovinarla. Quando una risposta dipende da oggi, scrivi un marcatore "
@@ -697,14 +741,22 @@ class Sessione:
                 p = s.meta["cand"]
                 nomi, cognome = [], None
                 en = p.fonte in _FONTI_EN or (lingua != "it" and p.fonte in ("ner", "attesa-modello"))
-                italiani = all(norm(w[2]) in R.NOMI or norm(w[2]) in R.COGNOMI for w in p.parole)
-                self._pool_en = lingua != "it" and not italiani  # nomi italiani in un testo inglese restano italiani
-                ruoli = p.ruoli or (EN.ruoli_en(p.parole) if en and not italiani else R.ruoli(p.parole, p.genere))
+                noti = all(norm(w[2]) in R.NOMI or norm(w[2]) in R.COGNOMI for w in p.parole)
+                ruoli = p.ruoli or (EN.ruoli_en(p.parole) if en and (lingua != "it" or not noti) else R.ruoli(p.parole, p.genere))
                 for ruolo, a, b, _ in ruoli:
                     if ruolo == "nome":
                         nomi.append(testo[a:b])
                     else:
                         cognome = testo[a:b]
+                # Alias: in un testo italiano sempre italiani; altrimenti secondo l'origine del nome («Michael Brown»
+                # inglese, «Anna Rossi» italiana) e, se l'origine è incerta, secondo la lingua della frase.
+                if lingua == "it":
+                    self._pool_en = False
+                else:
+                    origine = origine_nome(nomi, cognome)
+                    if origine is None:  # origine incerta: la lingua della frase, se è chiara; altrimenti l'inglese
+                        origine = _lingua_frase(testo, p.parole[0][0]) or "en"
+                    self._pool_en = origine == "en"
                 self.registra_persona(" ".join(nomi) or None, cognome, p.genere, vietati)
                 if p.fonte == "minuscolo":  # le occorrenze in minuscolo di questo nome vanno sostituite e ripristinate
                     for w in nomi:

@@ -46,10 +46,6 @@ the sense of Article 4 GDPR: whoever holds the map can get back to the real data
   characters).
 - **False positives.** In leak-proof mode, capitalised titles, drug names, brands and section names are replaced too.
   The restore puts them back, but the model works on a stranger text.
-- **Law numbers.** The number of a law quoted with its date ("legge 10 dicembre 2014 n. 162") can be replaced as a
-  generic code: the date stays, the number comes back on restore, but the model reads a wrong number.
-- **Italian aliases in English texts.** Common English names that also appear in the Italian lists ("Michael Brown")
-  can receive an Italian alias. Restoring is unaffected, but the fake text reads less naturally.
 - **Health data.** By default diagnoses are only flagged, not changed: a model reading a therapy next to an unrelated
   disease gets confused. People are always replaced; with `sanitari="sostituisci"` diagnoses are changed as well.
 - **Companies and amounts.** Company names are not replaced by default (`--aziende` to do it); amounts are never

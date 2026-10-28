@@ -47,11 +47,6 @@ nel senso dell'art. 4 del GDPR: chi tiene la mappa può tornare ai dati veri. Qu
   su caratteri rari).
 - **Falsi positivi.** In modalità «a prova di fuga» si sostituiscono anche titoli in maiuscolo, farmaci, marche e nomi
   di sezioni. Il ripristino li rimette a posto, ma il modello lavora su un testo più strano.
-- **Numeri delle leggi.** Il numero di una legge citata con la data («legge 10 dicembre 2014 n. 162») può essere
-  sostituito come un codice generico: la data resta, il numero torna giusto al ripristino, ma il modello legge un numero
-  sbagliato.
-- **Alias italiani in testi inglesi.** Nomi inglesi comuni che compaiono anche negli elenchi italiani («Michael Brown»)
-  possono ricevere un alias italiano. Il ripristino non cambia, ma il testo finto è meno naturale.
 - **Dati sanitari.** Per default le patologie sono solo segnalate, non cambiate: un modello che legge una terapia con
   una malattia che non c'entra si confonde. Le persone sono comunque sostituite; con `sanitari="sostituisci"` si cambia
   anche la patologia.

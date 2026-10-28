@@ -1,4 +1,6 @@
 """0.5.0, nomi e luoghi: soprannomi in mezzo, coppie, iniziali, minuscolo, vie senza «via», carte. Dati inventati."""
+import re
+
 from sosia import Sessione
 
 
@@ -20,8 +22,8 @@ def test_nomi_difficili():
     ]
     for testo, veri in casi:
         finto = _giro(testo)
-        for v in veri:
-            assert v not in finto, (v, finto)
+        for v in veri:  # parola intera: un alias come «giuliana» non è una fuga di «giulia»
+            assert not re.search(rf"(?<!\w){re.escape(v)}(?!\w)", finto), (v, finto)
 
 
 def test_vie_senza_prefisso_e_carte():

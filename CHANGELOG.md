@@ -11,6 +11,11 @@ All notable changes to this project are documented here. Format based on
   and macOS. The default model folder is now `$SOSIA_MODELLI` or the user's local data folder.
 - The benchmark documents are kept outside the repository, so that future measurements stay blind.
 - CLI: no longer fails when the console or pipe encoding cannot print `⟦` (cp1252 on Windows); test added.
+- Aliases follow the language and origin of each name: English names in English text get English aliases ("Michael
+  Brown" no longer becomes an Italian name), Italian names keep Italian aliases, Italian text always uses Italian aliases,
+  and when the origin is unclear the language of the sentence decides. Tests added.
+- The number of a law quoted with its date ("legge 10 dicembre 2014 n. 162", "D.Lgs. 30 giugno 2003, n. 196") is no
+  longer replaced. Tests added.
 
 ## [0.6.0] - 2026-10-28
 

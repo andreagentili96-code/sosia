@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: test (${{ matrix.os }}, py${{ matrix.python }})
+    runs-on: ${{ matrix.os }}
+    # Windows is the reference platform (DPAPI vault). Linux and macOS use the scrypt vault and do not block yet.
+    continue-on-error: ${{ matrix.os != 'windows-latest' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest, macos-latest]
+        python: ["3.11", "3.12", "3.13"]
+    env:
+      SOSIA_PAROLA: ci-only-test-passphrase
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+      - name: Install (rules only, no NER model)
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e ".[test,xlsx]"
+      - name: Tests (GLiNER tests are skipped without the model)
+        run: python -m pytest -q
+      - name: Quickstart example
+        run: python examples/quickstart.py

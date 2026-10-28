@@ -1,0 +1,64 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sosia"
+version = "0.6.0"
+description = "Reversible, realistic pseudonymization for LLMs: realistic, consistent surrogates (valid Italian codice fiscale, IBAN, partita IVA, US SSN, UK NHS/NI numbers, week-aligned date shifting, Italian and English) sent to the cloud, real data restored in the answer, streaming included. Local proxy for Anthropic and OpenAI APIs."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [{ name = "Sosia contributors" }]
+keywords = [
+  "privacy", "pii", "pseudonymization", "pseudonimizzazione", "gdpr", "llm", "proxy",
+  "anthropic", "openai", "codice-fiscale", "iban", "date-shifting", "surrogates", "gliner",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Legal Industry",
+  "Intended Audience :: Healthcare Industry",
+  "Natural Language :: Italian",
+  "Natural Language :: English",
+  "Operating System :: Microsoft :: Windows",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Security",
+  "Topic :: Text Processing",
+]
+dependencies = [
+  "cryptography>=41",   # AES-GCM for the encrypted local map
+]
+
+[project.optional-dependencies]
+proxy = ["starlette>=0.37", "uvicorn>=0.29", "httpx>=0.27"]
+pdf = ["pypdf>=4"]
+xlsx = ["openpyxl>=3.1"]
+ner-gliner = ["gliner>=0.2", "sentencepiece>=0.2", "tokenizers>=0.20"]
+ner-spacy = ["spacy>=3.7"]
+test = ["pytest>=8", "openpyxl>=3.1", "starlette>=0.37", "uvicorn>=0.29", "httpx>=0.27", "pypdf>=4"]
+all = ["sosia[proxy,pdf,xlsx,ner-gliner]"]
+
+[project.urls]
+Homepage = "https://github.com/OWNER/sosia"
+Issues = "https://github.com/OWNER/sosia/issues"
+Changelog = "https://github.com/OWNER/sosia/blob/main/CHANGELOG.md"
+
+[project.scripts]
+sosia = "sosia.cli:principale"
+
+[tool.setuptools.packages.find]
+include = ["sosia*"]
+
+[tool.setuptools.package-data]
+sosia = ["dizionari/*.txt", "dizionari/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["gliner: needs the optional local GLiNER model (skipped when it is missing)"]

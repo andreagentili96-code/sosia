@@ -1,0 +1,15 @@
+{
+  "cliente": {
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "codice_fiscale": "RSSMRA78C14H501O",
+    "citta": "Roma",
+    "telefono": "+39 347 123 4567",
+    "email": "m.rossi78@example.com"
+  },
+  "note": [
+    "Il 18/09/2026 il sig. Rossi ha chiesto un preventivo.",
+    "Richiamare entro il 30/10/2026."
+  ],
+  "importo": 1250.0
+}

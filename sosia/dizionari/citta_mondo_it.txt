@@ -1,0 +1,1929 @@
+Bucarest;Romania
+București;Romania
+Bucuresti;Romania
+Cluj-Napoca;Romania
+Cluj;Romania
+Timișoara;Romania
+Timisoara;Romania
+Iași;Romania
+Iasi;Romania
+Giassi;Romania
+Costanza;Romania
+Constanța;Romania
+Constanta;Romania
+Craiova;Romania
+Brașov;Romania
+Brasov;Romania
+Galați;Romania
+Galati;Romania
+Ploiești;Romania
+Ploiesti;Romania
+Oradea;Romania
+Brăila;Romania
+Braila;Romania
+Arad;Romania
+Pitești;Romania
+Pitesti;Romania
+Sibiu;Romania
+Bacău;Romania
+Bacau;Romania
+Târgu Mureș;Romania
+Targu Mures;Romania
+Baia Mare;Romania
+Buzău;Romania
+Buzau;Romania
+Botoșani;Romania
+Botosani;Romania
+Satu Mare;Romania
+Râmnicu Vâlcea;Romania
+Ramnicu Valcea;Romania
+Suceava;Romania
+Piatra Neamț;Romania
+Piatra Neamt;Romania
+Drobeta-Turnu Severin;Romania
+Târgu Jiu;Romania
+Targu Jiu;Romania
+Târgoviște;Romania
+Targoviste;Romania
+Focșani;Romania
+Focsani;Romania
+Bistrița;Romania
+Bistrita;Romania
+Tulcea;Romania
+Reșița;Romania
+Resita;Romania
+Slatina;Romania
+Călărași;Romania
+Calarasi;Romania
+Alba Iulia;Romania
+Giurgiu;Romania
+Deva;Romania
+Hunedoara;Romania
+Zalău;Romania
+Zalau;Romania
+Sfântu Gheorghe;Romania
+Vaslui;Romania
+Roman;Romania
+Turda;Romania
+Mediaș;Romania
+Medias;Romania
+Slobozia;Romania
+Alexandria;Romania
+Voluntari;Romania
+Lugoj;Romania
+Medgidia;Romania
+Onești;Romania
+Onesti;Romania
+Miercurea Ciuc;Romania
+Petroșani;Romania
+Petrosani;Romania
+Tecuci;Romania
+Mangalia;Romania
+Rădăuți;Romania
+Radauti;Romania
+Curtea de Argeș;Romania
+Câmpina;Romania
+Campina;Romania
+Fălticeni;Romania
+Falticeni;Romania
+Dej;Romania
+Caracal;Romania
+Făgăraș;Romania
+Fagaras;Romania
+Sighetu Marmației;Romania
+Sighisoara;Romania
+Sighișoara;Romania
+Mioveni;Romania
+Pașcani;Romania
+Pascani;Romania
+Câmpulung;Romania
+Campulung;Romania
+Râmnicu Sărat;Romania
+Vulcan;Romania
+Bârlad;Romania
+Barlad;Romania
+Husi;Romania
+Huși;Romania
+Odorheiu Secuiesc;Romania
+Tirana;Albania
+Durazzo;Albania
+Durrës;Albania
+Durres;Albania
+Valona;Albania
+Vlorë;Albania
+Vlore;Albania
+Scutari;Albania
+Shkodër;Albania
+Shkoder;Albania
+Elbasan;Albania
+Coriza;Albania
+Korçë;Albania
+Korce;Albania
+Fier;Albania
+Berat;Albania
+Lushnje;Albania
+Kavaje;Albania
+Kavajë;Albania
+Pogradec;Albania
+Argirocastro;Albania
+Gjirokastër;Albania
+Gjirokaster;Albania
+Kukës;Albania
+Kukes;Albania
+Lezhë;Albania
+Lezhe;Albania
+Alessio;Albania
+Sarandë;Albania
+Saranda;Albania
+Santi Quaranta;Albania
+Peshkopi;Albania
+Burrel;Albania
+Kruja;Albania
+Krujë;Albania
+Laç;Albania
+Lac;Albania
+Patos;Albania
+Ballsh;Albania
+Cerrik;Albania
+Rrogozhinë;Albania
+Rrogozhine;Albania
+Librazhd;Albania
+Gramsh;Albania
+Përmet;Albania
+Permet;Albania
+Tepelenë;Albania
+Tepelene;Albania
+Delvina;Albania
+Memaliaj;Albania
+Fushë-Krujë;Albania
+Fushe-Kruje;Albania
+Kamëz;Albania
+Kamez;Albania
+Vorë;Albania
+Casablanca;Marocco
+Dar el Beida;Marocco
+Rabat;Marocco
+Fez;Marocco
+Marrakech;Marocco
+Marrakesh;Marocco
+Tangeri;Marocco
+Tanger;Marocco
+Agadir;Marocco
+Meknès;Marocco
+Meknes;Marocco
+Oujda;Marocco
+Kenitra;Marocco
+Tetouan;Marocco
+Tétouan;Marocco
+Safi;Marocco
+El Jadida;Marocco
+Béni Mellal;Marocco
+Beni Mellal;Marocco
+Nador;Marocco
+Khouribga;Marocco
+Settat;Marocco
+Mohammedia;Marocco
+Larache;Marocco
+Khemisset;Marocco
+Khémisset;Marocco
+Berkane;Marocco
+Taza;Marocco
+Essaouira;Marocco
+Mogador;Marocco
+Ouarzazate;Marocco
+Al Hoceima;Marocco
+Alhucemas;Marocco
+Errachidia;Marocco
+Sidi Kacem;Marocco
+Sidi Slimane;Marocco
+Tiznit;Marocco
+Taroudant;Marocco
+Guelmim;Marocco
+Laayoune;Marocco
+El Ksar El Kebir;Marocco
+Ksar el Kebir;Marocco
+Azrou;Marocco
+Ifrane;Marocco
+Fquih Ben Salah;Marocco
+Fkih Ben Salah;Marocco
+Youssoufia;Marocco
+Oued Zem;Marocco
+Sefrou;Marocco
+Taounate;Marocco
+Chefchaouen;Marocco
+Chaouen;Marocco
+Ouezzane;Marocco
+Midelt;Marocco
+Zagora;Marocco
+Tan-Tan;Marocco
+Dakhla;Marocco
+Skhirat;Marocco
+Temara;Marocco
+Salé;Marocco
+Berrechid;Marocco
+Benslimane;Marocco
+Azemmour;Marocco
+Kasba Tadla;Marocco
+Azilal;Marocco
+Boujdour;Marocco
+Smara;Marocco
+Kiev;Ucraina
+Kyiv;Ucraina
+Charkiv;Ucraina
+Kharkiv;Ucraina
+Kharkov;Ucraina
+Odessa;Ucraina
+Odesa;Ucraina
+Leopoli;Ucraina
+Lviv;Ucraina
+Lvov;Ucraina
+Dnipro;Ucraina
+Dnepropetrovsk;Ucraina
+Dnipropetrovsk;Ucraina
+Doneck;Ucraina
+Donetsk;Ucraina
+Zaporižžja;Ucraina
+Zaporizhzhia;Ucraina
+Zaporozhye;Ucraina
+Kryvyj Rih;Ucraina
+Kryvyi Rih;Ucraina
+Mykolaïv;Ucraina
+Mykolaiv;Ucraina
+Nikolaev;Ucraina
+Mariupol;Ucraina
+Luhansk;Ucraina
+Lugansk;Ucraina
+Vinnycja;Ucraina
+Vinnytsia;Ucraina
+Vinnitsa;Ucraina
+Cherson;Ucraina
+Kherson;Ucraina
+Poltava;Ucraina
+Černihiv;Ucraina
+Chernihiv;Ucraina
+Cernigov;Ucraina
+Čerkasy;Ucraina
+Cherkasy;Ucraina
+Sumy;Ucraina
+Chmel'nyc'kyj;Ucraina
+Khmelnytskyi;Ucraina
+Chmelnickij;Ucraina
+Žytomyr;Ucraina
+Zhytomyr;Ucraina
+Zitomir;Ucraina
+Rivne;Ucraina
+Rovno;Ucraina
+Ivano-Frankivs'k;Ucraina
+Ivano-Frankivsk;Ucraina
+Ternopil;Ucraina
+Ternopil';Ucraina
+Tarnopol;Ucraina
+Luc'k;Ucraina
+Lutsk;Ucraina
+Uzhhorod;Ucraina
+Užhorod;Ucraina
+Uzhgorod;Ucraina
+Černivci;Ucraina
+Chernivtsi;Ucraina
+Cernovcy;Ucraina
+Černovicy;Ucraina
+Kropyvnyc'kyj;Ucraina
+Kropyvnytskyi;Ucraina
+Kirovohrad;Ucraina
+Kremenčuk;Ucraina
+Kremenchuk;Ucraina
+Bila Cerkva;Ucraina
+Bila Tserkva;Ucraina
+Melitopol;Ucraina
+Berdjans'k;Ucraina
+Berdiansk;Ucraina
+Nikopol;Ucraina
+Slov'jans'k;Ucraina
+Sloviansk;Ucraina
+Kramators'k;Ucraina
+Kramatorsk;Ucraina
+Bakhmut;Ucraina
+Severodoneck;Ucraina
+Sievierodonetsk;Ucraina
+Alčevs'k;Ucraina
+Alchevsk;Ucraina
+Horlivka;Ucraina
+Gorlovka;Ucraina
+Makiïvka;Ucraina
+Makiivka;Ucraina
+Jenakijeve;Ucraina
+Yenakiieve;Ucraina
+Simferopol;Ucraina
+Sebastopoli;Ucraina
+Sevastopol;Ucraina
+Kerč;Ucraina
+Kerch;Ucraina
+Jalta;Ucraina
+Yalta;Ucraina
+Feodosija;Ucraina
+Feodosia;Ucraina
+Evpatoria;Ucraina
+Yevpatoria;Ucraina
+Brody;Ucraina
+Drohobyč;Ucraina
+Drohobych;Ucraina
+Stryj;Ucraina
+Kolomyja;Ucraina
+Kolomyia;Ucraina
+Mukačevo;Ucraina
+Mukachevo;Ucraina
+Chust;Ucraina
+Berehove;Ucraina
+Sambir;Ucraina
+Kovel;Ucraina
+Novovolynsk;Ucraina
+Korosten;Ucraina
+Berdyčiv;Ucraina
+Berdychiv;Ucraina
+Uman;Ucraina
+Pervomajs'k;Ucraina
+Pavlohrad;Ucraina
+Pavlograd;Ucraina
+Kamjans'ke;Ucraina
+Kamianske;Ucraina
+Dniprodzerzhynsk;Ucraina
+Nova Kachovka;Ucraina
+Henichesk;Ucraina
+Izmail;Ucraina
+Izmajil;Ucraina
+Bilhorod-Dnistrovs'kyj;Ucraina
+Belgorod-Dnestrovskij;Ucraina
+Chisinau;Moldavia
+Chișinău;Moldavia
+Kishinev;Moldavia
+Cisinau;Moldavia
+Bălți;Moldavia
+Balti;Moldavia
+Bielci;Moldavia
+Tiraspol;Moldavia
+Bender;Moldavia
+Tighina;Moldavia
+Rîbnița;Moldavia
+Ribnita;Moldavia
+Cahul;Moldavia
+Ungheni;Moldavia
+Soroca;Moldavia
+Orhei;Moldavia
+Dubăsari;Moldavia
+Dubasari;Moldavia
+Comrat;Moldavia
+Ceadîr-Lunga;Moldavia
+Edineț;Moldavia
+Edinet;Moldavia
+Strășeni;Moldavia
+Straseni;Moldavia
+Hîncești;Moldavia
+Hincesti;Moldavia
+Căușeni;Moldavia
+Causeni;Moldavia
+Drochia;Moldavia
+Fălești;Moldavia
+Falesti;Moldavia
+Florești;Moldavia
+Floresti;Moldavia
+Briceni;Moldavia
+Ocnița;Moldavia
+Ocnita;Moldavia
+Rezina;Moldavia
+Sîngerei;Moldavia
+Singerei;Moldavia
+Nisporeni;Moldavia
+Criuleni;Moldavia
+Anenii Noi;Moldavia
+Ialoveni;Moldavia
+Cimișlia;Moldavia
+Cimislia;Moldavia
+Basarabeasca;Moldavia
+Taraclia;Moldavia
+Vulcănești;Moldavia
+Vulcanesti;Moldavia
+Leova;Moldavia
+Cantemir;Moldavia
+Pechino;Cina
+Beijing;Cina
+Shanghai;Cina
+Scianghai;Cina
+Canton;Cina
+Guangzhou;Cina
+Shenzhen;Cina
+Tientsin;Cina
+Tianjin;Cina
+Wenzhou;Cina
+Wenchow;Cina
+Qingtian;Cina
+Chongqing;Cina
+Chungking;Cina
+Chengdu;Cina
+Wuhan;Cina
+Nanchino;Cina
+Nanjing;Cina
+Xi'an;Cina
+Xian;Cina
+Hangzhou;Cina
+Harbin;Cina
+Shenyang;Cina
+Mukden;Cina
+Dalian;Cina
+Jinan;Cina
+Qingdao;Cina
+Zhengzhou;Cina
+Changsha;Cina
+Kunming;Cina
+Fuzhou;Cina
+Xiamen;Cina
+Amoy;Cina
+Ningbo;Cina
+Suzhou;Cina
+Wuxi;Cina
+Hefei;Cina
+Nanchang;Cina
+Taiyuan;Cina
+Shijiazhuang;Cina
+Changchun;Cina
+Urumqi;Cina
+Lanzhou;Cina
+Guiyang;Cina
+Nanning;Cina
+Haikou;Cina
+Hohhot;Cina
+Yinchuan;Cina
+Xining;Cina
+Lhasa;Cina
+Foshan;Cina
+Dongguan;Cina
+Zhongshan;Cina
+Zhuhai;Cina
+Shantou;Cina
+Jiangmen;Cina
+Huizhou;Cina
+Wenling;Cina
+Taizhou;Cina
+Jinhua;Cina
+Yiwu;Cina
+Lishui;Cina
+Ruian;Cina
+Rui'an;Cina
+Yueqing;Cina
+Pingyang;Cina
+Cangnan;Cina
+Wencheng;Cina
+Taishun;Cina
+Fuqing;Cina
+Changle;Cina
+Putian;Cina
+Quanzhou;Cina
+Zhangzhou;Cina
+Sanming;Cina
+Nantong;Cina
+Yangzhou;Cina
+Zhenjiang;Cina
+Changzhou;Cina
+Xuzhou;Cina
+Yantai;Cina
+Weihai;Cina
+Weifang;Cina
+Linyi;Cina
+Zibo;Cina
+Luoyang;Cina
+Kaifeng;Cina
+Anyang;Cina
+Baoding;Cina
+Tangshan;Cina
+Handan;Cina
+Datong;Cina
+Baotou;Cina
+Anshan;Cina
+Fushun;Cina
+Jilin;Cina
+Qiqihar;Cina
+Daqing;Cina
+Hong Kong;Cina
+Macao;Cina
+Taipei;Taiwan
+Kaohsiung;Taiwan
+Taichung;Taiwan
+Manila;Filippine
+Quezon City;Filippine
+Cebu;Filippine
+Cebu City;Filippine
+Davao;Filippine
+Davao City;Filippine
+Zamboanga;Filippine
+Zamboanga City;Filippine
+Caloocan;Filippine
+Makati;Filippine
+Pasig;Filippine
+Taguig;Filippine
+Cagayan de Oro;Filippine
+Bacolod;Filippine
+Iloilo;Filippine
+Baguio;Filippine
+General Santos;Filippine
+Angeles City;Filippine
+Antipolo;Filippine
+Parañaque;Filippine
+Paranaque;Filippine
+Las Piñas;Filippine
+Las Pinas;Filippine
+Marikina;Filippine
+Muntinlupa;Filippine
+Valenzuela;Filippine
+Malabon;Filippine
+Navotas;Filippine
+Mandaluyong;Filippine
+San Juan;Filippine
+Pasay;Filippine
+Cavite;Filippine
+Batangas;Filippine
+Lipa;Filippine
+Tarlac;Filippine
+Dagupan;Filippine
+San Fernando;Filippine
+Olongapo;Filippine
+Legazpi;Filippine
+Naga;Filippine
+Tacloban;Filippine
+Butuan;Filippine
+Cotabato;Filippine
+Iligan;Filippine
+Dumaguete;Filippine
+Puerto Princesa;Filippine
+Laoag;Filippine
+Vigan;Filippine
+Lucena;Filippine
+Calamba;Filippine
+Santa Rosa;Filippine
+Binan;Filippine
+Biñan;Filippine
+Bacoor;Filippine
+Imus;Filippine
+Dasmariñas;Filippine
+Dasmarinas;Filippine
+Malolos;Filippine
+Meycauayan;Filippine
+San Jose del Monte;Filippine
+Cabanatuan;Filippine
+Mandaue;Filippine
+Lapu-Lapu;Filippine
+Talisay;Filippine
+Roxas;Filippine
+Kalibo;Filippine
+Ormoc;Filippine
+Calbayog;Filippine
+Surigao;Filippine
+Dipolog;Filippine
+Pagadian;Filippine
+Marawi;Filippine
+Tagum;Filippine
+Digos;Filippine
+Koronadal;Filippine
+Kidapawan;Filippine
+Valencia;Filippine
+Delhi;India
+Nuova Delhi;India
+New Delhi;India
+Mumbai;India
+Bombay;India
+Calcutta;India
+Kolkata;India
+Chennai;India
+Madras;India
+Bangalore;India
+Bengaluru;India
+Hyderabad;India
+Ahmedabad;India
+Pune;India
+Poona;India
+Surat;India
+Jaipur;India
+Lucknow;India
+Kanpur;India
+Nagpur;India
+Indore;India
+Bhopal;India
+Patna;India
+Vadodara;India
+Baroda;India
+Ludhiana;India
+Agra;India
+Nashik;India
+Amritsar;India
+Chandigarh;India
+Jalandhar;India
+Hoshiarpur;India
+Kapurthala;India
+Patiala;India
+Ambala;India
+Moga;India
+Phagwara;India
+Nawanshahr;India
+Gurdaspur;India
+Batala;India
+Faridkot;India
+Ferozepur;India
+Bathinda;India
+Sangrur;India
+Ropar;India
+Varanasi;India
+Benares;India
+Allahabad;India
+Prayagraj;India
+Meerut;India
+Visakhapatnam;India
+Thiruvananthapuram;India
+Trivandrum;India
+Kochi;India
+Cochin;India
+Kozhikode;India
+Calicut;India
+Coimbatore;India
+Madurai;India
+Mysore;India
+Mangalore;India
+Panaji;India
+Bhubaneswar;India
+Guwahati;India
+Ranchi;India
+Dehradun;India
+Shimla;India
+Srinagar;India
+Jammu;India
+Gurgaon;India
+Gurugram;India
+Noida;India
+Faridabad;India
+Ghaziabad;India
+Rajkot;India
+Dhaka;Bangladesh
+Dacca;Bangladesh
+Chittagong;Bangladesh
+Chattogram;Bangladesh
+Khulna;Bangladesh
+Rajshahi;Bangladesh
+Sylhet;Bangladesh
+Barisal;Bangladesh
+Barishal;Bangladesh
+Rangpur;Bangladesh
+Comilla;Bangladesh
+Cumilla;Bangladesh
+Mymensingh;Bangladesh
+Narayanganj;Bangladesh
+Gazipur;Bangladesh
+Jessore;Bangladesh
+Jashore;Bangladesh
+Bogra;Bangladesh
+Bogura;Bangladesh
+Dinajpur;Bangladesh
+Tangail;Bangladesh
+Faridpur;Bangladesh
+Noakhali;Bangladesh
+Cox's Bazar;Bangladesh
+Brahmanbaria;Bangladesh
+Madaripur;Bangladesh
+Shariatpur;Bangladesh
+Munshiganj;Bangladesh
+Manikganj;Bangladesh
+Narsingdi;Bangladesh
+Kishoreganj;Bangladesh
+Netrokona;Bangladesh
+Jamalpur;Bangladesh
+Sherpur;Bangladesh
+Pabna;Bangladesh
+Kushtia;Bangladesh
+Satkhira;Bangladesh
+Bagerhat;Bangladesh
+Chandpur;Bangladesh
+Lakshmipur;Bangladesh
+Feni;Bangladesh
+Habiganj;Bangladesh
+Moulvibazar;Bangladesh
+Sunamganj;Bangladesh
+Gopalganj;Bangladesh
+Rajbari;Bangladesh
+Magura;Bangladesh
+Narail;Bangladesh
+Jhenaidah;Bangladesh
+Chuadanga;Bangladesh
+Meherpur;Bangladesh
+Naogaon;Bangladesh
+Natore;Bangladesh
+Joypurhat;Bangladesh
+Sirajganj;Bangladesh
+Gaibandha;Bangladesh
+Kurigram;Bangladesh
+Lalmonirhat;Bangladesh
+Nilphamari;Bangladesh
+Thakurgaon;Bangladesh
+Panchagarh;Bangladesh
+Pirojpur;Bangladesh
+Jhalokati;Bangladesh
+Patuakhali;Bangladesh
+Bhola;Bangladesh
+Barguna;Bangladesh
+Karachi;Pakistan
+Lahore;Pakistan
+Islamabad;Pakistan
+Rawalpindi;Pakistan
+Faisalabad;Pakistan
+Lyallpur;Pakistan
+Multan;Pakistan
+Peshawar;Pakistan
+Quetta;Pakistan
+Gujranwala;Pakistan
+Sialkot;Pakistan
+Gujrat;Pakistan
+Sargodha;Pakistan
+Bahawalpur;Pakistan
+Sheikhupura;Pakistan
+Jhelum;Pakistan
+Mardan;Pakistan
+Abbottabad;Pakistan
+Kasur;Pakistan
+Okara;Pakistan
+Sahiwal;Pakistan
+Mirpur;Pakistan
+Kotli;Pakistan
+Mandi Bahauddin;Pakistan
+Wazirabad;Pakistan
+Hafizabad;Pakistan
+Dina;Pakistan
+Gujar Khan;Pakistan
+Chakwal;Pakistan
+Attock;Pakistan
+Mianwali;Pakistan
+Jhang;Pakistan
+Toba Tek Singh;Pakistan
+Narowal;Pakistan
+Daska;Pakistan
+Muzaffarabad;Pakistan
+Rahim Yar Khan;Pakistan
+Sukkur;Pakistan
+Larkana;Pakistan
+Nawabshah;Pakistan
+Mingora;Pakistan
+Kohat;Pakistan
+Bannu;Pakistan
+Il Cairo;Egitto
+Cairo;Egitto
+Alessandria d'Egitto;Egitto
+Giza;Egitto
+Gizeh;Egitto
+Porto Said;Egitto
+Port Said;Egitto
+Suez;Egitto
+Luxor;Egitto
+Assuan;Egitto
+Aswan;Egitto
+Mansura;Egitto
+Mansoura;Egitto
+Tanta;Egitto
+Asyut;Egitto
+Assiut;Egitto
+Ismailia;Egitto
+Fayyum;Egitto
+Zagazig;Egitto
+Damanhur;Egitto
+Damietta;Egitto
+Minya;Egitto
+Beni Suef;Egitto
+Sohag;Egitto
+Qena;Egitto
+Hurghada;Egitto
+Sharm el-Sheikh;Egitto
+Kafr el-Sheikh;Egitto
+Shubra el-Kheima;Egitto
+Banha;Egitto
+Benha;Egitto
+Mahalla el-Kubra;Egitto
+El Mahalla El Kubra;Egitto
+Dakar;Senegal
+Touba;Senegal
+Thiès;Senegal
+Thies;Senegal
+Rufisque;Senegal
+Kaolack;Senegal
+Saint-Louis;Senegal
+Mbour;Senegal
+Ziguinchor;Senegal
+Diourbel;Senegal
+Louga;Senegal
+Tambacounda;Senegal
+Pikine;Senegal
+Guédiawaye;Senegal
+Guediawaye;Senegal
+Kolda;Senegal
+Richard-Toll;Senegal
+Fatick;Senegal
+Matam;Senegal
+Linguère;Senegal
+Linguere;Senegal
+Kaffrine;Senegal
+Sédhiou;Senegal
+Sedhiou;Senegal
+Bignona;Senegal
+Oussouye;Senegal
+Joal-Fadiouth;Senegal
+Mbacké;Senegal
+Mbacke;Senegal
+Tivaouane;Senegal
+Bambey;Senegal
+Dagana;Senegal
+Podor;Senegal
+Lagos;Nigeria
+Abuja;Nigeria
+Kano;Nigeria
+Ibadan;Nigeria
+Benin City;Nigeria
+Port Harcourt;Nigeria
+Kaduna;Nigeria
+Maiduguri;Nigeria
+Zaria;Nigeria
+Aba;Nigeria
+Jos;Nigeria
+Ilorin;Nigeria
+Oyo;Nigeria
+Enugu;Nigeria
+Abeokuta;Nigeria
+Onitsha;Nigeria
+Warri;Nigeria
+Sokoto;Nigeria
+Calabar;Nigeria
+Uyo;Nigeria
+Akure;Nigeria
+Owerri;Nigeria
+Ogbomosho;Nigeria
+Osogbo;Nigeria
+Ikeja;Nigeria
+Ife;Nigeria
+Ile-Ife;Nigeria
+Ado-Ekiti;Nigeria
+Asaba;Nigeria
+Awka;Nigeria
+Umuahia;Nigeria
+Makurdi;Nigeria
+Lokoja;Nigeria
+Minna;Nigeria
+Katsina;Nigeria
+Bauchi;Nigeria
+Gombe;Nigeria
+Yola;Nigeria
+Jalingo;Nigeria
+Lafia;Nigeria
+Lima;Perù
+Callao;Perù
+Arequipa;Perù
+Trujillo;Perù
+Chiclayo;Perù
+Piura;Perù
+Iquitos;Perù
+Cusco;Perù
+Cuzco;Perù
+Huancayo;Perù
+Chimbote;Perù
+Tacna;Perù
+Ica;Perù
+Juliaca;Perù
+Pucallpa;Perù
+Cajamarca;Perù
+Sullana;Perù
+Ayacucho;Perù
+Huánuco;Perù
+Huanuco;Perù
+Puno;Perù
+Tarapoto;Perù
+Chincha Alta;Perù
+Huaraz;Perù
+Talara;Perù
+Tumbes;Perù
+Paita;Perù
+Pisco;Perù
+Barranca;Perù
+Huacho;Perù
+Cañete;Perù
+Moquegua;Perù
+Ilo;Perù
+Quito;Ecuador
+Guayaquil;Ecuador
+Cuenca;Ecuador
+Ambato;Ecuador
+Machala;Ecuador
+Manta;Ecuador
+Portoviejo;Ecuador
+Loja;Ecuador
+Ibarra;Ecuador
+Esmeraldas;Ecuador
+Riobamba;Ecuador
+Santo Domingo de los Colorados;Ecuador
+Quevedo;Ecuador
+Babahoyo;Ecuador
+Milagro;Ecuador
+Latacunga;Ecuador
+Tulcán;Ecuador
+Tulcan;Ecuador
+Azogues;Ecuador
+Puyo;Ecuador
+Tena;Ecuador
+Zamora;Ecuador
+Macas;Ecuador
+Otavalo;Ecuador
+Daule;Ecuador
+Durán;Ecuador
+Duran;Ecuador
+Salinas;Ecuador
+La Libertad;Ecuador
+Colombo;Sri Lanka
+Kandy;Sri Lanka
+Galle;Sri Lanka
+Jaffna;Sri Lanka
+Negombo;Sri Lanka
+Kurunegala;Sri Lanka
+Anuradhapura;Sri Lanka
+Matara;Sri Lanka
+Batticaloa;Sri Lanka
+Trincomalee;Sri Lanka
+Ratnapura;Sri Lanka
+Badulla;Sri Lanka
+Kalutara;Sri Lanka
+Gampaha;Sri Lanka
+Moratuwa;Sri Lanka
+Dehiwala-Mount Lavinia;Sri Lanka
+Sri Jayawardenepura Kotte;Sri Lanka
+Kotte;Sri Lanka
+Chilaw;Sri Lanka
+Puttalam;Sri Lanka
+Vavuniya;Sri Lanka
+Kilinochchi;Sri Lanka
+Mannar;Sri Lanka
+Hambantota;Sri Lanka
+Tangalle;Sri Lanka
+Weligama;Sri Lanka
+Ambalangoda;Sri Lanka
+Panadura;Sri Lanka
+Wattala;Sri Lanka
+Ja-Ela;Sri Lanka
+Nuwara Eliya;Sri Lanka
+Kegalle;Sri Lanka
+Polonnaruwa;Sri Lanka
+Tunisi;Tunisia
+Tunis;Tunisia
+Sfax;Tunisia
+Susa;Tunisia
+Sousse;Tunisia
+Kairouan;Tunisia
+Biserta;Tunisia
+Bizerte;Tunisia
+Gabès;Tunisia
+Gabes;Tunisia
+Ariana;Tunisia
+Gafsa;Tunisia
+Monastir;Tunisia
+Ben Arous;Tunisia
+Kasserine;Tunisia
+Médenine;Tunisia
+Medenine;Tunisia
+Nabeul;Tunisia
+Tataouine;Tunisia
+Béja;Tunisia
+Beja;Tunisia
+Jendouba;Tunisia
+Mahdia;Tunisia
+Tozeur;Tunisia
+Siliana;Tunisia
+Le Kef;Tunisia
+Kef;Tunisia
+Zarzis;Tunisia
+Djerba;Tunisia
+Houmt Souk;Tunisia
+Hammamet;Tunisia
+Hammam Sousse;Tunisia
+La Goulette;Tunisia
+La Marsa;Tunisia
+Carthage;Tunisia
+Cartagine;Tunisia
+Bardo;Tunisia
+Manouba;Tunisia
+Zaghouan;Tunisia
+Kébili;Tunisia
+Kebili;Tunisia
+Sidi Bouzid;Tunisia
+Varsavia;Polonia
+Warszawa;Polonia
+Cracovia;Polonia
+Kraków;Polonia
+Krakow;Polonia
+Danzica;Polonia
+Gdańsk;Polonia
+Gdansk;Polonia
+Breslavia;Polonia
+Wrocław;Polonia
+Wroclaw;Polonia
+Poznań;Polonia
+Poznan;Polonia
+Posnania;Polonia
+Łódź;Polonia
+Lodz;Polonia
+Stettino;Polonia
+Szczecin;Polonia
+Katowice;Polonia
+Lublino;Polonia
+Lublin;Polonia
+Białystok;Polonia
+Bialystok;Polonia
+Bydgoszcz;Polonia
+Torun;Polonia
+Toruń;Polonia
+Gdynia;Polonia
+Częstochowa;Polonia
+Czestochowa;Polonia
+Radom;Polonia
+Rzeszów;Polonia
+Rzeszow;Polonia
+Kielce;Polonia
+Olsztyn;Polonia
+Opole;Polonia
+Gorzów Wielkopolski;Polonia
+Zielona Góra;Polonia
+Sopot;Polonia
+Gliwice;Polonia
+Zabrze;Polonia
+Bytom;Polonia
+Sosnowiec;Polonia
+Tychy;Polonia
+Rybnik;Polonia
+Bielsko-Biała;Polonia
+Tarnów;Polonia
+Tarnow;Polonia
+Płock;Polonia
+Plock;Polonia
+Elbląg;Polonia
+Elblag;Polonia
+Koszalin;Polonia
+Słupsk;Polonia
+Slupsk;Polonia
+Legnica;Polonia
+Wałbrzych;Polonia
+Walbrzych;Polonia
+Nowy Sącz;Polonia
+Przemyśl;Polonia
+Przemysl;Polonia
+Zamość;Polonia
+Zamosc;Polonia
+San Paolo;Brasile
+São Paulo;Brasile
+Sao Paulo;Brasile
+Rio de Janeiro;Brasile
+Brasilia;Brasile
+Brasília;Brasile
+Salvador;Brasile
+Fortaleza;Brasile
+Belo Horizonte;Brasile
+Manaus;Brasile
+Curitiba;Brasile
+Recife;Brasile
+Porto Alegre;Brasile
+Belém;Brasile
+Belem;Brasile
+Goiânia;Brasile
+Goiania;Brasile
+Campinas;Brasile
+São Luís;Brasile
+Sao Luis;Brasile
+Maceió;Brasile
+Maceio;Brasile
+Natal;Brasile
+Teresina;Brasile
+João Pessoa;Brasile
+Joao Pessoa;Brasile
+Florianópolis;Brasile
+Florianopolis;Brasile
+Vitória;Brasile
+Vitoria;Brasile
+Santos;Brasile
+Ribeirão Preto;Brasile
+Ribeirao Preto;Brasile
+Sorocaba;Brasile
+Guarulhos;Brasile
+Niterói;Brasile
+Niteroi;Brasile
+Londrina;Brasile
+Joinville;Brasile
+Blumenau;Brasile
+Caxias do Sul;Brasile
+Campo Grande;Brasile
+Cuiabá;Brasile
+Cuiaba;Brasile
+Aracaju;Brasile
+Porto Velho;Brasile
+Macapá;Brasile
+Macapa;Brasile
+Boa Vista;Brasile
+Palmas;Brasile
+Rio Branco;Brasile
+Uberlândia;Brasile
+Uberlandia;Brasile
+Juiz de Fora;Brasile
+Pelotas;Brasile
+Santa Maria;Brasile
+Maringá;Brasile
+Maringa;Brasile
+Ponta Grossa;Brasile
+Cascavel;Brasile
+Foz do Iguaçu;Brasile
+Petrópolis;Brasile
+Petropolis;Brasile
+Vila Velha;Brasile
+Contagem;Brasile
+Osasco;Brasile
+Santo André;Brasile
+Santo Andre;Brasile
+São Bernardo do Campo;Brasile
+Sao Bernardo do Campo;Brasile
+Jundiaí;Brasile
+Jundiai;Brasile
+Bauru;Brasile
+Piracicaba;Brasile
+Franca;Brasile
+Presidente Prudente;Brasile
+Marília;Brasile
+Marilia;Brasile
+Governador Valadares;Brasile
+Ipatinga;Brasile
+Montes Claros;Brasile
+Feira de Santana;Brasile
+Vitória da Conquista;Brasile
+Ilhéus;Brasile
+Ilheus;Brasile
+Campina Grande;Brasile
+Caruaru;Brasile
+Olinda;Brasile
+Petrolina;Brasile
+Mossoró;Brasile
+Mossoro;Brasile
+Imperatriz;Brasile
+Santarém;Brasile
+Santarem;Brasile
+Marabá;Brasile
+Maraba;Brasile
+Anápolis;Brasile
+Anapolis;Brasile
+Algeri;Algeria
+Alger;Algeria
+Orano;Algeria
+Oran;Algeria
+Costantina;Algeria
+Constantine;Algeria
+Annaba;Algeria
+Bona;Algeria
+Blida;Algeria
+Batna;Algeria
+Setif;Algeria
+Sétif;Algeria
+Sidi Bel Abbès;Algeria
+Biskra;Algeria
+Tlemcen;Algeria
+Béjaïa;Algeria
+Bejaia;Algeria
+Tizi Ouzou;Algeria
+Mostaganem;Algeria
+Skikda;Algeria
+Tébessa;Algeria
+Djelfa;Algeria
+Ghardaïa;Algeria
+Ghardaia;Algeria
+Laghouat;Algeria
+Tiaret;Algeria
+Mascara;Algeria
+Chlef;Algeria
+Médéa;Algeria
+Medea;Algeria
+Bordj Bou Arréridj;Algeria
+Jijel;Algeria
+Tripoli;Libia
+Bengasi;Libia
+Benghazi;Libia
+Misurata;Libia
+Misrata;Libia
+Sebha;Libia
+Zawiya;Libia
+Tobruk;Libia
+Sirte;Libia
+Zliten;Libia
+Khoms;Libia
+Derna;Libia
+Accra;Ghana
+Kumasi;Ghana
+Tamale;Ghana
+Takoradi;Ghana
+Sekondi;Ghana
+Cape Coast;Ghana
+Tema;Ghana
+Koforidua;Ghana
+Sunyani;Ghana
+Ho;Ghana
+Bolgatanga;Ghana
+Wa;Ghana
+Obuasi;Ghana
+Techiman;Ghana
+Abidjan;Costa d'Avorio
+Yamoussoukro;Costa d'Avorio
+Bouaké;Costa d'Avorio
+Bouake;Costa d'Avorio
+Daloa;Costa d'Avorio
+San-Pédro;Costa d'Avorio
+Korhogo;Costa d'Avorio
+Man;Costa d'Avorio
+Gagnoa;Costa d'Avorio
+Divo;Costa d'Avorio
+Abengourou;Costa d'Avorio
+Duékoué;Costa d'Avorio
+Douala;Camerun
+Yaoundé;Camerun
+Yaounde;Camerun
+Garoua;Camerun
+Bamenda;Camerun
+Bafoussam;Camerun
+Maroua;Camerun
+Ngaoundéré;Camerun
+Bertoua;Camerun
+Buea;Camerun
+Limbe;Camerun
+Kumba;Camerun
+Ebolowa;Camerun
+Edéa;Camerun
+Addis Abeba;Etiopia
+Addis Ababa;Etiopia
+Dire Dawa;Etiopia
+Gondar;Etiopia
+Mekelle;Etiopia
+Adua;Etiopia
+Adwa;Etiopia
+Bahir Dar;Etiopia
+Hawassa;Etiopia
+Jimma;Etiopia
+Dessie;Etiopia
+Harar;Etiopia
+Asmara;Eritrea
+Massaua;Eritrea
+Massawa;Eritrea
+Cheren;Eritrea
+Keren;Eritrea
+Assab;Eritrea
+Mendefera;Eritrea
+Barentu;Eritrea
+Mogadiscio;Somalia
+Mogadishu;Somalia
+Hargeisa;Somalia
+Chisimaio;Somalia
+Kismayo;Somalia
+Merca;Somalia
+Baidoa;Somalia
+Berbera;Somalia
+Kinshasa;Congo
+Brazzaville;Congo
+Lubumbashi;Congo
+Mbuji-Mayi;Congo
+Kisangani;Congo
+Goma;Congo
+Bukavu;Congo
+Pointe-Noire;Congo
+Bamako;Mali
+Sikasso;Mali
+Mopti;Mali
+Kayes;Mali
+Segou;Mali
+Ségou;Mali
+Gao;Mali
+Timbuctù;Mali
+Tombouctou;Mali
+Ouagadougou;Burkina Faso
+Bobo-Dioulasso;Burkina Faso
+Koudougou;Burkina Faso
+Banfora;Burkina Faso
+Ouahigouya;Burkina Faso
+Banjul;Gambia
+Serekunda;Gambia
+Brikama;Gambia
+Bakau;Gambia
+Farafenni;Gambia
+Conakry;Guinea
+Kankan;Guinea
+Labé;Guinea
+Nzérékoré;Guinea
+Freetown;Sierra Leone
+Bo;Sierra Leone
+Kenema;Sierra Leone
+Monrovia;Liberia
+Lomé;Togo
+Lome;Togo
+Cotonou;Benin
+Porto-Novo;Benin
+Parakou;Benin
+Niamey;Niger
+Zinder;Niger
+Agadez;Niger
+N'Djamena;Ciad
+Nairobi;Kenya
+Mombasa;Kenya
+Kisumu;Kenya
+Nakuru;Kenya
+Kampala;Uganda
+Entebbe;Uganda
+Dar es Salaam;Tanzania
+Dodoma;Tanzania
+Zanzibar;Tanzania
+Arusha;Tanzania
+Luanda;Angola
+Maputo;Mozambico
+Beira;Mozambico
+Harare;Zimbabwe
+Lusaka;Zambia
+Johannesburg;Sudafrica
+Città del Capo;Sudafrica
+Cape Town;Sudafrica
+Durban;Sudafrica
+Pretoria;Sudafrica
+Khartoum;Sudan
+Omdurman;Sudan
+Juba;Sudan del Sud
+Kigali;Ruanda
+Antananarivo;Madagascar
+Port Louis;Mauritius
+Bogotà;Colombia
+Bogotá;Colombia
+Bogota;Colombia
+Medellín;Colombia
+Medellin;Colombia
+Cali;Colombia
+Barranquilla;Colombia
+Cartagena;Colombia
+Cúcuta;Colombia
+Cucuta;Colombia
+Bucaramanga;Colombia
+Pereira;Colombia
+Manizales;Colombia
+Armenia;Colombia
+Ibagué;Colombia
+Ibague;Colombia
+Santa Marta;Colombia
+Villavicencio;Colombia
+Pasto;Colombia
+Montería;Colombia
+Neiva;Colombia
+Popayán;Colombia
+Popayan;Colombia
+Tunja;Colombia
+Buenos Aires;Argentina
+Córdoba;Argentina
+Cordoba;Argentina
+Rosario;Argentina
+Mendoza;Argentina
+La Plata;Argentina
+Tucumán;Argentina
+Tucuman;Argentina
+Mar del Plata;Argentina
+Salta;Argentina
+Santa Fe;Argentina
+Resistencia;Argentina
+Neuquén;Argentina
+Neuquen;Argentina
+Corrientes;Argentina
+Posadas;Argentina
+Bahía Blanca;Argentina
+Bahia Blanca;Argentina
+Paraná;Argentina
+Parana;Argentina
+Jujuy;Argentina
+San Salvador de Jujuy;Argentina
+Ushuaia;Argentina
+Caracas;Venezuela
+Maracaibo;Venezuela
+Barquisimeto;Venezuela
+Maracay;Venezuela
+Ciudad Guayana;Venezuela
+Maturín;Venezuela
+Maturin;Venezuela
+Cumaná;Venezuela
+Cumana;Venezuela
+Mérida;Venezuela
+Merida;Venezuela
+San Cristóbal;Venezuela
+San Cristobal;Venezuela
+L'Avana;Cuba
+La Habana;Cuba
+La Havana;Cuba
+Santiago de Cuba;Cuba
+Camagüey;Cuba
+Camaguey;Cuba
+Holguín;Cuba
+Holguin;Cuba
+Santa Clara;Cuba
+Guantánamo;Cuba
+Guantanamo;Cuba
+Cienfuegos;Cuba
+Matanzas;Cuba
+Pinar del Río;Cuba
+Varadero;Cuba
+Santo Domingo;Repubblica Dominicana
+Santiago de los Caballeros;Repubblica Dominicana
+Puerto Plata;Repubblica Dominicana
+San Pedro de Macorís;Repubblica Dominicana
+La Romana;Repubblica Dominicana
+San Francisco de Macorís;Repubblica Dominicana
+Higüey;Repubblica Dominicana
+Punta Cana;Repubblica Dominicana
+Port-au-Prince;Haiti
+Città del Messico;Messico
+Ciudad de México;Messico
+Guadalajara;Messico
+Monterrey;Messico
+Puebla;Messico
+Tijuana;Messico
+León;Messico
+Juárez;Messico
+Ciudad Juárez;Messico
+Cancún;Messico
+Cancun;Messico
+Veracruz;Messico
+Santiago del Cile;Cile
+Santiago;Cile
+Valparaíso;Cile
+Valparaiso;Cile
+Viña del Mar;Cile
+Concepción;Cile
+Concepcion;Cile
+Antofagasta;Cile
+Temuco;Cile
+Iquique;Cile
+Punta Arenas;Cile
+La Paz;Bolivia
+Santa Cruz de la Sierra;Bolivia
+Cochabamba;Bolivia
+Sucre;Bolivia
+El Alto;Bolivia
+Oruro;Bolivia
+Potosí;Bolivia
+Potosi;Bolivia
+Tarija;Bolivia
+Asunción;Paraguay
+Asuncion;Paraguay
+Ciudad del Este;Paraguay
+Encarnación;Paraguay
+Montevideo;Uruguay
+Punta del Este;Uruguay
+San José;Costa Rica
+Panama;Panama
+Città di Panama;Panama
+Tegucigalpa;Honduras
+San Salvador;El Salvador
+Managua;Nicaragua
+Città del Guatemala;Guatemala
+Guatemala City;Guatemala
+Kingston;Giamaica
+New York;Stati Uniti
+Los Angeles;Stati Uniti
+Chicago;Stati Uniti
+Houston;Stati Uniti
+Filadelfia;Stati Uniti
+Philadelphia;Stati Uniti
+Phoenix;Stati Uniti
+San Francisco;Stati Uniti
+Boston;Stati Uniti
+Miami;Stati Uniti
+Washington;Stati Uniti
+Seattle;Stati Uniti
+Detroit;Stati Uniti
+Las Vegas;Stati Uniti
+Atlanta;Stati Uniti
+Dallas;Stati Uniti
+San Diego;Stati Uniti
+Cleveland;Stati Uniti
+Pittsburgh;Stati Uniti
+Baltimora;Stati Uniti
+Baltimore;Stati Uniti
+Brooklyn;Stati Uniti
+Newark;Stati Uniti
+Toronto;Canada
+Montreal;Canada
+Vancouver;Canada
+Ottawa;Canada
+Calgary;Canada
+Edmonton;Canada
+Winnipeg;Canada
+Quebec;Canada
+Londra;Regno Unito
+London;Regno Unito
+Manchester;Regno Unito
+Birmingham;Regno Unito
+Liverpool;Regno Unito
+Leeds;Regno Unito
+Glasgow;Regno Unito
+Edimburgo;Regno Unito
+Edinburgh;Regno Unito
+Bristol;Regno Unito
+Sheffield;Regno Unito
+Cardiff;Regno Unito
+Belfast;Regno Unito
+Nottingham;Regno Unito
+Leicester;Regno Unito
+Newcastle;Regno Unito
+Dublino;Irlanda
+Dublin;Irlanda
+Cork;Irlanda
+Parigi;Francia
+Paris;Francia
+Marsiglia;Francia
+Marseille;Francia
+Lione;Francia
+Lyon;Francia
+Tolosa;Francia
+Toulouse;Francia
+Nizza;Francia
+Nice;Francia
+Nantes;Francia
+Strasburgo;Francia
+Strasbourg;Francia
+Montpellier;Francia
+Bordeaux;Francia
+Lilla;Francia
+Lille;Francia
+Rennes;Francia
+Reims;Francia
+Grenoble;Francia
+Digione;Francia
+Dijon;Francia
+Tolone;Francia
+Toulon;Francia
+Cannes;Francia
+Mentone;Francia
+Menton;Francia
+Chambéry;Francia
+Ciamberì;Francia
+Ajaccio;Francia
+Bastia;Francia
+Berlino;Germania
+Berlin;Germania
+Monaco di Baviera;Germania
+München;Germania
+Munchen;Germania
+Amburgo;Germania
+Hamburg;Germania
+Colonia;Germania
+Köln;Germania
+Francoforte;Germania
+Frankfurt;Germania
+Stoccarda;Germania
+Stuttgart;Germania
+Düsseldorf;Germania
+Dusseldorf;Germania
+Dortmund;Germania
+Essen;Germania
+Lipsia;Germania
+Leipzig;Germania
+Brema;Germania
+Bremen;Germania
+Dresda;Germania
+Dresden;Germania
+Hannover;Germania
+Norimberga;Germania
+Nürnberg;Germania
+Nurnberg;Germania
+Duisburg;Germania
+Bochum;Germania
+Wuppertal;Germania
+Bielefeld;Germania
+Bonn;Germania
+Mannheim;Germania
+Karlsruhe;Germania
+Wiesbaden;Germania
+Magonza;Germania
+Mainz;Germania
+Augusta;Germania
+Augsburg;Germania
+Friburgo;Germania
+Freiburg;Germania
+Heidelberg;Germania
+Wolfsburg;Germania
+Berna;Svizzera
+Bern;Svizzera
+Zurigo;Svizzera
+Zürich;Svizzera
+Zurich;Svizzera
+Ginevra;Svizzera
+Genève;Svizzera
+Geneve;Svizzera
+Basilea;Svizzera
+Basel;Svizzera
+Losanna;Svizzera
+Lausanne;Svizzera
+Lugano;Svizzera
+Bellinzona;Svizzera
+Locarno;Svizzera
+Chiasso;Svizzera
+Mendrisio;Svizzera
+San Gallo;Svizzera
+Sankt Gallen;Svizzera
+Lucerna;Svizzera
+Luzern;Svizzera
+Coira;Svizzera
+Chur;Svizzera
+Neuchâtel;Svizzera
+Fribourg;Svizzera
+Winterthur;Svizzera
+Vienna;Austria
+Wien;Austria
+Salisburgo;Austria
+Salzburg;Austria
+Innsbruck;Austria
+Graz;Austria
+Linz;Austria
+Klagenfurt;Austria
+Villaco;Austria
+Villach;Austria
+Bruxelles;Belgio
+Brussels;Belgio
+Anversa;Belgio
+Antwerpen;Belgio
+Gand;Belgio
+Gent;Belgio
+Liegi;Belgio
+Liège;Belgio
+Charleroi;Belgio
+Bruges;Belgio
+Amsterdam;Paesi Bassi
+Rotterdam;Paesi Bassi
+L'Aia;Paesi Bassi
+Den Haag;Paesi Bassi
+Utrecht;Paesi Bassi
+Eindhoven;Paesi Bassi
+Lussemburgo;Lussemburgo
+Madrid;Spagna
+Barcellona;Spagna
+Barcelona;Spagna
+Siviglia;Spagna
+Sevilla;Spagna
+Saragozza;Spagna
+Zaragoza;Spagna
+Malaga;Spagna
+Málaga;Spagna
+Bilbao;Spagna
+Alicante;Spagna
+Palma di Maiorca;Spagna
+Palma de Mallorca;Spagna
+Las Palmas;Spagna
+Granada;Spagna
+Cordova;Spagna
+Murcia;Spagna
+Lisbona;Portogallo
+Lisboa;Portogallo
+Porto;Portogallo
+Oporto;Portogallo
+Coimbra;Portogallo
+Braga;Portogallo
+Faro;Portogallo
+Atene;Grecia
+Athina;Grecia
+Salonicco;Grecia
+Thessaloniki;Grecia
+Patrasso;Grecia
+Patras;Grecia
+Pireo;Grecia
+Heraklion;Grecia
+Candia;Grecia
+Corfù;Grecia
+Kerkyra;Grecia
+Sofia;Bulgaria
+Plovdiv;Bulgaria
+Filippopoli;Bulgaria
+Varna;Bulgaria
+Burgas;Bulgaria
+Ruse;Bulgaria
+Stara Zagora;Bulgaria
+Pleven;Bulgaria
+Sliven;Bulgaria
+Dobrich;Bulgaria
+Shumen;Bulgaria
+Pernik;Bulgaria
+Haskovo;Bulgaria
+Belgrado;Serbia
+Beograd;Serbia
+Novi Sad;Serbia
+Nis;Serbia
+Niš;Serbia
+Kragujevac;Serbia
+Subotica;Serbia
+Zrenjanin;Serbia
+Pancevo;Serbia
+Pančevo;Serbia
+Zagabria;Croazia
+Zagreb;Croazia
+Spalato;Croazia
+Split;Croazia
+Fiume;Croazia
+Rijeka;Croazia
+Pola;Croazia
+Pula;Croazia
+Zara;Croazia
+Zadar;Croazia
+Ragusa di Dalmazia;Croazia
+Dubrovnik;Croazia
+Osijek;Croazia
+Sebenico;Croazia
+Šibenik;Croazia
+Sarajevo;Bosnia ed Erzegovina
+Banja Luka;Bosnia ed Erzegovina
+Tuzla;Bosnia ed Erzegovina
+Mostar;Bosnia ed Erzegovina
+Zenica;Bosnia ed Erzegovina
+Bihać;Bosnia ed Erzegovina
+Bihac;Bosnia ed Erzegovina
+Prijedor;Bosnia ed Erzegovina
+Doboj;Bosnia ed Erzegovina
+Pristina;Kosovo
+Priština;Kosovo
+Prizren;Kosovo
+Peć;Kosovo
+Mitrovica;Kosovo
+Gjakova;Kosovo
+Skopje;Macedonia del Nord
+Üsküb;Macedonia del Nord
+Bitola;Macedonia del Nord
+Tetovo;Macedonia del Nord
+Ohrid;Macedonia del Nord
+Kumanovo;Macedonia del Nord
+Podgorica;Montenegro
+Cattaro;Montenegro
+Kotor;Montenegro
+Lubiana;Slovenia
+Ljubljana;Slovenia
+Maribor;Slovenia
+Capodistria;Slovenia
+Koper;Slovenia
+Budapest;Ungheria
+Debrecen;Ungheria
+Praga;Repubblica Ceca
+Praha;Repubblica Ceca
+Brno;Repubblica Ceca
+Ostrava;Repubblica Ceca
+Bratislava;Slovacchia
+Presburgo;Slovacchia
+Košice;Slovacchia
+Kosice;Slovacchia
+Mosca;Russia
+Moskva;Russia
+Moscow;Russia
+San Pietroburgo;Russia
+Sankt-Peterburg;Russia
+Novosibirsk;Russia
+Ekaterinburg;Russia
+Nižnij Novgorod;Russia
+Kazan;Russia
+Samara;Russia
+Rostov sul Don;Russia
+Ufa;Russia
+Volgograd;Russia
+Krasnodar;Russia
+Soči;Russia
+Sochi;Russia
+Kaliningrad;Russia
+Minsk;Bielorussia
+Gomel;Bielorussia
+Homel;Bielorussia
+Brest;Bielorussia
+Grodno;Bielorussia
+Hrodna;Bielorussia
+Vitebsk;Bielorussia
+Mogilev;Bielorussia
+Vilnius;Lituania
+Vilna;Lituania
+Kaunas;Lituania
+Riga;Lettonia
+Tallinn;Estonia
+Tbilisi;Georgia
+Tiflis;Georgia
+Batumi;Georgia
+Kutaisi;Georgia
+Erevan;Armenia
+Yerevan;Armenia
+Gyumri;Armenia
+Baku;Azerbaigian
+Istanbul;Turchia
+Costantinopoli;Turchia
+Ankara;Turchia
+Smirne;Turchia
+Izmir;Turchia
+Bursa;Turchia
+Adana;Turchia
+Antalya;Turchia
+Konya;Turchia
+Gaziantep;Turchia
+Teheran;Iran
+Tehran;Iran
+Isfahan;Iran
+Esfahan;Iran
+Shiraz;Iran
+Tabriz;Iran
+Mashhad;Iran
+Ahvaz;Iran
+Baghdad;Iraq
+Bagdad;Iraq
+Bassora;Iraq
+Basra;Iraq
+Mosul;Iraq
+Erbil;Iraq
+Kirkuk;Iraq
+Sulaymaniyya;Iraq
+Damasco;Siria
+Damascus;Siria
+Aleppo;Siria
+Homs;Siria
+Latakia;Siria
+Hama;Siria
+Beirut;Libano
+Tripoli Libano;Libano
+Sidone;Libano
+Tiro;Libano
+Gerusalemme;Israele
+Tel Aviv;Israele
+Haifa;Israele
+Amman;Giordania
+Zarqa;Giordania
+Kabul;Afghanistan
+Kandahar;Afghanistan
+Herat;Afghanistan
+Mazar-i-Sharif;Afghanistan
+Jalalabad;Afghanistan
+Kathmandu;Nepal
+Katmandu;Nepal
+Pokhara;Nepal
+Bangkok;Thailandia
+Chiang Mai;Thailandia
+Phuket;Thailandia
+Pattaya;Thailandia
+Hanoi;Vietnam
+Ho Chi Minh;Vietnam
+Saigon;Vietnam
+Da Nang;Vietnam
+Giacarta;Indonesia
+Jakarta;Indonesia
+Surabaya;Indonesia
+Kuala Lumpur;Malaysia
+Singapore;Singapore
+Seul;Corea del Sud
+Seoul;Corea del Sud
+Busan;Corea del Sud
+Tokyo;Giappone
+Osaka;Giappone
+Kyoto;Giappone
+Yokohama;Giappone
+Nagoya;Giappone
+Dubai;Emirati Arabi Uniti
+Abu Dhabi;Emirati Arabi Uniti
+Riyad;Arabia Saudita
+Gedda;Arabia Saudita
+Jeddah;Arabia Saudita
+La Mecca;Arabia Saudita
+Doha;Qatar
+Kuwait City;Kuwait
+Mascate;Oman
+Sydney;Australia
+Melbourne;Australia
+Perth;Australia
+Brisbane;Australia
+Auckland;Nuova Zelanda
+Tashkent;Uzbekistan
+Samarcanda;Uzbekistan
+Almaty;Kazakistan
+Astana;Kazakistan
+Bishkek;Kirghizistan
+Ulan Bator;Mongolia
+Rangoon;Birmania
+Yangon;Birmania
+Phnom Penh;Cambogia
+Vientiane;Laos
+Nassau;Bahamas
+Nicosia;Cipro
+Limassol;Cipro
+Larnaca;Cipro
+La Valletta;Malta
+Valletta;Malta
+Reykjavik;Islanda
+Oslo;Norvegia
+Bergen;Norvegia
+Stoccolma;Svezia
+Stockholm;Svezia
+Göteborg;Svezia
+Goteborg;Svezia
+Malmö;Svezia
+Copenaghen;Danimarca
+København;Danimarca
+Helsinki;Finlandia
+Monaco;Principato di Monaco
+Monte Carlo;Principato di Monaco
+Andorra la Vella;Andorra
+Vaduz;Liechtenstein
+Fès;Marocco

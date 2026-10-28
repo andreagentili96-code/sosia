@@ -1,0 +1,74 @@
+Sosia
+Copyright 2026 Sosia contributors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+-------------------------------------------------------------------------------
+Third-party models (NOT included in this repository)
+-------------------------------------------------------------------------------
+
+Sosia can optionally use a local named-entity recognition model. The model files
+are NOT distributed with Sosia: each user downloads them separately from the
+original authors and accepts their licenses.
+
+1. GLiNER multi PII v1 - urchade/gliner_multi_pii-v1
+   https://huggingface.co/urchade/gliner_multi_pii-v1
+   License: Apache License 2.0
+   GLiNER: Zaratiana, Tomeh, Holat, Charnois, "GLiNER: Generalist Model for
+   Named Entity Recognition using Bidirectional Transformer", NAACL 2024.
+   Library: https://github.com/urchade/GLiNER (Apache License 2.0)
+
+2. mDeBERTa-v3-base - microsoft/mdeberta-v3-base (tokenizer vocabulary and
+   configuration, used by GLiNER as its backbone)
+   https://huggingface.co/microsoft/mdeberta-v3-base
+   License: MIT License, Copyright (c) Microsoft Corporation
+
+-------------------------------------------------------------------------------
+Third-party data included in sosia/dizionari/ (extracts, since 0.6.0)
+-------------------------------------------------------------------------------
+
+The files below are EXTRACTS (names only, reformatted and filtered) rebuilt by
+scripts/build_dictionaries.py from the original files, whose SHA-256 are listed in
+sosia/dizionari/FONTI.json. The original files are not distributed.
+
+1. istat_comuni.txt, istat_localita.txt
+   Source: Istat - Istituto nazionale di statistica, "Elenco dei comuni italiani"
+   (21/02/2026) and "Basi territoriali 2021 - Localita puntuali".
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+   Changes: only names, province codes and cadastral codes kept; inhabited
+   centres and nuclei only; names equal to a municipality removed.
+
+2. osn_luoghi_gb.txt, osn_vie_gb.txt
+   Contains OS data (c) Crown copyright and database right 2026 (OS Open Names,
+   October 2026). Licensed under the Open Government Licence v3.0.
+   Changes: only settlement names with county, and names of roads without a
+   street-type suffix, kept.
+
+3. ons_nomi_uk.txt
+   Source: Office for National Statistics, "Baby names in England and Wales:
+   1996 to 2025". Contains public sector information licensed under the Open
+   Government Licence v3.0. Changes: names with at least 100 births in total,
+   with prevailing sex.
+
+4. census_cognomi_us.txt
+   Source: U.S. Census Bureau, 2010 Census surnames (File B). Public domain
+   (work of the U.S. federal government). Changes: surnames with at least 200
+   occurrences, title case.
+
+5. wikidata_nomi_it.txt, wikidata_cognomi_it.txt
+   Source: Wikidata (query of 28/10/2026), released under CC0 1.0.
+
+-------------------------------------------------------------------------------
+Third-party Python packages (installed by the user via pip, not vendored)
+-------------------------------------------------------------------------------
+
+cryptography (Apache-2.0 OR BSD-3-Clause), starlette (BSD-3-Clause),
+uvicorn (BSD-3-Clause), httpx (BSD-3-Clause), pypdf (BSD-3-Clause),
+openpyxl (MIT), gliner (Apache-2.0), torch (BSD-3-Clause),
+transformers (Apache-2.0), tokenizers (Apache-2.0), sentencepiece (Apache-2.0).
+
+Optional spaCy Italian models (it_core_news_*) are distributed under
+CC BY-NC-SA 4.0 (non-commercial); Sosia does not include or require them.
+
+All example documents in examples/ and all test strings in tests/ are invented.
+Any resemblance to real persons, tax codes, IBANs or addresses is coincidental.

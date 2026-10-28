@@ -1,0 +1,842 @@
+Torpignattara;RM
+Ostia;RM
+Ostia Antica;RM
+Acilia;RM
+Casal Palocco;RM
+Infernetto;RM
+Axa;RM
+Trastevere;RM
+Testaccio;RM
+Prati;RM
+Parioli;RM
+Monti;RM
+Esquilino;RM
+Trionfale;RM
+Balduina;RM
+Monte Mario;RM
+Primavalle;RM
+Aurelio;RM
+Gianicolense;RM
+Monteverde;RM
+Portuense;RM
+Magliana;RM
+Marconi;RM
+Ostiense;RM
+Garbatella;RM
+Eur;RM
+Laurentino;RM
+Spinaceto;RM
+Torrino;RM
+Tor de' Cenci;RM
+Cecchignola;RM
+Appio Latino;RM
+Appio Claudio;RM
+Tuscolano;RM
+Cinecittà;RM
+Quadraro;RM
+Don Bosco;RM
+Torre Spaccata;RM
+Torre Maura;RM
+Tor Bella Monaca;RM
+Tor Vergata;RM
+Centocelle;RM
+Alessandrino;RM
+Pigneto;RM
+Prenestino;RM
+Casilino;RM
+Tor Sapienza;RM
+Rebibbia;RM
+Casal Bertone;RM
+Tiburtino;RM
+San Lorenzo;RM
+Nomentano;RM
+Monte Sacro;RM
+Talenti;RM
+Val Melaina;RM
+Fidene;RM
+Settebagni;RM
+Casal Monastero;RM
+Bufalotta;RM
+Ponte Mammolo;RM
+San Basilio;RM
+Pietralata;RM
+Colli Aniene;RM
+Ponte di Nona;RM
+Lunghezza;RM
+Borghesiana;RM
+Finocchio;RM
+Torre Angela;RM
+Giardinetti;RM
+Tor Tre Teste;RM
+La Rustica;RM
+Cesano;RM
+La Storta;RM
+Ottavia;RM
+Casalotti;RM
+Boccea;RM
+Selva Candida;RM
+Massimina;RM
+Pisana;RM
+Villa Pamphili;RM
+Fregene;RM
+Maccarese;RM
+Isola Sacra;RM
+Focene;RM
+Passoscuro;RM
+Torvaianica;RM
+Tor San Lorenzo;RM
+Lavinio;RM
+Lido dei Pini;RM
+Cinquina;RM
+Tor Pignattara;RM
+Ciampino;RM
+Capannelle;RM
+Morena;RM
+Anagnina;RM
+Romanina;RM
+Santa Palomba;RM
+Castel di Leva;RM
+Vitinia;RM
+Dragoncello;RM
+Casalbertone;RM
+Flaminio;RM
+Tor di Quinto;RM
+Labaro;RM
+Prima Porta;RM
+Grottarossa;RM
+Corviale;RM
+Quarticciolo;RM
+Tufello;RM
+Montesacro;RM
+Vigne Nuove;RM
+Conca d'Oro;RM
+Sant'Alessandro;RM
+Brera;MI
+Navigli;MI
+Isola;MI
+Lambrate;MI
+Città Studi;MI
+Corvetto;MI
+Rogoredo;MI
+Affori;MI
+Bovisa;MI
+Niguarda;MI
+Greco;MI
+Precotto;MI
+Gorla;MI
+Turro;MI
+Crescenzago;MI
+Cimiano;MI
+Ortica;MI
+Forlanini;MI
+Linate;MI
+Porta Romana;MI
+Porta Venezia;MI
+Porta Genova;MI
+Porta Ticinese;MI
+Porta Garibaldi;MI
+Porta Nuova;MI
+Sempione;MI
+San Siro;MI
+Baggio;MI
+Lorenteggio;MI
+Giambellino;MI
+Barona;MI
+Gratosoglio;MI
+Chiaravalle;MI
+Ripamonti;MI
+Vigentino;MI
+Lodi;MI
+Molise;MI
+Calvairate;MI
+Morivione;MI
+Santa Giulia;MI
+Quinto Romano;MI
+Muggiano;MI
+Gallaratese;MI
+Lampugnano;MI
+Bruzzano;MI
+Comasina;MI
+Dergano;MI
+Zara;MI
+Loreto;MI
+Maciachini;MI
+Cenisio;MI
+Citylife;MI
+Maggiolina;MI
+Lotto;MI
+Bicocca;MI
+Villapizzone;MI
+Vialba;MI
+Figino;MI
+Trenno;MI
+Mecenate;MI
+Ponte Lambro;MI
+Taliedo;MI
+Chiesa Rossa;MI
+Stadera;MI
+Tibaldi;MI
+Bande Nere;MI
+Inganni;MI
+Famagosta;MI
+Scampia;NA
+Secondigliano;NA
+Fuorigrotta;NA
+Bagnoli;NA
+Posillipo;NA
+Vomero;NA
+Arenella;NA
+Chiaia;NA
+Mergellina;NA
+Santa Lucia;NA
+Pianura;NA
+Soccavo;NA
+Chiaiano;NA
+Piscinola;NA
+Miano;NA
+Capodimonte;NA
+Sanità;NA
+Stella;NA
+San Carlo all'Arena;NA
+Poggioreale;NA
+Barra;NA
+San Giovanni a Teduccio;NA
+Pendino;NA
+Mercato;NA
+Montecalvario;NA
+San Ferdinando;NA
+Vicaria;NA
+Avvocata;NA
+Lingotto;TO
+Mirafiori;TO
+Mirafiori Sud;TO
+Santa Rita;TO
+Crocetta;TO
+San Salvario;TO
+Vanchiglia;TO
+Vanchiglietta;TO
+Aurora;TO
+Barriera di Milano;TO
+Borgo Vittoria;TO
+Madonna di Campagna;TO
+Lucento;TO
+Cenisia;TO
+San Donato;TO
+Borgo Po;TO
+Cit Turin;TO
+Parella;TO
+Pozzo Strada;TO
+Borgata Lesna;TO
+Falchera;TO
+Barca;TO
+Bertolla;TO
+Regio Parco;TO
+Nizza Millefonti;TO
+San Paolo;TO
+Campidoglio;TO
+Cavoretto;TO
+Mongreno;TO
+Sassi;TO
+Superga;TO
+Pegli;GE
+Sestri Ponente;GE
+Cornigliano;GE
+Sampierdarena;GE
+Certosa;GE
+Rivarolo;GE
+Bolzaneto;GE
+Pontedecimo;GE
+Voltri;GE
+Prà;GE
+Multedo;GE
+Nervi;GE
+Quinto al Mare;GE
+Sturla;GE
+Albaro;GE
+Foce;GE
+San Fruttuoso;GE
+Marassi;GE
+Staglieno;GE
+Molassana;GE
+Struppa;GE
+Brignole;GE
+Castelletto;GE
+Oregina;GE
+Principe;GE
+Carignano;GE
+Boccadasse;GE
+Apparizione;GE
+Borgoratti;GE
+San Martino;GE
+Begato;GE
+Teglia;GE
+Fegino;GE
+Murta;GE
+San Teodoro;GE
+Granarolo;GE
+Santa Margherita;GE
+Navile;BO
+Santo Stefano;BO
+Savena;BO
+Borgo Panigale;BO
+Reno;BO
+Saragozza;BO
+Porto;BO
+Corticella;BO
+Bolognina;BO
+San Ruffillo;BO
+Mazzini;BO
+Pilastro;BO
+San Vitale;BO
+Fossolo;BO
+Croce del Biacco;BO
+Lavino di Mezzo;BO
+Lippo;BO
+Ponticella;BO
+Cadriano;BO
+Roveri;BO
+Trebbo di Reno;BO
+Villanova;BO
+Sant'Antonio;BO
+Mondello;PA
+Sferracavallo;PA
+Tommaso Natale;PA
+Borgo Nuovo;PA
+Brancaccio;PA
+Ciaculli;PA
+Romagnolo;PA
+Zen;PA
+Resuttana;PA
+Pallavicino;PA
+Altarello;PA
+Boccadifalco;PA
+Falsomiele;PA
+Oreto;PA
+Settecannoli;PA
+Acqua dei Corsari;PA
+Bonagia;PA
+Vergine Maria;PA
+Addaura;PA
+Tribunali;PA
+Kalsa;PA
+Albergheria;PA
+Capo;PA
+Ballarò;PA
+Vucciria;PA
+Mezzomonreale;PA
+Pioppo;PA
+Torretta;PA
+Santa Maria di Gesù;PA
+Bellolampo;PA
+Ficarazzelli;PA
+Rifredi;FI
+Novoli;FI
+Peretola;FI
+Brozzi;FI
+Careggi;FI
+Campo di Marte;FI
+Gavinana;FI
+Galluzzo;FI
+Isolotto;FI
+Legnaia;FI
+Soffiano;FI
+Ugnano;FI
+Mantignano;FI
+Oltrarno;FI
+San Frediano;FI
+Santo Spirito;FI
+Coverciano;FI
+Settignano;FI
+Varlungo;FI
+Sorgane;FI
+Bellariva;FI
+Rovezzano;FI
+Ponte a Ema;FI
+Ponte a Greve;FI
+Sollicciano;FI
+Cascine;FI
+Le Piagge;FI
+San Gervasio;FI
+Statuto;FI
+Poggetto;FI
+Montughi;FI
+Carpugnano;FI
+Japigia;BA
+Carrassi;BA
+Poggiofranco;BA
+Picone;BA
+Madonnella;BA
+Libertà;BA
+San Pasquale;BA
+Murat;BA
+Palese;BA
+Catino;BA
+San Girolamo;BA
+Fesca;BA
+Torre a Mare;BA
+Loseto;BA
+Ceglie del Campo;BA
+Carbonara;BA
+Mungivacca;BA
+Bari Vecchia;BA
+Borgo Antico;BA
+Marisabella;BA
+Stanic;BA
+Cibali;CT
+Picanello;CT
+San Giovanni Galermo;CT
+Nesima;CT
+Librino;CT
+San Cristoforo;CT
+Ognina;CT
+Canalicchio;CT
+Barriera;CT
+San Nullo;CT
+Monte Po;CT
+Fontanarossa;CT
+Marghera;VE
+Carpenedo;VE
+Zelarino;VE
+Chirignago;VE
+Favaro Veneto;VE
+Campalto;VE
+Tessera;VE
+Lido;VE
+Murano;VE
+Burano;VE
+Pellestrina;VE
+Cannaregio;VE
+Castello;VE
+Dorsoduro;VE
+San Polo;VE
+Santa Croce;VE
+San Marco;VE
+Giudecca;VE
+Malcontenta;VE
+Gazzera;VE
+Bissuola;VE
+Cipressina;VE
+Altobello;VE
+Piave;VE
+Dese;VE
+Trivignano;VE
+Catene;VE
+Terraglio;VE
+Borgo Roma;VR
+Borgo Venezia;VR
+Borgo Trento;VR
+Borgo Milano;VR
+San Michele Extra;VR
+Chievo;VR
+Parona;VR
+Quinzano;VR
+Avesa;VR
+Poiano;VR
+Montorio;VR
+San Massimo;VR
+Golosine;VR
+Bassona;VR
+Ponte Crencano;VR
+Palazzina;VR
+Porto San Pancrazio;VR
+Cadidavid;VR
+Mizzole;VR
+Saval;VR
+Madonna di Dossobuono;VR
+Dossobuono;VR
+Tomba;VR
+Tombetta;VR
+Stanga;PD
+Arcella;PD
+Brenta;PD
+Forcellini;PD
+Guizza;PD
+Mandria;PD
+Palestro;PD
+Ponte di Brenta;PD
+Sacra Famiglia;PD
+San Lazzaro;PD
+Camin;PD
+Granze;PD
+Voltabarozzo;PD
+Altichiero;PD
+Sant'Osvaldo;PD
+Chiesanuova;PD
+Pontevigodarzere;PD
+Mortise;PD
+Salboro;PD
+Bassanello;PD
+Armistizio;PD
+San Carlo;PD
+Terranegra;PD
+Mezzavia;PD
+Pontecasale;PD
+Tencarola;PD
+Frigole;LE
+San Cataldo;LE
+Torre Chianca;LE
+Torre Rinalda;LE
+Santa Maria al Bagno;LE
+Santa Caterina;LE
+Porto Cesareo;LE
+Marina di Pulsano;TA
+Lido Azzurro;TA
+Talsano;TA
+Tamburi;TA
+Paolo VI;TA
+Città Vecchia;TA
+Salinella;TA
+Marina di Ginosa;TA
+Marina di Leporano;TA
+Marina di Massa;MS
+Marina di Carrara;MS
+Avenza;MS
+Marina di Pietrasanta;LU
+Lido di Camaiore;LU
+Torre del Lago;LU
+Torre del Lago Puccini;LU
+Marina di Pisa;PI
+Tirrenia;PI
+Coltano;PI
+Barbaricina;PI
+Putignano;PI
+Gello;PI
+Ospedaletto;PI
+La Cella;PI
+Montenero;LI
+Antignano;LI
+Ardenza;LI
+Quercianella;LI
+Castiglioncello;LI
+Vada;LI
+Marina di Cecina;LI
+Marina di Castagneto;LI
+Donoratico;LI
+Baratti;LI
+Populonia;LI
+Marina di Grosseto;GR
+Principina a Mare;GR
+Alberese;GR
+Rispescia;GR
+Porto Santo Stefano;GR
+Porto Ercole;GR
+Talamone;GR
+Punta Ala;GR
+Cala Galera;GR
+Lido di Spina;FE
+Lido degli Estensi;FE
+Lido di Volano;FE
+Porto Garibaldi;FE
+Lido di Pomposa;FE
+Lido delle Nazioni;FE
+Lido di Savio;RA
+Lido Adriano;RA
+Marina di Ravenna;RA
+Punta Marina;RA
+Marina Romea;RA
+Porto Fuori;RA
+Pinarella;RA
+Tagliata;RA
+Mirabilandia;RA
+Villamarina;FC
+Zadina;FC
+Bellaria;RN
+Igea Marina;RN
+Viserba;RN
+Miramare;RN
+Marebello;RN
+Torre Pedrera;RN
+Rivabella;RN
+San Giuliano Mare;RN
+Marina Centro;RN
+Borgo San Giuliano;RN
+Misano Monte;RN
+Portoverde;RN
+Soria;PU
+Muraglia;PU
+Villa Fastiggi;PU
+Fosso Sejore;PU
+Torrette;AN
+Pietralacroce;AN
+Posatora;AN
+Collemarino;AN
+Palombina;AN
+Montacuto;AN
+Candia;AN
+Passo Varano;AN
+Portonovo;AN
+Marcelli;AN
+Marcelli di Numana;AN
+Villa Potenza;MC
+Sforzacosta;MC
+Piediripa;MC
+Casette Verdini;MC
+Fontespina;MC
+Santa Maria delle Vergini;MC
+Pian di Pieca;MC
+Punta Sabbioni;VE
+Ca' Savio;VE
+Lido di Jesolo;VE
+Sottomarina;VE
+Isola Verde;VE
+Cavanella;VE
+Brondolo;VE
+Alberoni;VE
+San Pietro in Volta;VE
+Santa Maria del Mare;VE
+Lignano Pineta;UD
+Lignano Riviera;UD
+Barcola;TS
+Opicina;TS
+Prosecco;TS
+Servola;TS
+San Giovanni;TS
+Roiano;TS
+Gretta;TS
+Borgo Teresiano;TS
+Cologna;TS
+Contovello;TS
+Aurisina;TS
+Padriciano;TS
+Basovizza;TS
+Trebiciano;TS
+Banne;TS
+Borgo San Sergio;TS
+Chiadino;TS
+Rozzol;TS
+Melara;TS
+Altura;TS
+Valmaura;TS
+Borgo San Nazario;TS
+Montebello;TS
+Lazzaretto;TS
+Chiampore;TS
+Lacotisce;TS
+Stramare;TS
+Rabuiese;TS
+Zindis;TS
+Aquilinia;TS
+Lancenigo;TV
+Dosson;TV
+Casier;TV
+Solighetto;TV
+Combai;TV
+Barbisano;TV
+Ogliano;TV
+Scomigo;TV
+Lucinico;GO
+Salcano;GO
+Marilleva;TN
+Folgarida;TN
+Passo Rolle;TN
+San Martino di Castrozza;TN
+Sansicario;TO
+Santa Caterina Valfurva;SO
+Aprica;SO
+Foppolo;BG
+Selvino;BG
+Colere;BG
+Montecampione;BS
+Tonale;TN
+Passo del Tonale;TN
+Chiesa in Valmalenco;SO
+Lanzada;SO
+Abbadia Lariana;LC
+Mandello Maggiana;LC
+Colico;LC
+Gravedona;CO
+Dongo;CO
+Domaso;CO
+Argegno;CO
+Moltrasio;CO
+Torno;CO
+Blevio;CO
+Brienno;CO
+Laglio;CO
+Carate Urio;CO
+Ossuccio;CO
+Lenno;CO
+Mezzegra;CO
+Griante;CO
+Cadenabbia;CO
+Pognana Lario;CO
+Nesso;CO
+Lezzeno;CO
+Laveno;VA
+Ranco;VA
+Ispra;VA
+Brebbia;VA
+Monvalle;VA
+Maccagno;VA
+Porto Ceresio;VA
+Cuasso al Monte;VA
+Viggiù;VA
+Clivio;VA
+Lavena Ponte Tresa;VA
+Ponte Tresa;VA
+Vedano Olona;VA
+Sant'Antonino Ticino;VA
+Monluè;MI
+Ronchetto sul Naviglio;MI
+Gambaredo;MI
+Noverasco;MI
+Poasco;MI
+Civesio;MI
+Redecesio;MI
+Novegro;MI
+Limito;MI
+Villaggio Falck;MI
+Santa Brera;MI
+Mazzo di Rho;MI
+Lucernate;MI
+Terrazzano;MI
+Passirana;MI
+Stellanda;MI
+Biringhello;MI
+Barbaiana;MI
+San Pietro all'Olmo;MI
+Pontevecchio;MI
+Pontenuovo;MI
+Casterno;MI
+Rubone;MI
+Gorla Maggiore;VA
+Gorla Minore;VA
+Prospiano;VA
+Marnate;VA
+Madonna in Campagna;VA
+Crenna;VA
+Arnate;VA
+Cedrate;VA
+Crosio;VA
+Boccaleone;BG
+Colognola;BG
+Redona;BG
+Longuelo;BG
+Campagnola;BG
+Valtesse;BG
+Monterosso;BG
+Villaggio degli Sposi;BG
+Celadina;BG
+Malpensata;BG
+Grumello al Piano;BG
+Carnovali;BG
+San Zeno;BG
+Fornaci;BS
+Mompiano;BS
+Sant'Eufemia;BS
+Buffalora;BS
+Urago Mella;BS
+Caionvico;BS
+Violino;BS
+Folzano;BS
+Lamarmora;BS
+Porta Cremona;BS
+Villaggio Sereno;BS
+Rivoltella;BS
+San Martino della Battaglia;BS
+Pozzolengo;BS
+Padenghe sul Garda;BS
+Moniga del Garda;BS
+Manerba del Garda;BS
+Soiano del Lago;BS
+Polpenazze del Garda;BS
+Puegnago del Garda;BS
+Muscoline;BS
+San Felice del Benaco;BS
+Gargnano;BS
+Tignale;BS
+Tremosine;BS
+Limone Campione;BS
+Maderno;BS
+Gaino;BS
+Bogliaco;BS
+Borgo Grappa;LT
+Borgo Sabotino;LT
+Borgo Podgora;LT
+Borgo Piave;LT
+Borgo Montello;LT
+Borgo Faiti;LT
+Borgo Bainsizza;LT
+Borgo Hermada;LT
+Foce Verde;LT
+Capo Portiere;LT
+Lido di Enea;RM
+Marina di Ardea;RM
+Marina di Cerveteri;RM
+Campo di Mare;RM
+Valcanneto;RM
+Cerenova;RM
+Furbara;RM
+Santa Severa;RM
+Pyrgi;RM
+Ceri;RM
+Marangana;RM
+Torrimpietra;RM
+Palidoro;RM
+Isola Farnese;RM
+Baccano;RM
+Settecamini;RM
+Setteville;RM
+Corcolle;RM
+Frattocchie;RM
+Santa Maria delle Mole;RM
+Cecchina;RM
+Pavona;RM
+Vermicino;RM
+Cocciano;RM
+Montespaccato;RM
+Torrevecchia;RM
+Casal del Marmo;RM
+Tragliata;RM
+Olgiata;RM
+Castel Giubileo;RM
+Serpentara;RM
+Porta di Roma;RM
+Tor Cervara;RM
+Torre Gaia;RM
+Torre Nova;RM
+Casilina;RM
+Tor Fiscale;RM
+Resina;NA
+Pugliano;NA
+Granatello;NA
+Pietrarsa;NA
+Coroglio;NA
+Nisida;NA
+Monterusciello;NA
+Arco Felice;NA
+Lucrino;NA
+Baia;NA
+Miseno;NA
+Cuma;NA
+Licola;NA
+Varcaturo;NA
+Lago Patria;NA
+Salicelle;NA
+San Leucio;CE
+Casertavecchia;CE
+Garzano;CE
+Sant'Angelo in Formis;CE
+Triflisco;CE
+Pastena;SA
+Torrione;SA
+Fuorni;SA
+Matierno;SA
+Brignano;SA
+Giovi;SA
+Ogliara;SA
+Coperchia;SA
+Lancusi;SA
+Marina di Camerota;SA
+Marina di Casal Velino;SA
+Ascea Marina;SA
+Marina di Pisciotta;SA
+Velia;SA
+Santa Maria di Castellabate;SA
+San Marco di Castellabate;SA
+Licosa;SA
+Torre Paestum;SA
+Gromola;SA
+Spinazzo;SA
+Capaccio Scalo;SA
+Tramonti;SA

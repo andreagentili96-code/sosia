@@ -1,0 +1,23 @@
+Riverside Family Clinic
+1200 Harbor Avenue, Suite 300, Tampa, FL 33602
+Phone (813) 555-0142 | billing@riverside-clinic.example.com
+
+March 4, 2026
+
+Patient: DOE, Jane          DOB: 07/14/1985
+SSN: 123-45-6789            MRN: 004512377
+Address: 418 Maple Street, Springfield, IL 62704
+
+Dear Ms. Doe,
+
+Thank you for your visit on February 18, 2026 with Dr. Michael Brown. Your insurer paid $760.00 of the
+$1,000.00 charge; the remaining balance of $240.00 is due by April 3, 2026.
+
+Your follow-up appointment is on Wednesday, March 25, 2026 at 9:30 AM. If you need to reschedule, please
+call us at (813) 555-0142 or ask your husband, John Doe, to contact the front desk on your behalf.
+
+Sincerely,
+Karen Miller
+Billing Office
+
+(Invented document: people, codes and addresses are fictitious.)

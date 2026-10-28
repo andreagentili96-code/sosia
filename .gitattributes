@@ -1,0 +1,8 @@
+# Same bytes on every platform: the dictionary extracts are checked against SHA-256 hashes (sosia/dizionari/FONTI.json)
+* text=auto eol=lf
+sosia/dizionari/** -text
+examples/documents/*.eml -text
+*.docx binary
+*.xlsx binary
+*.pdf binary
+*.png binary

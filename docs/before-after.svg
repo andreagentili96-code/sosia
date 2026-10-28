@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" width="1000" height="660" role="img" aria-labelledby="t d">
+  <title id="t">Sosia: before and after</title>
+  <desc id="d">An invented Italian letter is pseudonymised locally with realistic, valid surrogates; the cloud LLM answers on the surrogates; Sosia restores the real values, including a date the model computed.</desc>
+  <defs>
+    <marker id="freccia" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+    <style>
+      .sfondo { fill: #ffffff; }
+      .titolo { font: 700 20px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f172a; }
+      .sotto { font: 400 13px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #475569; }
+      .testa { font: 700 15px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #0f172a; }
+      .dove { font: 600 11px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .riga { font: 400 12.5px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #1e293b; }
+      .nota { font: 400 11.5px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #475569; }
+      .etichetta { font: 600 12px system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #334155; }
+      .vero { fill: #047857; font-weight: 700; }
+      .finto { fill: #b45309; font-weight: 700; }
+    </style>
+  </defs>
+  <rect class="sfondo" x="0" y="0" width="1000" height="660" rx="14"/>
+  <text class="titolo" x="24" y="38">Your data never leaves. Your answers come back real.</text>
+  <text class="sotto" x="24" y="60">Invented example. <tspan class="vero">Green</tspan> = real values (stay on your machine) · <tspan class="finto">amber</tspan> = realistic surrogates (what the cloud sees)</text>
+
+  <!-- 1: originale -->
+  <rect x="20" y="80" width="440" height="235" rx="12" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <text class="testa" x="40" y="108">1 · Your document</text>
+  <rect x="330" y="93" width="112" height="20" rx="10" fill="#047857"/>
+  <text class="dove" x="386" y="107" text-anchor="middle" fill="#ffffff">on your machine</text>
+  <text class="riga" x="40" y="140">Scrivo per conto della Sig.ra <tspan class="vero">Anna Rossi</tspan></text>
+  <text class="riga" x="40" y="162">(C.F. <tspan class="vero">RSSNNA81S42F205F</tspan>), nata a <tspan class="vero">Milano</tspan></text>
+  <text class="riga" x="40" y="184">il <tspan class="vero">02/11/1981</tspan>. Il Sig. <tspan class="vero">Mario Rossi</tspan> deve</text>
+  <text class="riga" x="40" y="206">versare € 1.950,00 sul conto IBAN</text>
+  <text class="riga" x="40" y="228"><tspan class="vero">IT60 X054 2811 1010 0000 0123 456</tspan></text>
+  <text class="riga" x="40" y="250">entro domenica <tspan class="vero">25 ottobre 2026</tspan>.</text>
+  <text class="nota" x="40" y="292">An Italian payment reminder (Sunday deadline).</text>
+
+  <!-- 2: pseudonimizzato -->
+  <rect x="540" y="80" width="440" height="235" rx="12" fill="#fffbeb" stroke="#fde68a"/>
+  <text class="testa" x="560" y="108">2 · What the cloud LLM receives</text>
+  <rect x="868" y="93" width="94" height="20" rx="10" fill="#b45309"/>
+  <text class="dove" x="915" y="107" text-anchor="middle" fill="#ffffff">sent to the API</text>
+  <text class="riga" x="560" y="140">Scrivo per conto della Sig.ra <tspan class="finto">Sandra Ferrandi</tspan></text>
+  <text class="riga" x="560" y="162">(C.F. <tspan class="finto">FRRSDR80M51L736M</tspan>), nata a <tspan class="finto">Venezia</tspan></text>
+  <text class="riga" x="560" y="184">il <tspan class="finto">11/08/1980</tspan> [età 44 anni]. Il Sig. <tspan class="finto">Riccardo</tspan></text>
+  <text class="riga" x="560" y="206"><tspan class="finto">Ferrandi</tspan> deve versare € 1.950,00 sul conto IBAN</text>
+  <text class="riga" x="560" y="228"><tspan class="finto">IT08 K083 2781 5908 3016 6131 860</tspan></text>
+  <text class="riga" x="560" y="250">entro domenica <tspan class="finto">3 agosto 2025</tspan>.</text>
+  <text class="nota" x="560" y="280">Valid tax code for the fake name, date and birthplace · valid IBAN ·</text>
+  <text class="nota" x="560" y="298">dates −64 weeks (still a Sunday) · same surname for the family · age local</text>
+
+  <!-- freccia 1 → 2 -->
+  <line x1="466" y1="190" x2="532" y2="190" stroke="#475569" stroke-width="2" marker-end="url(#freccia)"/>
+  <text class="etichetta" x="500" y="178" text-anchor="middle">Sosia</text>
+  <text class="nota" x="500" y="210" text-anchor="middle">local</text>
+
+  <!-- freccia 2 → 3 -->
+  <line x1="760" y1="321" x2="760" y2="391" stroke="#475569" stroke-width="2" marker-end="url(#freccia)"/>
+  <text class="etichetta" x="772" y="352">Anthropic / OpenAI API</text>
+  <text class="nota" x="772" y="370">(through the local proxy, streaming)</text>
+
+  <!-- 3: risposta finta -->
+  <rect x="540" y="400" width="440" height="235" rx="12" fill="#fffbeb" stroke="#fde68a"/>
+  <text class="testa" x="560" y="428">3 · The LLM answers on surrogates</text>
+  <text class="riga" x="560" y="460"><tspan class="finto">Sandra Ferrandi</tspan> (C.F. <tspan class="finto">FRRSDR80M51L736M</tspan>, 44)</text>
+  <text class="riga" x="560" y="482">is owed €1,950. The deadline, Sunday</text>
+  <text class="riga" x="560" y="504"><tspan class="finto">03/08/2025</tspan>, falls on a weekend: Mr <tspan class="finto">Ferrandi</tspan></text>
+  <text class="riga" x="560" y="526">should pay by Friday <tspan class="finto">01/08/2025</tspan> to IBAN</text>
+  <text class="riga" x="560" y="548"><tspan class="finto">IT08 K083 2781 5908 3016 6131 860</tspan>.</text>
+  <text class="nota" x="560" y="590">The model rewrote formats and computed a new date</text>
+  <text class="nota" x="560" y="608">(Friday 01/08/2025) on its own.</text>
+
+  <!-- freccia 3 → 4 -->
+  <line x1="534" y1="510" x2="468" y2="510" stroke="#475569" stroke-width="2" marker-end="url(#freccia)"/>
+  <text class="etichetta" x="500" y="498" text-anchor="middle">Sosia</text>
+  <text class="nota" x="500" y="530" text-anchor="middle">local</text>
+
+  <!-- 4: risposta ripristinata -->
+  <rect x="20" y="400" width="440" height="235" rx="12" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <text class="testa" x="40" y="428">4 · What you get back</text>
+  <rect x="330" y="413" width="112" height="20" rx="10" fill="#047857"/>
+  <text class="dove" x="386" y="427" text-anchor="middle" fill="#ffffff">on your machine</text>
+  <text class="riga" x="40" y="460"><tspan class="vero">Anna Rossi</tspan> (C.F. <tspan class="vero">RSSNNA81S42F205F</tspan>, 44)</text>
+  <text class="riga" x="40" y="482">is owed €1,950. The deadline, Sunday</text>
+  <text class="riga" x="40" y="504"><tspan class="vero">25/10/2026</tspan>, falls on a weekend: Mr <tspan class="vero">Rossi</tspan></text>
+  <text class="riga" x="40" y="526">should pay by Friday <tspan class="vero">23/10/2026</tspan> to IBAN</text>
+  <text class="riga" x="40" y="548"><tspan class="vero">IT60 X054 2811 1010 0000 0123 456</tspan>.</text>
+  <text class="nota" x="40" y="590">Every value restored, in the format the model chose,</text>
+  <text class="nota" x="40" y="608">including the date it computed. Output of Sosia 0.6.0.</text>
+</svg>

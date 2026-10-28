@@ -1,0 +1,42 @@
+{
+ "sorgenti": {
+  "Elenco-comuni-italiani.xlsx": {
+   "sha256": "83842076860450f7e482daecea6b7a769f5f93d0bf5b0d48802b44896d7a26d5",
+   "fonte": "ISTAT, Elenco dei comuni italiani (21/02/2026), CC BY 4.0"
+  },
+  "LocalitaPuntuali_21.zip": {
+   "sha256": "67ba8a957b9c1ea21ed6144cc33ec1ac3c3a0b1370ba4443452e63ae37e2b9f9",
+   "fonte": "ISTAT, Basi territoriali 2021, località puntuali, CC BY 4.0"
+  },
+  "opname_csv_gb.zip": {
+   "sha256": "81ee5ba2c96d8fe5ddbf83fb4f9928e8740563618c6c5eb9376280b399a74532",
+   "fonte": "OS Open Names 2026-10, Contains OS data © Crown copyright and database right 2026, OGL v3.0"
+  },
+  "census_2010_surnames.zip": {
+   "sha256": "117c41cb4668727b7627b2845b6df3f83eb2a22a1813f42c0ff4bdcab86de135",
+   "fonte": "U.S. Census Bureau, 2010 surnames (File B), public domain"
+  },
+  "babynames1996to2025.xlsx": {
+   "sha256": "bf7b10486ab20d0b32e4bc87385112f4555210f61e34eaac3574a0d8a658c0d4",
+   "fonte": "ONS, Baby names in England and Wales 1996-2025, OGL v3.0"
+  },
+  "wikidata_cognomi_it.csv": {
+   "sha256": "a0114892a299a6cad939e9a59cd9a5423b1d93465d8a9f26ed1793b1eb0fb6c0",
+   "fonte": "Wikidata (query 28/10/2026: Q101352, P407=Q652), CC0"
+  },
+  "wikidata_nomi_it.csv": {
+   "sha256": "8127113034d9cd733f2aa7de5ba351fcda2a4d5e1fb00fae73c0d02544a0bb50",
+   "fonte": "Wikidata (query 28/10/2026: Q202444 e sottoclassi, P407=Q652), CC0"
+  }
+ },
+ "prodotti": {
+  "istat_comuni.txt": "058f0493292d5f18401d6b772475a402cd0aa9dc7fb9ea23ad1926d1ab52121e",
+  "istat_localita.txt": "40d58edf25fa8abab99563cc4c136afe0ee48365f2931d42fbdd52261e41d83e",
+  "osn_luoghi_gb.txt": "fa8df8b5c332676991cf5956c16da77d319b4c58941cd15dd082d74ef8ac171f",
+  "osn_vie_gb.txt": "1896614bd56929ba709b5174e07d9461bb311d56dce57a7abf669b3ba0bbe68e",
+  "census_cognomi_us.txt": "91e14cb85befab9832abf76281090d7b5435d12c587f182542950b2d517abe84",
+  "ons_nomi_uk.txt": "2fd244092a507c765f5ebb18577a7aca133671394faad1afe1c3e61efe116bab",
+  "wikidata_cognomi_it.txt": "83bbf9138fe5f2fd52a824f3170e1208331e55c6af710becac1f25390b544e56",
+  "wikidata_nomi_it.txt": "a1f86813e4cac5bdac2835dd6094fdef3f35d4154482c97a3a65fcb2195b8ae6"
+ }
+}

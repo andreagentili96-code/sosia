@@ -1,0 +1,2705 @@
+Abbey Wood;Greater London
+Abbeyhill;Scotland
+Abbots Bromley;Staffordshire
+Abbots Langley;Hertfordshire
+Aberavon;Wales
+Aberdare;Wales
+Aberdeen;Scotland
+Aberfoyle;Scotland
+Abergavenny;Wales
+Abergele;Wales
+Abertillery;Wales
+Aberystwyth;Wales
+Abingdon;Oxfordshire
+Accrington;Lancashire
+Acle;Norfolk
+Acocks Green;West Midlands
+Acomb;North Yorkshire
+Acton;Greater London
+Adamsdown;Wales
+Addiscombe;Greater London
+Addlestone;Surrey
+Adel;West Yorkshire
+Adwick le Street;South Yorkshire
+Aigburth;Merseyside
+Ainsdale;Merseyside
+Aintree;Merseyside
+Airdrie;Scotland
+Albrighton;Shropshire
+Alcester;Warwickshire
+Aldeburgh;Suffolk
+Alderley Edge;Cheshire
+Alderney;Channel Islands
+Aldershot;Hampshire
+Aldridge;West Midlands
+Aldwych;Greater London
+Alexandra Palace;Greater London
+Alford;Lincolnshire
+Alfreton;Derbyshire
+Alfriston;East Sussex
+Allerton;Merseyside
+Allesley;West Midlands
+Allestree;Derbyshire
+Alloa;Scotland
+Alnwick;Northumberland
+Alresford;Hampshire
+Alrewas;Staffordshire
+Alston;Cumbria
+Alton;Hampshire
+Altrincham;Greater Manchester
+Alvechurch;Worcestershire
+Alwoodley;West Yorkshire
+Amble;Northumberland
+Amblecote;West Midlands
+Ambleside;Cumbria
+Amersham;Buckinghamshire
+Amesbury;Wiltshire
+Ammanford;Wales
+Ampthill;Bedfordshire
+Ancoats;Greater Manchester
+Andersonstown;Northern Ireland
+Andover;Hampshire
+Anerley;Greater London
+Anfield;Merseyside
+Angel;Greater London
+Angmering;West Sussex
+Anlaby;East Riding of Yorkshire
+Annan;Scotland
+Anniesland;Scotland
+Anstey;Leicestershire
+Anstruther;Scotland
+Antrim;Northern Ireland
+Antrim Road;Northern Ireland
+Appleby-in-Westmorland;Cumbria
+Appledore;Devon
+Appleton;Cheshire
+Arborfield;Berkshire
+Arbroath;Scotland
+Archway;Greater London
+Ardler;Scotland
+Ardoyne;Northern Ireland
+Ardrossan;Scotland
+Ardwick;Greater Manchester
+Arlesey;Bedfordshire
+Armadale;Scotland
+Armagh;Northern Ireland
+Armitage;Staffordshire
+Armley;West Yorkshire
+Arnold;Nottinghamshire
+Arnos Grove;Greater London
+Arundel;West Sussex
+Ascot;Berkshire
+Ash;Kent
+Ashbourne;Derbyshire
+Ashburton;Devon
+Ashby-de-la-Zouch;Leicestershire
+Ashford;Kent
+Ashington;Northumberland
+Ashton Gate;Bristol
+Ashton-in-Makerfield;Greater Manchester
+Ashton-under-Lyne;Greater Manchester
+Askam;Cumbria
+Askern;South Yorkshire
+Astley;Greater Manchester
+Aston;West Midlands
+Atherstone;Warwickshire
+Atherton;Greater Manchester
+Attercliffe;South Yorkshire
+Attleborough;Norfolk
+Auchterarder;Scotland
+Audenshaw;Greater Manchester
+Audlem;Cheshire
+Aughnacloy;Northern Ireland
+Avebury;Wiltshire
+Aviemore;Scotland
+Avonmouth;Bristol
+Axbridge;Somerset
+Axminster;Devon
+Aylesbury;Buckinghamshire
+Aylesford;Kent
+Aylsham;Norfolk
+Ayr;Scotland
+Bacup;Lancashire
+Bagshot;Surrey
+Baguley;Greater Manchester
+Bakewell;Derbyshire
+Bala;Wales
+Baldock;Hertfordshire
+Balerno;Scotland
+Balham;Greater London
+Ballasalla;Isle of Man
+Ballintoy;Northern Ireland
+Ballycastle;Northern Ireland
+Ballygawley;Northern Ireland
+Ballyhackamore;Northern Ireland
+Ballymena;Northern Ireland
+Ballymoney;Northern Ireland
+Ballymurphy;Northern Ireland
+Ballynahinch;Northern Ireland
+Ballysillan;Northern Ireland
+Ballywalter;Northern Ireland
+Balsall Common;West Midlands
+Balsall Heath;West Midlands
+Baltic Triangle;Merseyside
+Bamber Bridge;Lancashire
+Bamburgh;Northumberland
+Banbridge;Northern Ireland
+Banbury;Oxfordshire
+Banchory;Scotland
+Banff;Scotland
+Bangor;Northern Ireland
+Bangor;Wales
+Bankside;Greater London
+Banstead;Surrey
+Barbican;Greater London
+Bargoed;Wales
+Barking;Greater London
+Barking and Dagenham;Greater London
+Barkingside;Greater London
+Barmby Moor;East Riding of Yorkshire
+Barmouth;Wales
+Barnard Castle;County Durham
+Barnes;Greater London
+Barnet;Greater London
+Barnet;Hertfordshire
+Barnhill;Scotland
+Barnoldswick;Lancashire
+Barnsbury;Greater London
+Barnsley;South Yorkshire
+Barnstaple;Devon
+Barnt Green;Worcestershire
+Barnton;Scotland
+Barrhead;Scotland
+Barrow upon Soar;Leicestershire
+Barrow-in-Furness;Cumbria
+Barry;Wales
+Barton Hill;Bristol
+Barton-le-Clay;Bedfordshire
+Barton-under-Needwood;Staffordshire
+Barton-upon-Humber;Lincolnshire
+Barwell;Leicestershire
+Basford;Nottinghamshire
+Basildon;Essex
+Basingstoke;Hampshire
+Bath;Somerset
+Bathampton;Somerset
+Bathgate;Scotland
+Bathwick;Somerset
+Batley;West Yorkshire
+Battersea;Greater London
+Battle;East Sussex
+Battlefield;Scotland
+Bawtry;South Yorkshire
+Bayswater;Greater London
+Beaconsfield;Buckinghamshire
+Beaminster;Dorset
+Bearsden;Scotland
+Beaulieu;Hampshire
+Beaumaris;Wales
+Bebington;Merseyside
+Beccles;Suffolk
+Beckenham;Greater London
+Beckton;Greater London
+Becontree;Greater London
+Bedale;North Yorkshire
+Beddington;Greater London
+Bedford;Bedfordshire
+Bedford Park;Greater London
+Bedlington;Northumberland
+Bedminster;Bristol
+Bedworth;West Midlands
+Beeston;Nottinghamshire
+Beighton;South Yorkshire
+Belfast;Northern Ireland
+Belford;Northumberland
+Belgravia;Greater London
+Belle Vale;Merseyside
+Bellevue;Northern Ireland
+Bellshill;Scotland
+Belmont;Northern Ireland
+Belper;Derbyshire
+Belsize Park;Greater London
+Belvedere;Greater London
+Bembridge;Isle of Wight
+Benfleet;Essex
+Bentham;North Yorkshire
+Benwell;Tyne and Wear
+Berkeley;Gloucestershire
+Berkhamsted;Hertfordshire
+Bermondsey;Greater London
+Berwick-upon-Tweed;Northumberland
+Beswick;Greater Manchester
+Bethnal Green;Greater London
+Bettws;Wales
+Betws-y-Coed;Wales
+Beverley;East Riding of Yorkshire
+Bewdley;Worcestershire
+Bexhill;East Sussex
+Bexley;Greater London
+Bexleyheath;Greater London
+Bicester;Oxfordshire
+Bickington;Devon
+Biddenden;Kent
+Biddulph;Staffordshire
+Bideford;Devon
+Bidford-on-Avon;Warwickshire
+Bieldside;Scotland
+Biggin Hill;Greater London
+Biggleswade;Bedfordshire
+Billericay;Essex
+Billingham;County Durham
+Billingshurst;West Sussex
+Bilston;West Midlands
+Binfield;Berkshire
+Bingham;Nottinghamshire
+Bingley;West Yorkshire
+Binley;West Midlands
+Birchington;Kent
+Birchwood;Cheshire
+Birkdale;Merseyside
+Birkenhead;Merseyside
+Birmingham;West Midlands
+Birstall;Leicestershire
+Birtley;Tyne and Wear
+Bishop Auckland;County Durham
+Bishop Burton;East Riding of Yorkshire
+Bishop's Castle;Shropshire
+Bishop's Cleeve;Gloucestershire
+Bishop's Stortford;Hertfordshire
+Bishop's Waltham;Hampshire
+Bishopbriggs;Scotland
+Bishopston;Bristol
+Bishopsworth;Bristol
+Bisley;Surrey
+Bispham;Lancashire
+Blaby;Leicestershire
+Blackburn;Lancashire
+Blackheath;Greater London
+Blackhorse Road;Greater London
+Blackley;Greater Manchester
+Blackpool;Lancashire
+Blackrod;Greater Manchester
+Blackwood;Wales
+Blaenavon;Wales
+Blairgowrie;Scotland
+Blakeney;Norfolk
+Blandford Forum;Dorset
+Blaydon;Tyne and Wear
+Bletchingley;Surrey
+Bletchley;Buckinghamshire
+Blofield;Norfolk
+Bloomsbury;Greater London
+Bloxwich;West Midlands
+Blyth;Northumberland
+Bo'ness;Scotland
+Bodmin;Cornwall
+Bognor Regis;West Sussex
+Bogside;Northern Ireland
+Boldmere;West Midlands
+Boldon;Tyne and Wear
+Bollington;Cheshire
+Bolsover;Derbyshire
+Bolton;Greater Manchester
+Bolton Abbey;North Yorkshire
+Bootle;Merseyside
+Bordesley;West Midlands
+Bordon;Hampshire
+Borehamwood;Hertfordshire
+Borough;Greater London
+Boroughbridge;North Yorkshire
+Borrowash;Derbyshire
+Boscastle;Cornwall
+Boscombe;Dorset
+Bosham;West Sussex
+Boston;Lincolnshire
+Botanic;Northern Ireland
+Botley;Oxfordshire
+Bounds Green;Greater London
+Bourne;Lincolnshire
+Bourne End;Buckinghamshire
+Bournemouth;Dorset
+Bournville;West Midlands
+Bourton-on-the-Water;Gloucestershire
+Bovey Tracey;Devon
+Bow;Greater London
+Bowdon;Greater Manchester
+Bowness-on-Windermere;Cumbria
+Box;Wiltshire
+Bracebridge Heath;Lincolnshire
+Brackley;Northamptonshire
+Bracknell;Berkshire
+Bradford;West Yorkshire
+Bradford on Avon;Wiltshire
+Brading;Isle of Wight
+Bradley Stoke;Gloucestershire
+Braintree;Essex
+Bramhall;Greater Manchester
+Bramley;West Yorkshire
+Brampton;Cumbria
+Brandon;Suffolk
+Branksome;Dorset
+Braunton;Devon
+Brechin;Scotland
+Brecon;Wales
+Brent;Greater London
+Brentford;Greater London
+Brentwood;Essex
+Brewood;Staffordshire
+Bridge of Don;Scotland
+Bridgend;Wales
+Bridgnorth;Shropshire
+Bridgwater;Somerset
+Bridlington;East Riding of Yorkshire
+Bridport;Dorset
+Brierley Hill;West Midlands
+Brigg;Lincolnshire
+Brighouse;West Yorkshire
+Brightlingsea;Essex
+Brighton;East Sussex
+Brimsdown;Greater London
+Brislington;Bristol
+Bristol;Bristol
+Briton Ferry;Wales
+Brixham;Devon
+Brixton;Greater London
+Brixton Hill;Greater London
+Brixworth;Northamptonshire
+Brize Norton;Oxfordshire
+Broad Green;Greater London
+Broadstairs;Kent
+Broadstone;Dorset
+Broadway;Worcestershire
+Brockenhurst;Hampshire
+Brockley;Greater London
+Brockworth;Gloucestershire
+Brodick;Scotland
+Bromley;Greater London
+Brompton;Greater London
+Bromsgrove;Worcestershire
+Bromyard;Herefordshire
+Broomhill;South Yorkshire
+Broseley;Shropshire
+Brough;East Riding of Yorkshire
+Broughton;Greater Manchester
+Broughty Ferry;Scotland
+Brownhills;Staffordshire
+Broxbourne;Hertfordshire
+Broxburn;Scotland
+Bruce Grove;Greater London
+Brundall;Norfolk
+Bruntsfield;Scotland
+Bruton;Somerset
+Brynmawr;Wales
+Buckfastleigh;Devon
+Buckhurst Hill;Essex
+Buckie;Scotland
+Buckingham;Buckinghamshire
+Buckley;Wales
+Bude;Cornwall
+Budleigh Salterton;Devon
+Builth Wells;Wales
+Bulwell;Nottinghamshire
+Bungay;Suffolk
+Buntingford;Hertfordshire
+Burford;Oxfordshire
+Burgess Hill;East Sussex
+Burghfield;Berkshire
+Burley;Hampshire
+Burley in Wharfedale;West Yorkshire
+Burmantofts;West Yorkshire
+Burnage;Greater Manchester
+Burngreave;South Yorkshire
+Burnham;Buckinghamshire
+Burnham Market;Norfolk
+Burnham-on-Crouch;Essex
+Burnham-on-Sea;Somerset
+Burnley;Lancashire
+Burnt Oak;Greater London
+Burntisland;Scotland
+Burntwood;Staffordshire
+Burry Port;Wales
+Burscough;Lancashire
+Bursledon;Hampshire
+Burslem;Staffordshire
+Burton Latimer;Northamptonshire
+Burton upon Trent;Staffordshire
+Bury;Greater Manchester
+Bury St Edmunds;Suffolk
+Bush Hill Park;Greater London
+Bushey;Hertfordshire
+Bushmills;Northern Ireland
+Butetown;Wales
+Buxton;Derbyshire
+Byfleet;Surrey
+Byker;Tyne and Wear
+Cadishead;Greater Manchester
+Caerau;Wales
+Caerleon;Wales
+Caernarfon;Wales
+Caerphilly;Wales
+Caister-on-Sea;Norfolk
+Caistor;Lincolnshire
+Caldicot;Wales
+Callander;Scotland
+Callington;Cornwall
+Calne;Wiltshire
+Calverley;West Yorkshire
+Calverton;Nottinghamshire
+Camber;East Sussex
+Camberley;Surrey
+Camberwell;Greater London
+Camberwell Green;Greater London
+Camborne;Cornwall
+Cambourne;Cambridgeshire
+Cambridge;Cambridgeshire
+Cambridge Heath;Greater London
+Cambuslang;Scotland
+Camden;Greater London
+Camden Town;Greater London
+Campbeltown;Scotland
+Canada Water;Greater London
+Canary Wharf;Greater London
+Canford Cliffs;Dorset
+Canley;West Midlands
+Canning;Merseyside
+Canning Town;Greater London
+Cannington;Somerset
+Cannock;Staffordshire
+Canonbury;Greater London
+Canongate;Scotland
+Canterbury;Kent
+Canton;Wales
+Canvey Island;Essex
+Carbis Bay;Cornwall
+Cardiff;Wales
+Cardiff Bay;Wales
+Cardigan;Wales
+Cardonald;Scotland
+Carlisle;Cumbria
+Carlton;Nottinghamshire
+Carluke;Scotland
+Carmarthen;Wales
+Carmunnock;Scotland
+Carnforth;Lancashire
+Carnoustie;Scotland
+Carrickfergus;Northern Ireland
+Carryduff;Northern Ireland
+Carshalton;Greater London
+Carterton;Oxfordshire
+Cartmel;Cumbria
+Castle Bromwich;West Midlands
+Castle Cary;Somerset
+Castle Donington;Leicestershire
+Castle Douglas;Scotland
+Castlederg;Northern Ireland
+Castlefield;Greater Manchester
+Castleford;West Yorkshire
+Castlemilk;Scotland
+Castlereagh;Northern Ireland
+Castleton;Derbyshire
+Castletown;Isle of Man
+Caterham;Surrey
+Catford;Greater London
+Cathays;Wales
+Cathcart;Scotland
+Cathedral Quarter;Northern Ireland
+Cave Hill;Northern Ireland
+Caversham;Berkshire
+Chadderton;Greater Manchester
+Chaddesden;Derbyshire
+Chafford Hundred;Essex
+Chagford;Devon
+Chalfont St Giles;Buckinghamshire
+Chalfont St Peter;Buckinghamshire
+Chalk Farm;Greater London
+Chapel Allerton;West Yorkshire
+Chapel-en-le-Frith;Derbyshire
+Chapeltown;West Yorkshire
+Chard;Somerset
+Charing;Kent
+Charlbury;Oxfordshire
+Charlton;Greater London
+Charlwood;Surrey
+Charmouth;Dorset
+Chasetown;Staffordshire
+Chatham;Kent
+Chatteris;Cambridgeshire
+Cheadle;Staffordshire
+Cheadle Hulme;Greater Manchester
+Cheam;Greater London
+Cheddar;Somerset
+Cheetham Hill;Greater Manchester
+Chelford;Cheshire
+Chelmsford;Essex
+Chelsea;Greater London
+Cheltenham;Gloucestershire
+Chepstow;Wales
+Chertsey;Surrey
+Chesham;Buckinghamshire
+Cheshunt;Hertfordshire
+Chessington;Surrey
+Chester;Cheshire
+Chester-le-Street;County Durham
+Chesterfield;Derbyshire
+Cheylesmore;West Midlands
+Chichester;West Sussex
+Chidham;Hampshire
+Chigwell;Essex
+Childwall;Merseyside
+Chilton;County Durham
+Chingford;Greater London
+Chingford Mount;Greater London
+Chippenham;Wiltshire
+Chipping;Lancashire
+Chipping Barnet;Greater London
+Chipping Campden;Gloucestershire
+Chipping Norton;Oxfordshire
+Chipping Sodbury;Gloucestershire
+Chirk;Wales
+Chislehurst;Greater London
+Chiswick;Greater London
+Chobham;Surrey
+Chorley;Lancashire
+Chorleywood;Hertfordshire
+Chorlton;Greater Manchester
+Chorlton-cum-Hardy;Greater Manchester
+Christchurch;Dorset
+Church Stretton;Shropshire
+Churchdown;Gloucestershire
+Churwell;West Yorkshire
+Cinderford;Gloucestershire
+Cirencester;Gloucestershire
+City of London;Greater London
+Clacton-on-Sea;Essex
+Clapham;Greater London
+Clapham Junction;Greater London
+Clapton;Greater London
+Clare;Suffolk
+Clay Cross;Derbyshire
+Claygate;Surrey
+Clayton;Greater Manchester
+Cleckheaton;West Yorkshire
+Cleethorpes;Lincolnshire
+Cleobury Mortimer;Shropshire
+Clerkenwell;Greater London
+Clevedon;Somerset
+Cleveleys;Lancashire
+Clifton;Nottinghamshire
+Cliftonville;Northern Ireland
+Clitheroe;Lancashire
+Clogher;Northern Ireland
+Clovelly;Devon
+Clun;Shropshire
+Clydach;Wales
+Clydebank;Scotland
+Coalville;Leicestershire
+Coatbridge;Scotland
+Cobham;Kent
+Cockermouth;Cumbria
+Cockfosters;Greater London
+Codsall;Staffordshire
+Coggeshall;Essex
+Colchester;Essex
+Coldside;Scotland
+Coleford;Gloucestershire
+Coleraine;Northern Ireland
+Coleshill;Warwickshire
+Colindale;Greater London
+Colinton;Scotland
+Colliers Wood;Greater London
+Colne;Lancashire
+Colwyn Bay;Wales
+Combe Down;Somerset
+Combe Martin;Devon
+Comber;Northern Ireland
+Comely Bank;Scotland
+Congleton;Cheshire
+Congresbury;Somerset
+Conisbrough;South Yorkshire
+Coniston;Cumbria
+Connah's Quay;Wales
+Consett;County Durham
+Conwy;Wales
+Cookham;Berkshire
+Cookstown;Northern Ireland
+Corbridge;Northumberland
+Corby;Northamptonshire
+Corfe Castle;Dorset
+Corringham;Essex
+Corsham;Wiltshire
+Corstorphine;Scotland
+Coseley;West Midlands
+Cosham;Hampshire
+Costessey;Norfolk
+Cotgrave;Nottinghamshire
+Cotham;Bristol
+Cottenham;Cambridgeshire
+Cottesmore;Rutland
+Cottingham;East Riding of Yorkshire
+Coulsdon;Greater London
+Cove Bay;Scotland
+Covent Garden;Greater London
+Coventry;West Midlands
+Cowbridge;Wales
+Cowdenbeath;Scotland
+Cowes;Isle of Wight
+Cowley;Oxfordshire
+Coxhoe;County Durham
+Cradley Heath;West Midlands
+Craigavon;Northern Ireland
+Craigentinny;Scotland
+Craigmillar;Scotland
+Crail;Scotland
+Cramlington;Northumberland
+Cramond;Scotland
+Cranbrook;Kent
+Cranfield;Bedfordshire
+Cranford;Greater London
+Cranleigh;Surrey
+Craster;Northumberland
+Craven Arms;Shropshire
+Crawley;West Sussex
+Crayford;Greater London
+Crediton;Devon
+Cregagh;Northern Ireland
+Creggan;Northern Ireland
+Creigiau;Wales
+Crewe;Cheshire
+Crewkerne;Somerset
+Crickhowell;Wales
+Cricklade;Wiltshire
+Cricklewood;Greater London
+Crieff;Scotland
+Crofton Park;Greater London
+Cromer;Norfolk
+Cromford;Derbyshire
+Crook;County Durham
+Crookes;South Yorkshire
+Crosby;Merseyside
+Crosby-on-Eden;Cumbria
+Cross Gates;West Yorkshire
+Crossmaglen;Northern Ireland
+Crouch End;Greater London
+Crowborough;East Sussex
+Crowland;Lincolnshire
+Crowthorne;Berkshire
+Croxley Green;Hertfordshire
+Croxteth;Merseyside
+Croyde;Devon
+Croydon;Greater London
+Crumlin Road;Northern Ireland
+Crumpsall;Greater Manchester
+Crystal Palace;Greater London
+Cuckfield;West Sussex
+Culcheth;Cheshire
+Cullercoats;Tyne and Wear
+Cullompton;Devon
+Culmore;Northern Ireland
+Cults;Scotland
+Cumbernauld;Scotland
+Cumnock;Scotland
+Cupar;Scotland
+Currie;Scotland
+Cushendall;Northern Ireland
+Cushendun;Northern Ireland
+Cwmbran;Wales
+Cyncoed;Wales
+Dagenham;Greater London
+Dalkeith;Scotland
+Dalry;Scotland
+Dalston;Greater London
+Dalston Junction;Greater London
+Dalton-in-Furness;Cumbria
+Darfield;South Yorkshire
+Darlaston;West Midlands
+Darlington;County Durham
+Darnall;South Yorkshire
+Dartford;Greater London
+Dartington;Devon
+Dartmouth;Devon
+Dartmouth Park;Greater London
+Darwen;Lancashire
+Datchet;Berkshire
+Daventry;Northamptonshire
+Davidsons Mains;Scotland
+Dawley;Shropshire
+Dawlish;Devon
+De Beauvoir;Greater London
+Deal;Kent
+Dean Village;Scotland
+Debenham;Suffolk
+Deddington;Oxfordshire
+Dedham;Essex
+Delph;Greater Manchester
+Denbigh;Wales
+Denham;Buckinghamshire
+Denmark Hill;Greater London
+Dennistoun;Scotland
+Dent;Cumbria
+Denton;Greater Manchester
+Deptford;Greater London
+Derby;Derbyshire
+Dereham;Norfolk
+Deritend;West Midlands
+Derry;Northern Ireland
+Desborough;Northamptonshire
+Devizes;Wiltshire
+Dewsbury;West Yorkshire
+Didcot;Oxfordshire
+Didsbury;Greater Manchester
+Digbeth;West Midlands
+Dinas Powys;Wales
+Dingle;Merseyside
+Dingwall;Scotland
+Dinnington;South Yorkshire
+Disley;Cheshire
+Diss;Norfolk
+Ditchling;East Sussex
+Dolgellau;Wales
+Donaghadee;Northern Ireland
+Doncaster;South Yorkshire
+Donnington;Shropshire
+Dorchester;Dorset
+Dore;South Yorkshire
+Dorking;Surrey
+Dornoch;Scotland
+Dorridge;West Midlands
+Douglas;Isle of Man
+Doune;Scotland
+Dover;Kent
+Dowanhill;Scotland
+Downend;Bristol
+Downham Market;Norfolk
+Downpatrick;Northern Ireland
+Draperstown;Northern Ireland
+Driffield;East Riding of Yorkshire
+Droitwich Spa;Worcestershire
+Dromore;Northern Ireland
+Dronfield;Derbyshire
+Droylsden;Greater Manchester
+Drumchapel;Scotland
+Duddingston;Scotland
+Dudley;West Midlands
+Duffield;Derbyshire
+Duffryn;Wales
+Dukinfield;Greater Manchester
+Dulwich;Greater London
+Dumbarton;Scotland
+Dumfries;Scotland
+Dunbar;Scotland
+Dunblane;Scotland
+Dundee;Scotland
+Dundonald;Northern Ireland
+Dunfermline;Scotland
+Dungannon;Northern Ireland
+Dungiven;Northern Ireland
+Dunmurry;Northern Ireland
+Dunoon;Scotland
+Duns;Scotland
+Dunstable;Bedfordshire
+Dunster;Somerset
+Dunwich;Suffolk
+Durham;County Durham
+Durrington;Wiltshire
+Dursley;Gloucestershire
+Dyce;Scotland
+Dymchurch;Kent
+Ealing;Greater London
+Earby;Lancashire
+Eardisley;Herefordshire
+Earl Shilton;Leicestershire
+Earl's Court;Greater London
+Earley;Berkshire
+Earls Barton;Northamptonshire
+Earlsdon;West Midlands
+Earlsfield;Greater London
+Easington;County Durham
+Easingwold;North Yorkshire
+East Cowes;Isle of Wight
+East Finchley;Greater London
+East Grinstead;West Sussex
+East Ham;Greater London
+East Kilbride;Scotland
+East Molesey;Surrey
+East Sheen;Greater London
+Eastbourne;East Sussex
+Eastchurch;Kent
+Eastcote;Greater London
+Easter Compton;Bristol
+Easterhouse;Scotland
+Eastleigh;Hampshire
+Easton;Bristol
+Eastville;Bristol
+Eastwood;Nottinghamshire
+Ebbw Vale;Wales
+Eccles;Greater Manchester
+Ecclesall;South Yorkshire
+Eccleshall;Staffordshire
+Eccleston;Merseyside
+Edenbridge;Kent
+Edgbaston;West Midlands
+Edge Hill;Merseyside
+Edgware;Greater London
+Edinburgh;Scotland
+Edmonton;Greater London
+Edwinstowe;Nottinghamshire
+Egham;Surrey
+Egremont;Cumbria
+Elephant and Castle;Greater London
+Elgin;Scotland
+Elham;Kent
+Elland;West Yorkshire
+Ellesmere;Shropshire
+Ellesmere Port;Cheshire
+Ellon;Scotland
+Elstead;Surrey
+Elstree;Hertfordshire
+Elswick;Tyne and Wear
+Eltham;Greater London
+Ely;Cambridgeshire
+Empingham;Rutland
+Emsworth;West Sussex
+Endcliffe;South Yorkshire
+Enderby;Leicestershire
+Enfield;Greater London
+Enfield Town;Greater London
+Englefield Green;Surrey
+Enniskillen;Northern Ireland
+Epping;Essex
+Epsom;Greater London
+Epworth;Lincolnshire
+Erdington;West Midlands
+Erith;Greater London
+Erskine;Scotland
+Esh Winning;County Durham
+Esher;Surrey
+Eskdale;Cumbria
+Eston;North Yorkshire
+Eton;Berkshire
+Euston;Greater London
+Everton;Merseyside
+Everton Park;Merseyside
+Evesham;Worcestershire
+Ewell;Surrey
+Ewell West;Greater London
+Exeter;Devon
+Exmouth;Devon
+Eyam;Derbyshire
+Eye;Suffolk
+Eyemouth;Scotland
+Eynsford;Kent
+Eynsham;Oxfordshire
+Failsworth;Greater Manchester
+Fair Oak;Hampshire
+Fairford;Gloucestershire
+Fairmilehead;Scotland
+Fairwater;Wales
+Fakenham;Norfolk
+Falkirk;Scotland
+Fallowfield;Greater Manchester
+Falls Road;Northern Ireland
+Falmouth;Cornwall
+Fareham;Hampshire
+Faringdon;Oxfordshire
+Farnborough;Hampshire
+Farnham;Surrey
+Farnham Royal;Buckinghamshire
+Farnworth;Greater Manchester
+Farringdon;Greater London
+Farsley;West Yorkshire
+Faversham;Kent
+Fawdon;Tyne and Wear
+Fazakerley;Merseyside
+Featherstone;West Yorkshire
+Felixstowe;Suffolk
+Felling;Tyne and Wear
+Feltham;Greater London
+Fenham;Tyne and Wear
+Fenton;Staffordshire
+Ferndale;Wales
+Ferndown;Dorset
+Ferring;West Sussex
+Ferryhill;County Durham
+Filey;North Yorkshire
+Filton;Gloucestershire
+Filwood;Bristol
+Finaghy;Northern Ireland
+Finchampstead;Berkshire
+Finchley;Greater London
+Findon;West Sussex
+Finnieston;Scotland
+Finsbury Park;Greater London
+Firth Park;South Yorkshire
+Fishbourne;West Sussex
+Fishguard;Wales
+Fishponds;Bristol
+Fitzrovia;Greater London
+Fivemiletown;Northern Ireland
+Flackwell Heath;Buckinghamshire
+Flamborough;East Riding of Yorkshire
+Fleet;Hampshire
+Fleetwood;Lancashire
+Flint;Wales
+Flitwick;Bedfordshire
+Flixton;Greater Manchester
+Foleshill;West Midlands
+Folkestone;Kent
+Ford;Northumberland
+Fordhouses;West Midlands
+Fordingbridge;Hampshire
+Forest Gate;Greater London
+Forest Hill;Greater London
+Forest Row;East Sussex
+Forfar;Scotland
+Formby;Merseyside
+Forres;Scotland
+Fort William;Scotland
+Fortwilliam;Northern Ireland
+Fountainbridge;Scotland
+Four Oaks;West Midlands
+Fowey;Cornwall
+Framlingham;Suffolk
+Fraserburgh;Scotland
+Frenchay;Bristol
+Freshwater;Isle of Wight
+Frimley;Surrey
+Frinton-on-Sea;Essex
+Frodsham;Cheshire
+Frome;Somerset
+Fulford;North Yorkshire
+Fulham;Greater London
+Fulwell;Greater London
+Fulwood;South Yorkshire
+Furzedown;Greater London
+Gabalfa;Wales
+Gainsborough;Lincolnshire
+Galashiels;Scotland
+Garforth;West Yorkshire
+Garnethill;Scotland
+Garstang;Lancashire
+Garston;Merseyside
+Gateacre;Merseyside
+Gateshead;Tyne and Wear
+Gedling;Nottinghamshire
+Georgian Quarter;Merseyside
+Gerrards Cross;Buckinghamshire
+Gillingham;Kent
+Gilmerton;Scotland
+Gilnahirk;Northern Ireland
+Gipsy Hill;Greater London
+Girvan;Scotland
+Glasgow;Scotland
+Glastonbury;Somerset
+Gleadless;South Yorkshire
+Glen Road;Northern Ireland
+Glengormley;Northern Ireland
+Glenrothes;Scotland
+Globe Town;Greater London
+Glossop;Derbyshire
+Gloucester;Gloucestershire
+Goathland;North Yorkshire
+Godalming;Surrey
+Godmanchester;Cambridgeshire
+Godshill;Isle of Wight
+Godstone;Surrey
+Golders Green;Greater London
+Gomshall;Surrey
+Goole;East Riding of Yorkshire
+Gorbals;Scotland
+Gorey;Channel Islands
+Gorgie;Scotland
+Goring;Oxfordshire
+Goring-by-Sea;West Sussex
+Gorleston-on-Sea;Norfolk
+Gornal;West Midlands
+Gorseinon;Wales
+Gorton;Greater Manchester
+Gosforth;Tyne and Wear
+Gospel Oak;Greater London
+Gosport;Hampshire
+Goudhurst;Kent
+Gourock;Scotland
+Govan;Scotland
+Gowerton;Wales
+Grange-over-Sands;Cumbria
+Grangemouth;Scotland
+Grangetown;North Yorkshire
+Grantham;Lincolnshire
+Granton;Scotland
+Grantown-on-Spey;Scotland
+Grasmere;Cumbria
+Grassington;North Yorkshire
+Grassmarket;Scotland
+Gravesend;Kent
+Grays;Essex
+Greasby;Merseyside
+Great Ayton;North Yorkshire
+Great Barr;West Midlands
+Great Dunmow;Essex
+Great Harwood;Lancashire
+Great Malvern;Worcestershire
+Great Missenden;Buckinghamshire
+Great Torrington;Devon
+Great Yarmouth;Norfolk
+Green Lanes;Greater London
+Greenford;Greater London
+Greenheys;Greater Manchester
+Greenisland;Northern Ireland
+Greenock;Scotland
+Greenwich;Greater London
+Gresford;Wales
+Grimsby;Lincolnshire
+Grove Park;Greater London
+Guernsey;Channel Islands
+Guildford;Surrey
+Guisborough;North Yorkshire
+Guiseley;West Yorkshire
+Gunnersbury;Greater London
+Gunnislake;Cornwall
+Hackbridge;Greater London
+Hackenthorpe;South Yorkshire
+Hackney;Greater London
+Hackney Wick;Greater London
+Haddenham;Buckinghamshire
+Haddington;Scotland
+Hadfield;Derbyshire
+Hadleigh;Essex
+Haggerston;Greater London
+Hagley;Worcestershire
+Hailsham;East Sussex
+Hale;Greater Manchester
+Halesowen;West Midlands
+Halesworth;Suffolk
+Halewood;Merseyside
+Halifax;West Yorkshire
+Hall Green;West Midlands
+Halstead;Essex
+Halton;West Yorkshire
+Haltwhistle;Northumberland
+Ham;Greater London
+Hamble;Hampshire
+Hamilton;Scotland
+Hammersmith;Greater London
+Hammersmith and Fulham;Greater London
+Hampstead;Greater London
+Hampstead Garden Suburb;Greater London
+Hampton;Greater London
+Hampton Court;Greater London
+Hampton Hill;Greater London
+Hampton Wick;Greater London
+Handforth;Cheshire
+Handsworth;West Midlands
+Hanham;Bristol
+Hanley;Staffordshire
+Hanwell;Greater London
+Happisburgh;Norfolk
+Harborne;West Midlands
+Harbourside;Bristol
+Harehills;West Yorkshire
+Haringey;Greater London
+Harlech;Wales
+Harlesden;Greater London
+Harlington;Bedfordshire
+Harlow;Essex
+Harpenden;Hertfordshire
+Harpurhey;Greater Manchester
+Harringay;Greater London
+Harrogate;North Yorkshire
+Harrow;Greater London
+Harrow on the Hill;Greater London
+Hartcliffe;Bristol
+Hartford;Cheshire
+Hartland;Devon
+Hartlepool;County Durham
+Hartley Wintney;Hampshire
+Harwich;Essex
+Haslemere;Surrey
+Haslingden;Lancashire
+Hassocks;West Sussex
+Hastings;East Sussex
+Hatch End;Greater London
+Hatfield;Hertfordshire
+Hathersage;Derbyshire
+Hattersley;Greater Manchester
+Havant;Hampshire
+Haverfordwest;Wales
+Haverhill;Suffolk
+Havering;Greater London
+Hawarden;Wales
+Hawes;North Yorkshire
+Hawick;Scotland
+Hawkhurst;Kent
+Hawkshead;Cumbria
+Haworth;West Yorkshire
+Haxby;North Yorkshire
+Hay-on-Wye;Herefordshire
+Haydock;Merseyside
+Hayes;Greater London
+Hayfield;Derbyshire
+Hayle;Cornwall
+Hayling Island;Hampshire
+Haymarket;Scotland
+Haywards Heath;West Sussex
+Hazel Grove;Greater Manchester
+Hazlemere;Buckinghamshire
+Headcorn;Kent
+Headingley;West Yorkshire
+Headington;Oxfordshire
+Heanor;Derbyshire
+Heath;Wales
+Heath Town;West Midlands
+Heathfield;East Sussex
+Heaton;Tyne and Wear
+Heaton Chapel;Greater Manchester
+Heaton Moor;Greater Manchester
+Hebburn;Tyne and Wear
+Hebden Bridge;West Yorkshire
+Heckington;Lincolnshire
+Heckmondwike;West Yorkshire
+Hednesford;Staffordshire
+Hedon;East Riding of Yorkshire
+Heeley;South Yorkshire
+Helensburgh;Scotland
+Helmsley;North Yorkshire
+Helsby;Cheshire
+Helston;Cornwall
+Hemel Hempstead;Hertfordshire
+Hemsby;Norfolk
+Hemsworth;West Yorkshire
+Hendon;Greater London
+Henfield;West Sussex
+Hengrove;Bristol
+Henleaze;Bristol
+Henley-in-Arden;Warwickshire
+Henley-on-Thames;Oxfordshire
+Hereford;Herefordshire
+Herm;Channel Islands
+Herne Bay;Kent
+Herne Hill;Greater London
+Hersham;Surrey
+Hertford;Hertfordshire
+Hertford Heath;Hertfordshire
+Heslington;North Yorkshire
+Hessle;East Riding of Yorkshire
+Heston;Greater London
+Heswall;Merseyside
+Hetton-le-Hole;Tyne and Wear
+Hexham;Northumberland
+Heysham;Lancashire
+Heywood;Greater Manchester
+High Wycombe;Buckinghamshire
+Higham Ferrers;Northamptonshire
+Higham Hill;Greater London
+Highams Park;Greater London
+Highbury;Greater London
+Highgate;Greater London
+Hightown;Merseyside
+Highworth;Wiltshire
+Hildenborough;Kent
+Hillhead;Scotland
+Hillingdon;Greater London
+Hillsborough;South Yorkshire
+Hilltown;Scotland
+Hinchley Wood;Surrey
+Hinckley;Leicestershire
+Histon;Cambridgeshire
+Hitchin;Hertfordshire
+Hither Green;Greater London
+Hockley;Essex
+Hoddesdon;Hertfordshire
+Holbeach;Lincolnshire
+Holbeck;West Yorkshire
+Holborn;Greater London
+Holloway;Greater London
+Holmes Chapel;Cheshire
+Holmfirth;West Yorkshire
+Holsworthy;Devon
+Holt;Norfolk
+Holyhead;Wales
+Holyrood;Scotland
+Holywell;Wales
+Holywood;Northern Ireland
+Holywood Road;Northern Ireland
+Homerton;Greater London
+Honiton;Devon
+Honor Oak;Greater London
+Hook;Hampshire
+Horden;County Durham
+Horfield;Bristol
+Horley;Surrey
+Horncastle;Lincolnshire
+Hornchurch;Greater London
+Horndean;Hampshire
+Hornsea;East Riding of Yorkshire
+Hornsey;Greater London
+Horsforth;West Yorkshire
+Horsham;West Sussex
+Horwich;Greater Manchester
+Hotwells;Bristol
+Houghton Regis;Bedfordshire
+Houghton-le-Spring;Tyne and Wear
+Hounslow;Greater London
+Hove;East Sussex
+Hoveton;Norfolk
+Howden;East Riding of Yorkshire
+Hoxton;Greater London
+Hoylake;Merseyside
+Hoyland;South Yorkshire
+Hucclecote;Gloucestershire
+Hucknall;Nottinghamshire
+Huddersfield;West Yorkshire
+Hull;East Riding of Yorkshire
+Hulme;Greater Manchester
+Hungerford;Berkshire
+Hunmanby;North Yorkshire
+Hunslet;West Yorkshire
+Hunstanton;Norfolk
+Hunters Bar;South Yorkshire
+Huntingdon;Cambridgeshire
+Huntly;Scotland
+Hurst;Berkshire
+Hurstpierpoint;West Sussex
+Huyton;Merseyside
+Hyde;Greater Manchester
+Hyde Park;West Yorkshire
+Hythe;Kent
+Ibstock;Leicestershire
+Ickenham;Greater London
+Iffley;Oxfordshire
+Ilchester;Somerset
+Ilford;Greater London
+Ilfracombe;Devon
+Ilkeston;Nottinghamshire
+Ilkley;West Yorkshire
+Ilminster;Somerset
+Immingham;Lincolnshire
+Ince-in-Makerfield;Greater Manchester
+Inkberrow;Worcestershire
+Inveraray;Scotland
+Inverkeithing;Scotland
+Inverleith;Scotland
+Inverness;Scotland
+Inverurie;Scotland
+Ipplepen;Devon
+Ipswich;Suffolk
+Irlam;Greater Manchester
+Ironbridge;Shropshire
+Irthlingborough;Northamptonshire
+Irvine;Scotland
+Islandmagee;Northern Ireland
+Isle of Dogs;Greater London
+Isle of Sheppey;Kent
+Isleworth;Greater London
+Islington;Greater London
+Iver;Buckinghamshire
+Ivybridge;Devon
+Jarrow;Tyne and Wear
+Jedburgh;Scotland
+Jericho;Oxfordshire
+Jersey;Channel Islands
+Jesmond;Tyne and Wear
+Jewellery Quarter;West Midlands
+Johnstone;Scotland
+Johnstown;Wales
+Joppa;Scotland
+Juniper Green;Scotland
+Keady;Northern Ireland
+Kearsley;Greater Manchester
+Keighley;West Yorkshire
+Keith;Scotland
+Kelham Island;South Yorkshire
+Kelso;Scotland
+Kelvinside;Scotland
+Kempston;Bedfordshire
+Kendal;Cumbria
+Kenilworth;Warwickshire
+Kennington;Greater London
+Kensal Green;Greater London
+Kensington;Greater London
+Kensington and Chelsea;Greater London
+Kentford;Suffolk
+Kentish Town;Greater London
+Kenton;Greater London
+Kesgrave;Suffolk
+Keston;Greater London
+Keswick;Cumbria
+Kettering;Northamptonshire
+Ketton;Rutland
+Kew;Greater London
+Keynsham;Somerset
+Keyworth;Nottinghamshire
+Kibworth;Leicestershire
+Kidderminster;Worcestershire
+Kidlington;Oxfordshire
+Kidsgrove;Staffordshire
+Kidwelly;Wales
+Kielder;Northumberland
+Kilburn;Greater London
+Kilkeel;Northern Ireland
+Killingworth;Tyne and Wear
+Kilmarnock;Scotland
+Kilnsea;East Riding of Yorkshire
+Kincorth;Scotland
+Kineton;Warwickshire
+King's Cross;Greater London
+King's Lynn;Norfolk
+Kinghorn;Scotland
+Kings Heath;West Midlands
+Kings Hill;Kent
+Kings Langley;Hertfordshire
+Kings Norton;West Midlands
+Kingsbridge;Devon
+Kingsbury;Greater London
+Kingsclere;Hampshire
+Kingstanding;West Midlands
+Kingsteignton;Devon
+Kingston;Greater London
+Kingston upon Hull;East Riding of Yorkshire
+Kingston upon Thames;Greater London
+Kingswinford;West Midlands
+Kingswood;Gloucestershire
+Kington;Herefordshire
+Kingussie;Scotland
+Kinross;Scotland
+Kinson;Dorset
+Kinver;Staffordshire
+Kirk Ella;East Riding of Yorkshire
+Kirk Michael;Isle of Man
+Kirkby;Merseyside
+Kirkby Lonsdale;Cumbria
+Kirkby Stephen;Cumbria
+Kirkby-in-Ashfield;Nottinghamshire
+Kirkbymoorside;North Yorkshire
+Kirkcaldy;Scotland
+Kirkcudbright;Scotland
+Kirkdale;Merseyside
+Kirkham;Lancashire
+Kirkintilloch;Scotland
+Kirkliston;Scotland
+Kirkstall;West Yorkshire
+Kirkwall;Scotland
+Knaresborough;North Yorkshire
+Knebworth;Hertfordshire
+Knighton;Wales
+Knightsbridge;Greater London
+Knightswood;Scotland
+Knock;Northern Ireland
+Knowle;West Midlands
+Knowsley;Merseyside
+Knutsford;Cheshire
+Lacock;Wiltshire
+Ladbroke Grove;Greater London
+Ladywood;West Midlands
+Lagmore;Northern Ireland
+Laindon;Essex
+Lambeth;Greater London
+Lambourn;Berkshire
+Lampeter;Wales
+Lanark;Scotland
+Lancaster;Lancashire
+Lancaster Gate;Greater London
+Lancing;West Sussex
+Langport;Somerset
+Langside;Scotland
+Lansdown;Somerset
+Largs;Scotland
+Lark Lane;Merseyside
+Larkhall;Somerset
+Larne;Northern Ireland
+Launceston;Cornwall
+Lavenham;Suffolk
+Lawrence Hill;Bristol
+Laxey;Isle of Man
+Leamington Spa;Warwickshire
+Leasowe;Merseyside
+Leatherhead;Surrey
+Lechlade;Gloucestershire
+Ledbury;Herefordshire
+Lee;Greater London
+Leeds;West Yorkshire
+Leek;Staffordshire
+Leicester;Leicestershire
+Leigh;Greater Manchester
+Leigh-on-Sea;Essex
+Leighton Buzzard;Bedfordshire
+Leiston;Suffolk
+Leith;Scotland
+Lelant;Cornwall
+Lemington;Tyne and Wear
+Lenham;Kent
+Lenton;Nottinghamshire
+Lenzie;Scotland
+Leominster;Herefordshire
+Lerwick;Scotland
+Letchworth;Hertfordshire
+Leven;Scotland
+Levenshulme;Greater Manchester
+Leverstock Green;Hertfordshire
+Lewes;East Sussex
+Lewisham;Greater London
+Leyburn;North Yorkshire
+Leyland;Lancashire
+Leyton;Greater London
+Leytonstone;Greater London
+Liberton;Scotland
+Lichfield;Staffordshire
+Lightwater;Surrey
+Ligoniel;Northern Ireland
+Limavady;Northern Ireland
+Limehouse;Greater London
+Lincoln;Lincolnshire
+Lindfield;West Sussex
+Lindisfarne;Northumberland
+Lingfield;Surrey
+Linlithgow;Scotland
+Linton;Cambridgeshire
+Liphook;Hampshire
+Lisburn;Northern Ireland
+Lisburn Road;Northern Ireland
+Liskeard;Cornwall
+Lisvane;Wales
+Litherland;Merseyside
+Little Chalfont;Buckinghamshire
+Little Lever;Greater Manchester
+Littlehampton;West Sussex
+Littleover;Derbyshire
+Littleport;Cambridgeshire
+Liverpool;Merseyside
+Livingston;Scotland
+Lizard;Cornwall
+Llandaff;Wales
+Llandeilo;Wales
+Llandovery;Wales
+Llandrindod Wells;Wales
+Llandudno;Wales
+Llanederyn;Wales
+Llanedeyrn;Wales
+Llanelli;Wales
+Llangefni;Wales
+Llangollen;Wales
+Llanidloes;Wales
+Llanishen;Wales
+Llanrumney;Wales
+Llantrisant;Wales
+Llantwit Major;Wales
+Llanwern;Wales
+Lochee;Scotland
+Lochgelly;Scotland
+Lochgilphead;Scotland
+Lockerbie;Scotland
+Lockleaze;Bristol
+Locks Heath;Hampshire
+London;Greater London
+Londonderry;Northern Ireland
+Long Ashton;Bristol
+Long Buckby;Northamptonshire
+Long Ditton;Surrey
+Long Eaton;Nottinghamshire
+Long Melford;Suffolk
+Long Sutton;Lincolnshire
+Longbenton;Tyne and Wear
+Longbridge;West Midlands
+Longhorsley;Northumberland
+Longridge;Lancashire
+Longsight;Greater Manchester
+Longton;Staffordshire
+Looe;Cornwall
+Lossiemouth;Scotland
+Lostwithiel;Cornwall
+Loughborough;Leicestershire
+Loughton;Essex
+Louth;Lincolnshire
+Low Fell;Tyne and Wear
+Lower Clapton;Greater London
+Lowestoft;Suffolk
+Lowton;Lancashire
+Ludgershall;Wiltshire
+Ludlow;Shropshire
+Lulworth;Dorset
+Lurgan;Northern Ireland
+Luton;Bedfordshire
+Lutterworth;Leicestershire
+Lydd;Kent
+Lydford;Devon
+Lydiate;Merseyside
+Lydney;Gloucestershire
+Lye;West Midlands
+Lyme Regis;Dorset
+Lyminge;Kent
+Lymington;Hampshire
+Lymm;Cheshire
+Lyndhurst;Hampshire
+Lynmouth;Devon
+Lynton;Devon
+Lytchett Matravers;Dorset
+Lytham St Annes;Lancashire
+Mablethorpe;Lincolnshire
+Macclesfield;Cheshire
+Macduff;Scotland
+Machynlleth;Wales
+Madeley;Shropshire
+Maesglas;Wales
+Maesteg;Wales
+Maghera;Northern Ireland
+Magherafelt;Northern Ireland
+Maghull;Merseyside
+Magor;Wales
+Maida Vale;Greater London
+Maidenhead;Berkshire
+Maidstone;Kent
+Maindee;Wales
+Maindy;Wales
+Maldon;Essex
+Malham;North Yorkshire
+Mallaig;Scotland
+Malmesbury;Wiltshire
+Malone;Northern Ireland
+Malpas;Cheshire
+Maltby;South Yorkshire
+Malton;North Yorkshire
+Malvern;Worcestershire
+Manchester;Greater Manchester
+Mangotsfield;Bristol
+Manor House;Greater London
+Manor Park;Greater London
+Manor Top;South Yorkshire
+Mansfield;Nottinghamshire
+Marazion;Cornwall
+March;Cambridgeshire
+Marchmont;Scotland
+Marden;Kent
+Margam;Wales
+Margate;Kent
+Market Bosworth;Leicestershire
+Market Drayton;Shropshire
+Market Harborough;Leicestershire
+Market Lavington;Wiltshire
+Market Rasen;Lincolnshire
+Market Weighton;East Riding of Yorkshire
+Markethill;Northern Ireland
+Marlborough;Wiltshire
+Marlow;Buckinghamshire
+Marple;Greater Manchester
+Marske-by-the-Sea;North Yorkshire
+Martlesham;Suffolk
+Martock;Somerset
+Maryhill;Scotland
+Marylebone;Greater London
+Maryport;Cumbria
+Masham;North Yorkshire
+Matlock;Derbyshire
+Matlock Bath;Derbyshire
+Mawgan Porth;Cornwall
+Maybole;Scotland
+Mayfair;Greater London
+Mayfield;East Sussex
+Meanwood;West Yorkshire
+Meersbrook;South Yorkshire
+Melbourne;Derbyshire
+Melksham;Wiltshire
+Melrose;Scotland
+Melton Mowbray;Leicestershire
+Menston;West Yorkshire
+Menzieshill;Scotland
+Meopham;Kent
+Merchant City;Scotland
+Mere;Wiltshire
+Meriden;West Midlands
+Merstham;Surrey
+Merthyr Tydfil;Wales
+Merthyr Vale;Wales
+Merton;Greater London
+Mevagissey;Cornwall
+Mexborough;South Yorkshire
+Mickleover;Derbyshire
+Middlesbrough;North Yorkshire
+Middleton;Greater Manchester
+Middleton-in-Teesdale;County Durham
+Middlewich;Cheshire
+Midhurst;West Sussex
+Midsomer Norton;Somerset
+Mildenhall;Suffolk
+Mile End;Greater London
+Miles Platting;Greater Manchester
+Milford;Surrey
+Milford Haven;Wales
+Mill Hill;Greater London
+Mill Hill East;Greater London
+Millom;Cumbria
+Milngavie;Scotland
+Milton Keynes;Buckinghamshire
+Minchinhampton;Gloucestershire
+Minehead;Somerset
+Minster;Kent
+Minworth;West Midlands
+Mirfield;West Yorkshire
+Mitcham;Greater London
+Mitcheldean;Gloucestershire
+Moffat;Scotland
+Moira;Northern Ireland
+Mold;Wales
+Molesey;Surrey
+Monifieth;Scotland
+Monkseaton;Tyne and Wear
+Monkwearmouth;Tyne and Wear
+Monmouth;Wales
+Montpelier;Bristol
+Montrose;Scotland
+Moortown;West Yorkshire
+Morden;Greater London
+Morecambe;Lancashire
+Moreton;Merseyside
+Moreton-in-Marsh;Gloucestershire
+Moretonhampstead;Devon
+Morley;West Yorkshire
+Morningside;Scotland
+Morpeth;Northumberland
+Morriston;Wales
+Mortimer;Berkshire
+Mortlake;Greater London
+Mosborough;South Yorkshire
+Moseley;West Midlands
+Moss Side;Greater Manchester
+Mossley;Greater Manchester
+Mossley Hill;Merseyside
+Moston;Greater Manchester
+Motherwell;Scotland
+Mottingham;Greater London
+Mottram;Greater Manchester
+Moulton;Northamptonshire
+Mount Florida;Scotland
+Mountsorrel;Leicestershire
+Mousehole;Cornwall
+Moy;Northern Ireland
+Much Hadham;Hertfordshire
+Much Wenlock;Shropshire
+Muirhouse;Scotland
+Mullion;Cornwall
+Mumbles;Wales
+Mundesley;Norfolk
+Murrayfield;Scotland
+Murton;County Durham
+Musselburgh;Scotland
+Muswell Hill;Greater London
+Nailsea;Somerset
+Nailsworth;Gloucestershire
+Nairn;Scotland
+Nantwich;Cheshire
+Narborough;Leicestershire
+Navenby;Lincolnshire
+Neasden;Greater London
+Neath;Wales
+Nechells;West Midlands
+Needham Market;Suffolk
+Neepsend;South Yorkshire
+Nelson;Lancashire
+Neston;Merseyside
+Nether Edge;South Yorkshire
+Netherley;Merseyside
+Netherthorpe;South Yorkshire
+Netherton;West Midlands
+Netley;Hampshire
+New Brighton;Merseyside
+New Cross;Greater London
+New Malden;Greater London
+New Mills;Derbyshire
+New Milton;Hampshire
+New Romney;Kent
+New Southgate;Greater London
+New Town;Scotland
+Newark-on-Trent;Nottinghamshire
+Newburgh;Scotland
+Newbury;Berkshire
+Newcastle;County Down
+Newcastle;Tyne and Wear
+Newcastle upon Tyne;Northumberland
+Newcastle-under-Lyme;Staffordshire
+Newent;Gloucestershire
+Newham;Greater London
+Newhaven;East Sussex
+Newington;Scotland
+Newlyn;Cornwall
+Newmarket;Suffolk
+Newport;Isle of Wight
+Newport;Wales
+Newport Pagnell;Buckinghamshire
+Newquay;Cornwall
+Newry;Northern Ireland
+Newton Abbot;Devon
+Newton Aycliffe;County Durham
+Newton Heath;Greater Manchester
+Newton Mearns;Scotland
+Newton Moor;Greater Manchester
+Newton Stewart;Scotland
+Newton-le-Willows;Merseyside
+Newtown;Wales
+Newtownabbey;Northern Ireland
+Newtownards;Northern Ireland
+Newtownbreda;Northern Ireland
+Newtownstewart;Northern Ireland
+Niddrie;Scotland
+Nine Elms;Greater London
+Norbiton;Greater London
+Normanton;West Yorkshire
+Norris Green;Merseyside
+North Berwick;Scotland
+North Ferriby;East Riding of Yorkshire
+North Hykeham;Lincolnshire
+North Shields;Tyne and Wear
+North Walsham;Norfolk
+Northallerton;North Yorkshire
+Northampton;Northamptonshire
+Northenden;Greater Manchester
+Northern Quarter;Greater Manchester
+Northfield;West Midlands
+Northfields;Greater London
+Northolt;Greater London
+Northwich;Cheshire
+Northwood;Greater London
+Norton;South Yorkshire
+Norwich;Norfolk
+Norwood;Greater London
+Notting Hill;Greater London
+Nottingham;Nottinghamshire
+Nuneaton;Warwickshire
+Nunhead;Greater London
+Oadby;Leicestershire
+Oakengates;Shropshire
+Oakham;Rutland
+Oakwood;Greater London
+Oatlands;Surrey
+Oban;Scotland
+Ockley;Surrey
+Odd Down;Somerset
+Odiham;Hampshire
+Okehampton;Devon
+Old Aberdeen;Scotland
+Old Swan;Merseyside
+Old Town;Scotland
+Old Trafford;Greater Manchester
+Oldbury;West Midlands
+Oldfield Park;Somerset
+Oldham;Greater Manchester
+Oldpark;Northern Ireland
+Ollerton;Nottinghamshire
+Olney;Buckinghamshire
+Olton;West Midlands
+Omagh;Northern Ireland
+Onchan;Isle of Man
+Ongar;Essex
+Openshaw;Greater Manchester
+Orford;Suffolk
+Ormeau;Northern Ireland
+Ormskirk;Lancashire
+Orpington;Greater London
+Orton;Cumbria
+Ossett;West Yorkshire
+Oswestry;Shropshire
+Otford;Kent
+Otley;West Yorkshire
+Ottery St Mary;Devon
+Oulton;West Yorkshire
+Oundle;Northamptonshire
+Ouseburn;Tyne and Wear
+Outwood;Surrey
+Oval;Greater London
+Overton;Hampshire
+Oxford;Oxfordshire
+Oxgangs;Scotland
+Oxhey;Hertfordshire
+Oxted;Surrey
+Oxton;Merseyside
+Paddington;Greater London
+Paddock Wood;Kent
+Padiham;Lancashire
+Padstow;Cornwall
+Pagham;West Sussex
+Paignton;Devon
+Painswick;Gloucestershire
+Paisley;Scotland
+Palmers Green;Greater London
+Pangbourne;Berkshire
+Papworth Everard;Cambridgeshire
+Par;Cornwall
+Park Hill;South Yorkshire
+Parkstone;Dorset
+Parson Cross;South Yorkshire
+Partick;Scotland
+Partington;Greater Manchester
+Patchway;Gloucestershire
+Pateley Bridge;North Yorkshire
+Patterdale;Cumbria
+Peacehaven;East Sussex
+Peckham;Greater London
+Pedmore;West Midlands
+Peebles;Scotland
+Peel;Isle of Man
+Pelsall;West Midlands
+Pembridge;Herefordshire
+Pembroke;Wales
+Penarth;Wales
+Penclawdd;Wales
+Pencoed;Wales
+Pendle;Lancashire
+Pendlebury;Greater Manchester
+Penge;Greater London
+Penicuik;Scotland
+Penistone;South Yorkshire
+Penketh;Cheshire
+Penkridge;Staffordshire
+Penn;Buckinghamshire
+Penrith;Cumbria
+Penryn;Cornwall
+Penshurst;Kent
+Pensnett;West Midlands
+Pentonville;Greater London
+Pentwyn;Wales
+Pentyrch;Wales
+Penwortham;Lancashire
+Penylan;Wales
+Penzance;Cornwall
+Perivale;Greater London
+Perranporth;Cornwall
+Perry Barr;West Midlands
+Pershore;Worcestershire
+Perth;Scotland
+Peterborough;Cambridgeshire
+Peterchurch;Herefordshire
+Peterculter;Scotland
+Peterhead;Scotland
+Peterlee;County Durham
+Petersfield;Hampshire
+Petersham;Greater London
+Petts Wood;Greater London
+Petworth;West Sussex
+Pewsey;Wiltshire
+Pickering;North Yorkshire
+Pillgwenlly;Wales
+Pilton;Scotland
+Pimlico;Greater London
+Pinner;Greater London
+Pirbright;Surrey
+Pitlochry;Scotland
+Pitsea;Essex
+Pitsmoor;South Yorkshire
+Plaistow;Greater London
+Plasnewydd;Wales
+Plumstead;Greater London
+Plymouth;Devon
+Plympton;Devon
+Plymstock;Devon
+Pocklington;East Riding of Yorkshire
+Polegate;East Sussex
+Poleglass;Northern Ireland
+Polesworth;Warwickshire
+Pollokshaws;Scotland
+Pollokshields;Scotland
+Polperro;Cornwall
+Polzeath;Cornwall
+Pomeroy;Northern Ireland
+Ponders End;Greater London
+Pontardawe;Wales
+Pontarddulais;Wales
+Pontcanna;Wales
+Pontefract;West Yorkshire
+Ponteland;Northumberland
+Pontyclun;Wales
+Pontypool;Wales
+Pontypridd;Wales
+Poole;Dorset
+Poplar;Greater London
+Porlock;Somerset
+Port Erin;Isle of Man
+Port Eynon;Wales
+Port Glasgow;Scotland
+Port Isaac;Cornwall
+Port St Mary;Isle of Man
+Port Sunlight;Merseyside
+Port Talbot;Wales
+Portadown;Northern Ireland
+Portaferry;Northern Ireland
+Porthcawl;Wales
+Porthleven;Cornwall
+Porthmadog;Wales
+Portishead;Somerset
+Portland;Dorset
+Portobello;Scotland
+Portree;Scotland
+Portrush;Northern Ireland
+Portsmouth;Hampshire
+Portstewart;Northern Ireland
+Possilpark;Scotland
+Potters Bar;Hertfordshire
+Potton;Bedfordshire
+Poulton-le-Fylde;Lancashire
+Poynton;Greater Manchester
+Poyntzpass;Northern Ireland
+Prenton;Merseyside
+Prescot;Merseyside
+Prestatyn;Wales
+Prestbury;Cheshire
+Presteigne;Wales
+Preston;Lancashire
+Prestwich;Greater Manchester
+Prestwick;Scotland
+Primrose Hill;Greater London
+Princes Park;Merseyside
+Princes Risborough;Buckinghamshire
+Princetown;Devon
+Prinsted;Hampshire
+Prudhoe;Northumberland
+Pudsey;West Yorkshire
+Pulborough;West Sussex
+Purfleet;Essex
+Purley;Greater London
+Purton;Wiltshire
+Putney;Greater London
+Pwllheli;Wales
+Quarry Bank;West Midlands
+Quedgeley;Gloucestershire
+Queen's Park;Greater London
+Queenborough;Kent
+Queensbury;Greater London
+Queensferry;Wales
+Quorn;Leicestershire
+Radcliffe;Greater Manchester
+Radcliffe on Trent;Nottinghamshire
+Radford;West Midlands
+Radlett;Hertfordshire
+Radstock;Somerset
+Radyr;Wales
+Rainham;Kent
+Rainhill;Merseyside
+Ramsbottom;Greater Manchester
+Ramsey;Cambridgeshire
+Ramsgate;Kent
+Ranmoor;South Yorkshire
+Ratho;Scotland
+Raunds;Northamptonshire
+Ravenglass;Cumbria
+Rawtenstall;Lancashire
+Rayleigh;Essex
+Rayners Lane;Greater London
+Raynes Park;Greater London
+Reading;Berkshire
+Redbourn;Hertfordshire
+Redbridge;Greater London
+Redcar;North Yorkshire
+Redcliffe;Bristol
+Reddish;Greater Manchester
+Redditch;Worcestershire
+Redhill;Surrey
+Redland;Bristol
+Redruth;Cornwall
+Reepham;Norfolk
+Reeth;North Yorkshire
+Reigate;Surrey
+Renfrew;Scotland
+Restalrig;Scotland
+Retford;Nottinghamshire
+Rhayader;Wales
+Rhiwbina;Wales
+Rhondda;Wales
+Rhosllanerchrugog;Wales
+Rhossili;Wales
+Rhyl;Wales
+Rhymney;Wales
+Richmond;Greater London
+Richmond;North Yorkshire
+Richmond upon Thames;Greater London
+Rickmansworth;Hertfordshire
+Ringmer;East Sussex
+Ringwood;Hampshire
+Ripley;Surrey
+Ripon;North Yorkshire
+Risca;Wales
+Riverside;Wales
+Roath;Wales
+Robertsbridge;East Sussex
+Robin Hood's Bay;North Yorkshire
+Rochdale;Greater Manchester
+Rochester;Kent
+Rock;Cornwall
+Rock Ferry;Merseyside
+Rodley;West Yorkshire
+Roehampton;Greater London
+Rogerstone;Wales
+Roker;Tyne and Wear
+Rolvenden;Kent
+Romford;Greater London
+Romiley;Greater Manchester
+Romsey;Hampshire
+Rose Hill;Greater London
+Rosemount;Scotland
+Ross-on-Wye;Herefordshire
+Rossett;Wales
+Rosyth;Scotland
+Rothbury;Northumberland
+Rotherfield;East Sussex
+Rotherham;South Yorkshire
+Rotherhithe;Greater London
+Rothesay;Scotland
+Rothwell;Northamptonshire
+Rottingdean;East Sussex
+Roundhay;West Yorkshire
+Rowlands Castle;Hampshire
+Rowley Regis;West Midlands
+Royston;Hertfordshire
+Royton;Greater Manchester
+Ruabon;Wales
+Rubery;Worcestershire
+Rugby;Warwickshire
+Rugeley;Staffordshire
+Ruislip;Greater London
+Rumney;Wales
+Runcorn;Cheshire
+Ruscombe;Berkshire
+Rushall;West Midlands
+Rushden;Northamptonshire
+Rusholme;Greater Manchester
+Rusthall;Kent
+Rustington;West Sussex
+Rutherglen;Scotland
+Ruthin;Wales
+Ryde;Isle of Wight
+Rye;East Sussex
+Ryhope;Tyne and Wear
+Saddleworth;Greater Manchester
+Saffron Walden;Essex
+Saintfield;Northern Ireland
+Salcombe;Devon
+Sale;Greater Manchester
+Salford;Greater Manchester
+Salford Quays;Greater Manchester
+Salisbury;Wiltshire
+Saltaire;West Yorkshire
+Saltash;Cornwall
+Saltburn-by-the-Sea;North Yorkshire
+Saltcoats;Scotland
+Saltley;West Midlands
+Saltney;Wales
+Sandbach;Cheshire
+Sandbanks;Dorset
+Sandhurst;Berkshire
+Sandown;Isle of Wight
+Sandwich;Kent
+Sandy;Bedfordshire
+Sandy Row;Northern Ireland
+Sark;Channel Islands
+Sawbridgeworth;Hertfordshire
+Sawston;Cambridgeshire
+Sawtry;Cambridgeshire
+Saxilby;Lincolnshire
+Saxmundham;Suffolk
+Scarborough;North Yorkshire
+Scotstoun;Scotland
+Scunthorpe;Lincolnshire
+Seaburn;Tyne and Wear
+Seacroft;West Yorkshire
+Seaford;East Sussex
+Seaforth;Merseyside
+Seaham;Tyne and Wear
+Seahouses;Northumberland
+Seascale;Cumbria
+Seaton;Devon
+Seaview;Isle of Wight
+Sedbergh;Cumbria
+Sedgefield;County Durham
+Sedgley;West Midlands
+Sefton Park;Merseyside
+Selby;North Yorkshire
+Selhurst;Greater London
+Selkirk;Scotland
+Selly Oak;West Midlands
+Selsey;West Sussex
+Settle;North Yorkshire
+Seven Sisters;Greater London
+Sevenoaks;Kent
+Shaftesbury;Dorset
+Shankill;Northern Ireland
+Shanklin;Isle of Wight
+Shantallow;Northern Ireland
+Shap;Cumbria
+Sharrow;South Yorkshire
+Sharston;Greater Manchester
+Shaw;Greater Manchester
+Shawlands;Scotland
+Sheerness;Kent
+Sheffield;South Yorkshire
+Shefford;Bedfordshire
+Sheldon;West Midlands
+Shenley;Hertfordshire
+Shepherd's Bush;Greater London
+Shepperton;Surrey
+Shepshed;Leicestershire
+Shepton Mallet;Somerset
+Sherborne;Dorset
+Sherburn;County Durham
+Sherburn in Elmet;North Yorkshire
+Shere;Surrey
+Sheringham;Norfolk
+Sherwood;Nottinghamshire
+Shieldfield;Tyne and Wear
+Shifnal;Shropshire
+Shildon;County Durham
+Shinfield;Berkshire
+Shipley;West Yorkshire
+Shipston-on-Stour;Warwickshire
+Shirehampton;Bristol
+Shirenewton;Wales
+Shirley;Greater London
+Shoeburyness;Essex
+Shoreditch;Greater London
+Shoreham;Kent
+Shoreham-by-Sea;West Sussex
+Short Strand;Northern Ireland
+Shotton;County Durham
+Shrewsbury;Shropshire
+Sidcup;Greater London
+Sidmouth;Devon
+Sighthill;Scotland
+Silloth;Cumbria
+Silvertown;Greater London
+Sittingbourne;Kent
+Skegness;Lincolnshire
+Skelmersdale;Lancashire
+Sketty;Wales
+Skewen;Wales
+Skipton;North Yorkshire
+Sleaford;Lincolnshire
+Slough;Berkshire
+Small Heath;West Midlands
+Smethwick;West Midlands
+Snodland;Kent
+Soham;Cambridgeshire
+Soho;Greater London
+Solihull;West Midlands
+Somerton;Somerset
+South Kensington;Greater London
+South Molton;Devon
+South Norwood;Greater London
+South Petherton;Somerset
+South Queensferry;Scotland
+South Shields;Tyne and Wear
+South Tottenham;Greater London
+South Wimbledon;Greater London
+South Woodham Ferrers;Essex
+Southall;Greater London
+Southam;Warwickshire
+Southampton;Hampshire
+Southbank;Greater London
+Southborough;Kent
+Southbourne;Dorset
+Southdown;Somerset
+Southend-on-Sea;Essex
+Southey Green;South Yorkshire
+Southfields;Greater London
+Southgate;Greater London
+Southmead;Bristol
+Southport;Lancashire
+Southsea;Hampshire
+Southside;Scotland
+Southville;Bristol
+Southwark;Greater London
+Southwater;West Sussex
+Southwell;Nottinghamshire
+Southwick;West Sussex
+Southwold;Suffolk
+Sowerby Bridge;West Yorkshire
+Spalding;Lincolnshire
+Sparkbrook;West Midlands
+Sparkhill;West Midlands
+Speke;Merseyside
+Speldhurst;Kent
+Spencers Wood;Berkshire
+Spennymoor;County Durham
+Spilsby;Lincolnshire
+Splott;Wales
+Spondon;Derbyshire
+Springburn;Scotland
+Springfield;Northern Ireland
+Sprowston;Norfolk
+Spurn;East Riding of Yorkshire
+St Agnes;Cornwall
+St Albans;Hertfordshire
+St Andrews;Scotland
+St Aubin;Channel Islands
+St Austell;Cornwall
+St Davids;Wales
+St Fagans;Wales
+St Helens;Merseyside
+St Helier;Channel Islands
+St Ives;Cambridgeshire
+St John's Wood;Greater London
+St Just;Cornwall
+St Leonards;East Sussex
+St Margarets;Greater London
+St Mellons;Wales
+St Neots;Cambridgeshire
+St Pancras;Greater London
+St Pauls;Bristol
+St Peter Port;Channel Islands
+St Werburghs;Bristol
+Stafford;Staffordshire
+Staines;Surrey
+Staithes;North Yorkshire
+Stakeford;Northumberland
+Stalbridge;Dorset
+Stalybridge;Greater Manchester
+Stamford;Lincolnshire
+Standish;Greater Manchester
+Stanford-le-Hope;Essex
+Stanhope;County Durham
+Stanley;County Durham
+Stanmore;Greater London
+Stannington;South Yorkshire
+Staple Hill;Bristol
+Stapleford;Nottinghamshire
+Stapleton;Bristol
+Staveley;Derbyshire
+Stechford;West Midlands
+Stepney;Greater London
+Stepps;Scotland
+Stevenage;Hertfordshire
+Steyning;West Sussex
+Stilton;Cambridgeshire
+Stirchley;West Midlands
+Stirling;Scotland
+Stobswell;Scotland
+Stockbridge;Hampshire
+Stockport;Greater Manchester
+Stocksbridge;South Yorkshire
+Stockton Heath;Cheshire
+Stockton-on-Tees;County Durham
+Stockwell;Greater London
+Stockwood;Bristol
+Stoke;Staffordshire
+Stoke Newington;Greater London
+Stoke Poges;Buckinghamshire
+Stoke-on-Trent;Staffordshire
+Stokes Croft;Bristol
+Stokesley;North Yorkshire
+Stone;Staffordshire
+Stonehaven;Scotland
+Stoneleigh;Greater London
+Stony Stratford;Buckinghamshire
+Stornoway;Scotland
+Storrington;West Sussex
+Stotfold;Bedfordshire
+Stourbridge;West Midlands
+Stourport-on-Severn;Worcestershire
+Stow-on-the-Wold;Gloucestershire
+Stowmarket;Suffolk
+Strabane;Northern Ireland
+Strand;Greater London
+Strandtown;Northern Ireland
+Strangford;Northern Ireland
+Stranmillis;Northern Ireland
+Stranraer;Scotland
+Stratford;Greater London
+Stratford-upon-Avon;Warwickshire
+Strathaven;Scotland
+Strathfoyle;Northern Ireland
+Stratton;Cornwall
+Strawberry Hill;Greater London
+Streatham;Greater London
+Street;Somerset
+Streetly;West Midlands
+Strensall;North Yorkshire
+Stretford;Greater Manchester
+Stroud;Gloucestershire
+Stubbington;Hampshire
+Studland;Dorset
+Studley;Warwickshire
+Sturminster Newton;Dorset
+Sudbury;Suffolk
+Summertown;Oxfordshire
+Sunbury;Surrey
+Sunderland;Tyne and Wear
+Sunningdale;Berkshire
+Sunninghill;Berkshire
+Surbiton;Greater London
+Surrey Quays;Greater London
+Sutton;Greater London
+Sutton Coldfield;West Midlands
+Sutton-in-Ashfield;Nottinghamshire
+Sutton-on-the-Forest;North Yorkshire
+Swadlincote;Derbyshire
+Swaffham;Norfolk
+Swallowfield;Berkshire
+Swanage;Dorset
+Swanley;Kent
+Swansea;Wales
+Sway;Hampshire
+Swindon;Wiltshire
+Swinton;Greater Manchester
+Swiss Cottage;Greater London
+Sydenham;Greater London
+Syston;Leicestershire
+Tadcaster;North Yorkshire
+Tadley;Hampshire
+Tadworth;Surrey
+Tain;Scotland
+Talgarth;Wales
+Tamworth;Staffordshire
+Tandragee;Northern Ireland
+Tarporley;Cheshire
+Tarvin;Cheshire
+Taunton;Somerset
+Tavistock;Devon
+Tayport;Scotland
+Teddington;Greater London
+Teignmouth;Devon
+Telford;Shropshire
+Telscombe;East Sussex
+Temple;Greater London
+Temple Fortune;Greater London
+Temple Meads;Bristol
+Tenbury Wells;Worcestershire
+Tenby;Wales
+Tenterden;Kent
+Tetbury;Gloucestershire
+Tettenhall;West Midlands
+Tewkesbury;Gloucestershire
+Thame;Oxfordshire
+Thames Ditton;Surrey
+Thamesmead;Greater London
+Thatcham;Berkshire
+Thaxted;Essex
+The Park;Nottinghamshire
+Theale;Berkshire
+Thetford;Norfolk
+Thirsk;North Yorkshire
+Thornaby;North Yorkshire
+Thornbury;Gloucestershire
+Thornby;Northamptonshire
+Thorne;South Yorkshire
+Thornton;Merseyside
+Thornton Heath;Greater London
+Thornton-Cleveleys;Lancashire
+Thorpe;Surrey
+Thrapston;Northamptonshire
+Thurrock;Essex
+Thursby;Cumbria
+Thurso;Scotland
+Ticehurst;East Sussex
+Tickhill;South Yorkshire
+Tideswell;Derbyshire
+Tidworth;Wiltshire
+Tilbury;Essex
+Tile Hill;West Midlands
+Tilehurst;Berkshire
+Timperley;Greater Manchester
+Tintagel;Cornwall
+Tipton;West Midlands
+Tisbury;Wiltshire
+Titanic Quarter;Northern Ireland
+Titchfield;Hampshire
+Tiverton;Devon
+Tobermory;Scotland
+Toddington;Bedfordshire
+Todmorden;West Yorkshire
+Tollcross;Scotland
+Tolworth;Surrey
+Tonbridge;Kent
+Tongwynlais;Wales
+Tonypandy;Wales
+Tonyrefail;Wales
+Tooting;Greater London
+Tooting Bec;Greater London
+Torpoint;Cornwall
+Torquay;Devon
+Torry;Scotland
+Toryglen;Scotland
+Totland;Isle of Wight
+Totley;South Yorkshire
+Totnes;Devon
+Tottenham;Greater London
+Totterdown;Bristol
+Totteridge;Greater London
+Totton;Hampshire
+Tow Law;County Durham
+Towcester;Northamptonshire
+Tower Hamlets;Greater London
+Toxteth;Merseyside
+Trafford Park;Greater Manchester
+Tranmere;Merseyside
+Tredegar;Wales
+Treharris;Wales
+Tremorfa;Wales
+Treorchy;Wales
+Tring;Hertfordshire
+Trinity;Scotland
+Troon;Scotland
+Trowbridge;Wiltshire
+Truro;Cornwall
+Tuebrook;Merseyside
+Tufnell Park;Greater London
+Tulse Hill;Greater London
+Tunbridge Wells;Kent
+Tunstall;Staffordshire
+Turf Lodge;Northern Ireland
+Turnham Green;Greater London
+Turriff;Scotland
+Tuxford;Nottinghamshire
+Twerton;Somerset
+Twickenham;Greater London
+Twinbrook;Northern Ireland
+Twyford;Berkshire
+Tyldesley;Greater Manchester
+Tynemouth;Tyne and Wear
+Uckfield;East Sussex
+Ullapool;Scotland
+Ullswater;Cumbria
+Ulverston;Cumbria
+Undy;Wales
+Uplands;Wales
+Upminster;Greater London
+Upper Clapton;Greater London
+Upper Norwood;Greater London
+Uppermill;Greater Manchester
+Uppingham;Rutland
+Upton;Dorset
+Upton upon Severn;Worcestershire
+Urmston;Greater Manchester
+Usk;Wales
+Uttoxeter;Staffordshire
+Uxbridge;Greater London
+Vauxhall;Greater London
+Ventnor;Isle of Wight
+Verwood;Dorset
+Victoria;Greater London
+Victoria Park;Greater Manchester
+Virginia Water;Surrey
+Waddon;Greater London
+Wadebridge;Cornwall
+Wadhurst;East Sussex
+Wadsley;South Yorkshire
+Wakefield;West Yorkshire
+Walcot;Somerset
+Walkden;Greater Manchester
+Walker;Tyne and Wear
+Walkley;South Yorkshire
+Wallasey;Merseyside
+Wallingford;Oxfordshire
+Wallington;Greater London
+Wallsend;Tyne and Wear
+Walmer;Kent
+Walsall;West Midlands
+Waltham Abbey;Essex
+Waltham Cross;Hertfordshire
+Waltham Forest;Greater London
+Walthamstow;Greater London
+Walton;Merseyside
+Walton-on-Thames;Surrey
+Walton-on-the-Naze;Essex
+Walworth;Greater London
+Wandsworth;Greater London
+Wandsworth Common;Greater London
+Wanstead;Greater London
+Wantage;Oxfordshire
+Wapping;Greater London
+Ware;Hertfordshire
+Wareham;Dorset
+Warfield;Berkshire
+Warkworth;Northumberland
+Warminster;Wiltshire
+Warrenpoint;Northern Ireland
+Warrington;Cheshire
+Warsash;Hampshire
+Warwick;Warwickshire
+Washingborough;Lincolnshire
+Washington;Tyne and Wear
+Washwood Heath;West Midlands
+Watchet;Somerset
+Waterbeach;Cambridgeshire
+Waterloo;Greater London
+Waterlooville;Hampshire
+Waterside;Northern Ireland
+Watford;Hertfordshire
+Wath upon Dearne;South Yorkshire
+Watlington;Oxfordshire
+Watton;Norfolk
+Wavertree;Merseyside
+Wealdstone;Greater London
+Wedmore;Somerset
+Wednesbury;West Midlands
+Wednesfield;West Midlands
+Weedon Bec;Northamptonshire
+Wellesbourne;Warwickshire
+Welling;Greater London
+Wellingborough;Northamptonshire
+Wellington;Shropshire
+Wells;Somerset
+Wells-next-the-Sea;Norfolk
+Welshpool;Wales
+Welton;Lincolnshire
+Welwyn;Hertfordshire
+Welwyn Garden City;Hertfordshire
+Wem;Shropshire
+Wembley;Greater London
+Wendover;Buckinghamshire
+Weobley;Herefordshire
+West Bridgford;Nottinghamshire
+West Bromwich;West Midlands
+West Byfleet;Surrey
+West Denton;Tyne and Wear
+West Derby;Merseyside
+West Ealing;Greater London
+West End;Scotland
+West Ham;Greater London
+West Hampstead;Greater London
+West Kirby;Merseyside
+West Malling;Kent
+West Mersea;Essex
+West Molesey;Surrey
+West Norwood;Greater London
+West Wickham;Greater London
+Westbourne;West Sussex
+Westbury;Wiltshire
+Westbury-on-Trym;Bristol
+Westcliff-on-Sea;Essex
+Wester Hailes;Scotland
+Westerham;Kent
+Westhill;Scotland
+Westhoughton;Greater Manchester
+Westminster;Greater London
+Weston;Somerset
+Weston Green;Surrey
+Weston-super-Mare;Somerset
+Westonzoyland;Somerset
+Wetherby;North Yorkshire
+Weybridge;Surrey
+Weymouth;Dorset
+Whaley Bridge;Derbyshire
+Whalley;Lancashire
+Whalley Range;Greater Manchester
+Wheathampstead;Hertfordshire
+Wheatley;Oxfordshire
+Whetstone;Greater London
+Whickham;Tyne and Wear
+Whissendine;Rutland
+Whitburn;Scotland
+Whitby;North Yorkshire
+Whitchurch;Hampshire
+White City;Greater London
+Whiteabbey;Northern Ireland
+Whitechapel;Greater London
+Whitefield;Greater Manchester
+Whitehall;Scotland
+Whitehaven;Cumbria
+Whitehead;Northern Ireland
+Whiteinch;Scotland
+Whiteley Village;Surrey
+Whitkirk;West Yorkshire
+Whitley Bay;Tyne and Wear
+Whitnash;Warwickshire
+Whitstable;Kent
+Whittlesey;Cambridgeshire
+Whitton;Greater London
+Wick;Scotland
+Wickford;Essex
+Widcombe;Somerset
+Widnes;Cheshire
+Wigan;Greater Manchester
+Wigmore;Herefordshire
+Wigston;Leicestershire
+Wigton;Cumbria
+Willenhall;West Midlands
+Willerby;East Riding of Yorkshire
+Willesden;Greater London
+Willington;County Durham
+Wilmslow;Cheshire
+Wilton;Wiltshire
+Wimbledon;Greater London
+Wimborne Minster;Dorset
+Wincanton;Somerset
+Winchcombe;Gloucestershire
+Winchelsea;East Sussex
+Winchester;Hampshire
+Winchmore Hill;Greater London
+Windermere;Cumbria
+Windlesham;Surrey
+Windsor;Berkshire
+Wingham;Kent
+Winkfield;Berkshire
+Winnersh;Berkshire
+Winscombe;Somerset
+Winsford;Cheshire
+Winslow;Buckinghamshire
+Winterbourne;Bristol
+Winton;Dorset
+Wirksworth;Derbyshire
+Wirral;Merseyside
+Wisbech;Cambridgeshire
+Wishaw;Scotland
+Witham;Essex
+Withernsea;East Riding of Yorkshire
+Withington;Greater Manchester
+Withington Village;Greater Manchester
+Withywood;Bristol
+Witley;Surrey
+Witney;Oxfordshire
+Wiveliscombe;Somerset
+Wivenhoe;Essex
+Woburn;Bedfordshire
+Woking;Surrey
+Wokingham;Berkshire
+Wollaston;West Midlands
+Wollescote;West Midlands
+Wolsingham;County Durham
+Wolverhampton;West Midlands
+Wolverton;Buckinghamshire
+Wombourne;Staffordshire
+Wombwell;South Yorkshire
+Wooburn;Buckinghamshire
+Wood Green;Greater London
+Woodbridge;Suffolk
+Woodford;Greater London
+Woodhall Spa;Lincolnshire
+Woodhouse;West Yorkshire
+Woodley;Berkshire
+Woodseats;South Yorkshire
+Woodside;Scotland
+Woodstock;Oxfordshire
+Woolacombe;Devon
+Wooler;Northumberland
+Woolton;Merseyside
+Woolwich;Greater London
+Wootton;Bedfordshire
+Wootton Bassett;Wiltshire
+Worcester;Worcestershire
+Worcester Park;Surrey
+Wordsley;West Midlands
+Workington;Cumbria
+Worksop;Nottinghamshire
+Wormit;Scotland
+Worsbrough;South Yorkshire
+Worsley;Greater Manchester
+Worthing;West Sussex
+Wortley;West Yorkshire
+Wotton-under-Edge;Gloucestershire
+Wragby;Lincolnshire
+Wrexham;Wales
+Wrotham;Kent
+Wroxham;Norfolk
+Wycombe;Buckinghamshire
+Wye;Kent
+Wylde Green;West Midlands
+Wymondham;Norfolk
+Wythall;Worcestershire
+Wythenshawe;Greater Manchester
+Yardley;West Midlands
+Yarm;North Yorkshire
+Yarmouth;Isle of Wight
+Yate;Gloucestershire
+Yateley;Hampshire
+Yatton;Somerset
+Yaxley;Cambridgeshire
+Yeadon;West Yorkshire
+Yelverton;Devon
+Yeovil;Somerset
+Yoker;Scotland
+York;North Yorkshire
+Ystradgynlais;Wales
+Zennor;Cornwall

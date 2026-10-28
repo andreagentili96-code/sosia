@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Models: NOT part of the repository, downloaded by the user (scripts/download_models.py)
+models/
+modelli/
+*.bin
+*.safetensors
+*.onnx
+*.pt
+*.pth
+spm.model
+tokenizer.json
+
+# Local Sosia data: encrypted maps, logs, outputs of real documents
+*.sosia
+*.finto.*
+*.tmp
+*.log
+*.jsonl
+sessioni/
+.env
+.env.*
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

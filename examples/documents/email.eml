@@ -1,0 +1,51 @@
+From: Salvatore Caruso <salvatore.caruso88@example.org>
+To: Mario Rossi <m.rossi78@example.com>
+Subject: Incontro per la pratica Caruso =?utf-8?b?4oCT?= Rossi
+Date: Wed, 14 Oct 2026 09:12:00 +0200
+Message-ID: <20261014091200.4411@mail.example.org>
+Received: from mail.example.org (192.0.2.44) by mx.example.net
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4443763482060446404=="
+
+--===============4443763482060446404==
+Content-Type: multipart/alternative;
+ boundary="===============5370396912182622525=="
+
+--===============5370396912182622525==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ciao Mario,
+
+ti confermo l'appuntamento di gioved=C3=AC 22 ottobre 2026 alle 15:00 in Via =
+Etnea 301, Catania.
+Porta il documento d'identit=C3=A0 (carta d'identit=C3=A0 n. CA48213PL) e la =
+visura.
+Il bonifico di =E2=82=AC 2.400,00 =C3=A8 partito ieri dal mio conto IT43 Y030=
+ 6905 0201 0000 0012 345=E2=80=A6 scusa, quello =C3=A8 il tuo IBAN!
+Il mio numero nuovo =C3=A8 +39 349 123 4567.
+
+A presto,
+Salvatore Caruso
+
+--===============5370396912182622525==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Ciao <b>Mario</b>,</p><p>ti confermo l'appuntamento di gioved=
+=C3=AC 22 ottobre 2026 alle 15:00 in Via Etnea 301, Catania.</p><p>Scrivimi a=
+ <a href=3D"mailto:salvatore.caruso88@example.org">salvatore.caruso88@example=
+.org</a>.</p><p>Salvatore Caruso</p></body></html>
+
+--===============5370396912182622525==--
+
+--===============4443763482060446404==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="nota_Rossi.txt"
+MIME-Version: 1.0
+
+Nota per Mario Rossi: codice fiscale RSSMRA78C14H501O
+
+--===============4443763482060446404==--

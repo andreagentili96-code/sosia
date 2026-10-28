@@ -45,9 +45,9 @@ test = ["pytest>=8", "openpyxl>=3.1", "starlette>=0.37", "uvicorn>=0.29", "httpx
 all = ["sosia[proxy,pdf,xlsx,ner-gliner]"]
 
 [project.urls]
-Homepage = "https://github.com/OWNER/sosia"
-Issues = "https://github.com/OWNER/sosia/issues"
-Changelog = "https://github.com/OWNER/sosia/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/andreagentili96-code/sosia"
+Issues = "https://github.com/andreagentili96-code/sosia/issues"
+Changelog = "https://github.com/andreagentili96-code/sosia/blob/main/CHANGELOG.md"
 
 [project.scripts]
 sosia = "sosia.cli:principale"

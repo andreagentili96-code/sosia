@@ -4,7 +4,7 @@
 
 **Reversible, realistic pseudonymization for LLMs — your data never leaves, your answers come back real.**
 
-[![CI](https://github.com/OWNER/sosia/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/sosia/actions/workflows/ci.yml)
+[![CI](https://github.com/andreagentili96-code/sosia/actions/workflows/ci.yml/badge.svg)](https://github.com/andreagentili96-code/sosia/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml)
 ![Runs locally on CPU](https://img.shields.io/badge/runs-100%25%20local%20%C2%B7%20CPU-brightgreen.svg)
@@ -76,7 +76,7 @@ reversible surrogates for Italian and English documents in front of LLM APIs.
 ## Quickstart
 
 ```bash
-git clone https://github.com/OWNER/sosia.git && cd sosia
+git clone https://github.com/andreagentili96-code/sosia.git && cd sosia
 pip install -e ".[proxy,pdf,xlsx]"
 python examples/quickstart.py
 ```

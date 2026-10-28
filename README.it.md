@@ -4,7 +4,7 @@
 
 **Pseudonimizzazione realistica e reversibile per gli LLM: i tuoi dati non escono, le risposte tornano vere.**
 
-[![CI](https://github.com/OWNER/sosia/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/sosia/actions/workflows/ci.yml)
+[![CI](https://github.com/andreagentili96-code/sosia/actions/workflows/ci.yml/badge.svg)](https://github.com/andreagentili96-code/sosia/actions/workflows/ci.yml)
 [![Licenza: Apache-2.0](https://img.shields.io/badge/licenza-Apache--2.0-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml)
 ![Tutto in locale su CPU](https://img.shields.io/badge/gira-100%25%20in%20locale%20%C2%B7%20CPU-brightgreen.svg)
@@ -80,7 +80,7 @@ e reversibili per documenti italiani e inglesi davanti alle API degli LLM.
 ## Avvio rapido
 
 ```bash
-git clone https://github.com/OWNER/sosia.git && cd sosia
+git clone https://github.com/andreagentili96-code/sosia.git && cd sosia
 pip install -e ".[proxy,pdf,xlsx]"
 python examples/quickstart.py
 ```
